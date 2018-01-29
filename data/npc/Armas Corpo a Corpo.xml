@@ -7,18 +7,30 @@
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="crossbow,2455,150;bow,2456,130" />
 		<parameter key="shop_buyable" value="
-			short sword,2406,230;
-			sabre,2385,460;
-			bone sword,2450,690;
-			sword,2376,920;
-			carlin sword,2395,1150;
-			katana,2412,1380;
-			longsword,2397,1610;
-			serpent sword,2409,1840;
-			scimitar,2459,2070;
-			jagged sword,8602,2530;
-			templar scytheblade,3963,2990;
-			spike sword,2383,3500;
+			sabre,2385,35;
+			bone sword,2450,75;
+			sword,2376,85;
+			katana,2412,100;
+			longsword,2397,160;
+			scimitar,2459,450;
+			jagged sword,8602,600;
+			templar scytheblade,3963,800;
+			serpent sword,2409,1600;
+			spike sword,2383,2000;
+			axe,2386,20;
+			golden sickle,2418,50;
+			hatchet,2388,85;
+			steel axe,8601,600;
+			orcish axe,2428,1000;
+			barbarian axe,2429,1600;
+			bone club,2449,20;
+			mace,2398,90;
+			swampling club,20104,120;
+			iron hammer,2422,200;
+			daramian mace,2439,350;
+			battle hammer,2417,500;
+			banana staff,2966,1000;
+			life preserver,20093,1600;
 		" />
 	</parameters>
 </npc>
