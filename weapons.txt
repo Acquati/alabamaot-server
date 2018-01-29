@@ -1,0 +1,88 @@
+Clavas:
+7 Club
+9 Studded Club - Troll
+12 Bone Club - Goblin
+16 Mace - Minotaur/Rotworm
+24 Battle Hammer - Tortoise
+35 Dragon Hammer -Dragon
+35 Double Axe -Dragon
+
+Espadas:
+7 Wooden - Sword
+10 Rapier - Frost Troll
+12 Sabre - Amazon
+14 Sword - Minotaur/Rotworm
+17 Longsword - Elf
+18 Serpent Sword - Dragon
+26 Broadsword -Dragon
+
+Machados:
+10 Hand Axe
+12 Axe - Minotaur
+15 Hatchet - Dwarf
+23 Orcish Axe - Orc Rider
+25 Battle Axe - Dwarf Soldier
+
+Rods:
+7 Snakebite Rod
+13 Moonlight Rod - Necromancer(adicionar)
+19 Necrotic Rod - Fire Devil
+26 Terra Rod - Bonelord
+33 Hailstorm Rod - Priestess
+
+Wands:
+6 Wand of Vortex
+13 Wand of Dragonbreath - Fire Devil
+19 Wand of Decay - Orc Shaman
+26 Wand of Cosmic Energy - Minotaur Mage/Elf Arcanist
+33 Wand of Inferno - Dragon
+
+Distância:
+Small Stone - Goblin
+Spear - Troll
+Crossbow - Dwarf Soldier
+Bow - Elf Scout
+Arrow - Elf
+Bolt - Dwarf Soldier
+
+Criaturas:
+Dwarf
+Dwarf Soldier
+Dwarf Guard
+Dwarf Geomancer
+
+Elf
+Elf Scout
+Elf Arcanist
+Elf Overseer
+
+Cyclops
+Cyclops Drones
+Cyclops Smith
+
+Goblin
+Goblin Scavenger
+Goblin Assassin
+Tortoise
+Dragon Hatchling
+Dragon Lord Hatchling
+Dragon
+Dragon Lord
+
+Orc
+Orc Spearman
+Orc Shaman
+Orc Warrior
+Orc Rider
+Orc Leader
+
+Rat
+Cave Rat
+Troll
+Frost Troll
+Rotworm
+Carrion Worm
+Amazon
+Valkyrie
+Fire Devil
+Priestess

@@ -1,0 +1,210 @@
+crie uma intancia ec2 ubuntu 16.04
+
+crie um par de chaves
+
+mover a key para a pasta ssh:
+mv ~/Downloads/otserver.pem ~/.ssh
+
+alterando as permições da key:
+chmod 400 ~/.ssh/otserver.pem
+
+depois de criar a instancia aws, selecionar o security group -> Inbound -> Edit -> Add Rule
+SSH: 22 Source: Anywhere
+Type: HTTP Source: Anywhere
+Custom TCP: 7171 Source: Anywhere
+Custom TCP: 7172 Source: Anywhere
+
+conectar na máquina aws:
+ssh -i ~/.ssh/otserver.pem ubuntu@34.216.231.197
+
+sudo apt-get -y update
+sudo apt-get -y upgrade
+sudo apt-get install -y language-pack-pt
+
+sudo apt-get install -y zsh
+sudo chsh -s $(which zsh)
+sudo apt-get install -y fonts-powerline
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+/*
+caso queira adicionar um segundo usuário para o otserver
+adduser otserver
+sudo visudo
+(add privileges to otserver user)
+su otserver
+cd
+
+sudo apt-get install -y zsh
+sudo chsh -s $(which zsh)
+sudo apt-get install -y fonts-powerline
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+zsh
+ */
+
+apache2
+sudo apt-get -y install apache2
+sudo systemctl enable apache2
+sudo systemctl start apache2
+sudo systemctl status apache2
+
+mysql
+senha mysql k9vwbeez:
+sudo apt-get -y install mysql-server mysql-client
+sudo systemctl status mysql
+
+/*
+caso queira criar a database sem o phpmyadmin
+mysql -u root -p
+create database otserver;
+mysql -u root -p otserver < premium.sql
+*/
+
+php
+sudo apt-get -y update
+sudo apt-get install -y php-mysql php-curl php-json php-cgi  php libapache2-mod-php
+php -v
+
+phpmyadmin
+sudo apt-get install -y phpmyadmin
+sudo vi /etc/apache2/apache2.conf
+add at the end: Include /etc/phpmyadmin/apache.conf
+/* sudo apt-get install -y php-mbstring php-mbstring php-gettext */
+sudo systemctl restart apache2
+/* Se quiser alterar a url do phpmyadmin */
+sudo nano /etc/apache2/conf-enabled/phpmyadmin.conf
+sudo systemctl restart apache2
+You need to add apache2 config : 
+sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+sudo a2enconf phpmyadmin.conf
+sudo service apache2 reload
+
+http://34.216.231.197/phpmyadmin/
+adicione uma conta de usuário para o otserver
+Add user account
+User name: otserver
+Host name: seleciona -> local
+Palavra-passe: k9vwbeez
+check:
+Create database with same name and grant all privileges.
+Check all
+executar
+https://github.com/otland/forgottenserver/blob/master/schema.sql
+select RAW on git hub
+copia -> SQL -> cola -> Executar	
+
+#compiling tfs
+sudo apt-get -y install luajit
+sudo apt-get -y install git cmake build-essential liblua5.2-dev libgmp3-dev libmysqlclient-dev libboost-system-dev libboost-iostreams-dev libpugixml-dev
+sudo apt-get -y update
+
+forgottenserver
+git clone --recursive https://github.com/otland/forgottenserver.git
+cd forgottenserver
+rm -rf .git
+sudo mkdir build && cd build
+sudo cmake ..
+sudo make
+
+or
+
+otserver tibia 8.7
+git clone --recursive https://github.com/opentibia/server.git otserver
+cd otserver
+sudo mkdir build && cd build
+sudo cmake ..
+sudo make
+
+sudo mv tfs ..
+cd ..
+cp config.lua.dist config.lua
+sudo vi config.lua
+
+-- Connection Config
+-- NOTE: maxPlayers set to 0 means no limit
+ip = "34.216.231.197"
+-- MySQL
+mysqlHost = "127.0.0.1"
+mysqlUser = "otserver"
+mysqlPass = "k9vwbeez"
+mysqlDatabase = "otserver"
+mysqlPort = 3306
+mysqlSock = ""
+
+
+sudo sh tfs.sh
+
+#installing ZnoteAAC
+https://github.com/Znote/ZnoteAAC/blob/master/README.md
+cd /var/www/html
+sudo rm index.html
+sudo git clone https://github.com/Znote/ZnoteAAC.git
+cd ZnoteAAC
+sudo mv * ../
+cd ..
+
+visit 34.216.231.197
+import the schema to the TFS database in phpmyadmin
+http://34.216.231.197/phpmyadmin/
+select the otserver database and insert the SQL
+edit config.php with correct mysql connection details
+sudo vi config.php
+
+// phpmyadmin username for OT server: (DONT USE "root" if ur hosting to public.).
+        $config['sqlUser'] = 'otserver';
+
+        // phpmyadmin password for OT server:
+        $config['sqlPassword'] = 'k9vwbeez';
+
+        // The database name to connect to. (This is usually same as username).
+        $config['sqlDatabase'] = 'otserver';
+
+        // Hostname is usually localhost or 127.0.0.1.
+        $config['sqlHost'] = '127.0.0.1';
+
+colocar o index.php na frente do index.html:
+cd /etc/apache2/mods-enabled 
+sudo vi dir.conf
+sudo /etc/init.d/apache2 restart
+
+Connect
+sudo apt-get install libglu1-mesa:i386
+cd ~/Documents/otserver/pyipchanger && python PyIpChanger.py
+python PyIpChanger.py
+
+Tranferência de Arquivos Local <=> EC2
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama.otbm ubuntu@34.216.231.197:~/ &&
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama-house.xml ubuntu@34.216.231.197:~/ &&
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama-spawn.xml ubuntu@34.216.231.197:~/
+sudo rm ~/forgottenserver/data/world/alabama.otbm &&
+sudo rm ~/forgottenserver/data/world/alabama-house.xml &&
+sudo rm ~/forgottenserver/data/world/alabama-spawn.xml &&
+sudo mv ~/alabama.otbm ~/forgottenserver/data/world &&
+sudo mv ~/alabama-house.xml ~/forgottenserver/data/world &&
+sudo mv ~/alabama-spawn.xml ~/forgottenserver/data/world
+sudo apt-get install -y unrar
+unrar x otpremium.rar
+gunzip nomedoarquivo.zip
+
+Screen
+sudo apt-get install -y screen
+
+cria:
+screen -S tfs
+
+entra:
+screen -r -x tfs
+
+sai sem fechar:
+ctrl + A + D
+
+lista:
+screen -ls
+
+Edit first itens:
+sudo vi ~/forgottenserver/data/creaturescripts/scripts/firstitems.lua
+
+Config the web page:
+sudo vi /var/www/html/config.php
+
+Config the game:
+sudo vi ~/forgottenserver/config.lua

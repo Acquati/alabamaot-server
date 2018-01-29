@@ -1,0 +1,32 @@
+Ctrl + Q = fecha o Remere's map editor
+Ctrl + W = deixa o floor a baixo invisível
+Ctrl + E = deixa o mapa invisível
+Ctrl + T = abre o editor de cidades (serve para editar o nome da cidade e aonde fica o templo “local onde o personagem renasce após a morte”)
+Ctrl + Y = vai para frente (ex: após usar Ctrl + Z)
+Ctrl + O = procurar para abrir um arquivo (open file)
+Ctrl + P = abre as propriedades do mapa
+Ctrl + S = salva o mapa
+Ctrl + F = procura itens (pela id ou nome)
+Ctrl + G = vai para o local escolhido (definido por: X/Y/Z
+Ctrl + Z = volta uma coisa
+Ctrl + C = copia o local selecionado
+Ctrl + V = cola o local selecionado (após usar Ctrl + C)
+Ctrl + N = cria um novo projeto
+Q = deixa o floor abaixo mais escuro
+W = abre palette de waypoints
+E = desativa visão de casa
+R = abre palette de RAW
+T = abre palette de Terrain
+I = abre palette de items
+O = marca em vermelho os locais onde o personagem não consegue passar
+S = aparece ou desaparece o Spawn time flame (fogo que faz monstros renascerem)
+D = abre palette doodad
+F = faz os animais desaparecerem
+G = Deixa objetos transparentes
+H = abre house palette
+J = abre o itens selecionado no RAW palette (usando id ou nome)
+C = abre palette de creatures
+V = marca em azul todos os detalhes do mapa
+M = abre o mini mapa de navegação
+Ctrl - Permite selecionar vários itens individuais ao mesmo tempo
+Ctrl + Shit - Permite selecionar grandes áreas em diferentes posições
