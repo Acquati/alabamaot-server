@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Armas Corpo a Corpo" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="146" head="77" body="115" legs="76" feet="114" addons="1" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="crossbow,2455,150;bow,2456,130" />
+		<parameter key="shop_buyable" value="
+			short sword,2406,230;
+			sabre,2385,460;
+			bone sword,2450,690;
+			sword,2376,920;
+			carlin sword,2395,1150;
+			katana,2412,1380;
+			longsword,2397,1610;
+			serpent sword,2409,1840;
+			scimitar,2459,2070;
+			jagged sword,8602,2530;
+			templar scytheblade,3963,2990;
+			spike sword,2383,3500;
+		" />
+	</parameters>
+</npc>
