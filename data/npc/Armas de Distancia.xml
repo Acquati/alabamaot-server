@@ -7,7 +7,7 @@
 		<parameter key="shop_sellable" value="
 			crossbow,2455,150;
 			bow,2456,130;
-			spear,2389,3;
+			spear,2389,3
 		" />
 		<parameter key="shop_buyable" value="
 			arrow,2544,3;
@@ -31,7 +31,7 @@
 			tarsal arrow,15648,6;
 			throwing star,2399,42;
 			poison arrow,2545,18;
-			assassin star,7368,100;
+			assassin star,7368,100
 		" />
 	</parameters>
 </npc>

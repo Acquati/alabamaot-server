@@ -13,7 +13,7 @@
 			brass helmet,2460,30;
 			scale armor,2483,75;
 			brass armor,2465,150;
-			copper shield,2530,50;
+			copper shield,2530,50
 		" />
 		<parameter key="shop_buyable" value="
 			leather armor,2467,35;
@@ -33,7 +33,7 @@
 			dwarven shield,2525,500;
 			studded legs,2468,50;
 			chain legs,2648,80;
-			brass legs,2478,195;
+			brass legs,2478,195
 		" />
 	</parameters>
 </npc>
