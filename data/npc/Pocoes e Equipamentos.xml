@@ -13,7 +13,7 @@
 		<parameter key="shop_buyable" value="
 			strong health potion,7588,100;
 			strong mana potion,7589,80;
-			great health potion,190;
+			great health potion,7591,190;
 			great mana potion,7590,120;
 			health potion,7618,45;
 			mana potion,7620,50;
