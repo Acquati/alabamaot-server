@@ -20,7 +20,7 @@ function onLogin(player)
 			doPlayerAddItem(player, 2182, 1) -- snakebite rod
 			doAddContainerItem(bag, 2384, 1) -- rapier
 		elseif getPlayerVocation(player) == 3 then
-			doPlayerAddItem(player, 2389, 20) -- spears
+			doPlayerAddItem(player, 2389, 10) -- spears
 			doAddContainerItem(bag, 2384, 1) -- rapier
 		elseif getPlayerVocation(player) == 4 then
 			doPlayerAddItem(player, 2380, 1) -- hand axe
