@@ -5,13 +5,12 @@ local commonItems =
 	10297, -- shield of care
 	2649, -- leather legs
 	2642, -- sandals
-	2050, -- torch
-	2173 -- amulet of loss
+	2050 -- torch
 }
 
 function onLogin(player)
 	if player:getLastLoginSaved() == 0 then
-		local bag = doPlayerAddItem(player, 2000, 1)
+		local bag = doPlayerAddItem(player, 10522, 1)
 
 		if getPlayerVocation(player) == 1 then
 			doPlayerAddItem(player, 2190, 1) -- wand of vortex
