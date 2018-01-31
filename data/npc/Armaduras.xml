@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Armaduras" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="146" head="115" body="94" legs="115" feet="79" addons="2" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			brass shield,2511,25;
+			viking helmet,2473,66;
+			plate shield,2510,45;
+			chain armor,2464,70;
+			brass helmet,2460,30;
+			scale armor,2483,75;
+			brass armor,2465,150;
+			copper shield,2530,50;
+		" />
+		<parameter key="shop_buyable" value="
+			leather armor,2467,35;
+			chain armor,2464,200;
+			brass armor,2465,450;
+			plate armor,2463,1200;
+			chain helmet,2458,52;
+			brass helmet,2460,120;
+			viking helmet,2473,265;
+			iron helmet,2459,390;
+			steel helmet,2457,580;
+			wooden shield,2512,15;
+			studded shield,2526,50;
+			brass shield,2511,65;
+			plate shield,2510,125;
+			steel shield,2509,240;
+			dwarven shield,2525,500;
+			studded legs,2468,50;
+			chain legs,2648,80;
+			brass legs,2478,195;
+		" />
+	</parameters>
+</npc>

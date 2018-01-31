@@ -5,14 +5,19 @@
 
 	<parameters>
 		<parameter key="module_shop" value="1" />
-		<parameter key="shop_sellable" value="crossbow,2455,150;bow,2456,130" />
+		<parameter key="shop_sellable" value="
+			sword,2376,25;
+			mace,2398,30;
+			hatchet,2388,25;
+			poison dagger,2411,50;
+		" />
 		<parameter key="shop_buyable" value="
 			sabre,2385,35;
 			bone sword,2450,75;
 			sword,2376,85;
 			katana,2412,100;
 			longsword,2397,160;
-			scimitar,2459,450;
+			scimitar,2419,450;
 			jagged sword,8602,600;
 			templar scytheblade,3963,800;
 			serpent sword,2409,1600;
@@ -29,7 +34,7 @@
 			iron hammer,2422,200;
 			daramian mace,2439,350;
 			battle hammer,2417,500;
-			banana staff,2966,1000;
+			banana staff,3966,1000;
 			life preserver,20093,1600;
 		" />
 	</parameters>
