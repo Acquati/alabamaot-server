@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Wands e Rods" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="325" head="0" body="7" legs="9" feet="18" addons="3" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			wand of dragonbreath,2191,200;
+			wand of decay,2188,1000;
+			wand of draconia,8921,1500;
+			wand of cosmic energy,2189,2000;
+			wand of inferno,2187,3000;
+			wand of starstorm,8920,3600;
+			wand of voodoo,8922,4400;
+			moonlight rod,2186,200;
+			necrotic rod,2185,1000;
+			northwind rod,8911,1500;
+			terra rod,2181,2000;
+			hailstorm rod,2183,3000;
+			springsprout rod,8912,3600;
+			underworld rod,8910,4400
+		" />
+		<parameter key="shop_buyable" value="
+			wand of vortex,2190,500;
+			wand of dragonbreath,2191,1000;
+			wand of decay,2188,5000;
+			wand of draconia,8921,7500;
+			wand of cosmic energy,2189,10000;
+			wand of inferno,2187,15000;
+			wand of starstorm,8920,18000;
+			wand of voodoo,8922,22000;
+			snakebite rod,2182,500;
+			moonlight rod,2186,1000;
+			necrotic rod,2185,5000;
+			northwind rod,8911,7500;
+			terra rod,2181,10000;
+			hailstorm rod,2183,15000;
+			springsprout rod,8912,18000;
+			underworld rod,8910,22000
+		" />
+	</parameters>
+</npc>

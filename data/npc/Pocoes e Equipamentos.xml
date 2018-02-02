@@ -31,7 +31,8 @@
 			yellow backpack,1999,20;
 			red backpack,2000,20;
 			blue backpack,2002,20;
-			amulet of loss,2173,45000
+			amulet of loss,2173,45000;
+			pick,2553,50
 		" />
 	</parameters>
 </npc>

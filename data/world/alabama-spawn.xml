@@ -1,18 +1,74 @@
 <?xml version="1.0"?>
 <spawns>
-	<spawn centerx="978" centery="1021" centerz="6" radius="1" />
+	<spawn centerx="1013" centery="1035" centerz="5" radius="1">
+		<npc name="Wands e Rods" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1021" centerz="6" radius="1">
+		<npc name="Correios" x="1" y="-1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1013" centery="1035" centerz="6" radius="1">
+		<npc name="Runas" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="988" centerz="7" radius="1">
+		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1012" centery="990" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="998" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1047" centery="998" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1004" centery="999" centerz="7" radius="1">
+		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1016" centery="1003" centerz="7" radius="1">
 		<npc name="Armas Corpo a Corpo" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1003" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="981" centery="1006" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1038" centery="1014" centerz="7" radius="1">
 		<npc name="Armaduras" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="977" centery="1018" centerz="7" radius="1" />
+	<spawn centerx="973" centery="1016" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="1018" centerz="7" radius="1">
+		<npc name="Banco" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1030" centerz="7" radius="1">
+		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1037" centery="1034" centerz="7" radius="1">
 		<npc name="Armas de Distancia" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="7" radius="1">
 		<npc name="Pocoes e Equipamentos" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1054" centery="1035" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="1037" centerz="7" radius="1" />
+	<spawn centerx="1044" centery="1044" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="995" centery="1047" centerz="7" radius="1">
+		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1005" centery="1047" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1049" centerz="7" radius="1">
+		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1009" centery="1054" centerz="7" radius="1">
+		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1057" centery="958" centerz="8" radius="1">
 		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
