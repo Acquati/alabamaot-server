@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="Banco" script="data/npc/scripts/bank.lua" walkinterval="25" floorchange="0" access="5" >
+<npc name="Banco" script="data/npc/scripts/Banco.lua" walkinterval="25" floorchange="0" access="5" >
 <health now="150" max="150"/>
 <look type="289" head="79" body="114" legs="114" feet="0" addons="3"/>
 
