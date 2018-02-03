@@ -20,6 +20,7 @@
 			chain armor,2464,200;
 			brass armor,2465,450;
 			plate armor,2463,1200;
+			noble armor,2486,8000;
 			chain helmet,2458,52;
 			brass helmet,2460,120;
 			viking helmet,2473,265;
@@ -31,6 +32,7 @@
 			plate shield,2510,125;
 			steel shield,2509,240;
 			dwarven shield,2525,500;
+			bonelord shield,2518,7000;
 			studded legs,2468,50;
 			chain legs,2648,80;
 			brass legs,2478,195

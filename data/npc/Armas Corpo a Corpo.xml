@@ -15,27 +15,26 @@
 			sabre,2385,35;
 			bone sword,2450,75;
 			sword,2376,85;
-			katana,2412,100;
+			carlin sword,2395,118;
 			longsword,2397,160;
-			scimitar,2419,450;
-			jagged sword,8602,600;
-			templar scytheblade,3963,800;
-			serpent sword,2409,1600;
-			spike sword,2383,2000;
+			jagged sword,8602,500;
+			serpent sword,2409,6000;
+			spike sword,2383,8000;
+			crimson sword,7385,610;
+			twin hooks,11309,1000;
 			axe,2386,20;
-			golden sickle,2418,50;
 			hatchet,2388,85;
-			steel axe,8601,600;
-			orcish axe,2428,1000;
-			barbarian axe,2429,1600;
+			steel axe,8601,500;
+			battle axe,2378,235;
+			barbarian axe,2429,590;
+			obsidian lance,2425,3000;
+			Zaoan halberd,11323,1200;
 			bone club,2449,20;
 			mace,2398,90;
-			swampling club,20104,120;
-			iron hammer,2422,200;
-			daramian mace,2439,350;
-			battle hammer,2417,500;
-			banana staff,3966,1000;
-			life preserver,20093,1600
+			battle hammer,2417,350;
+			morning star,2394,430;
+			clerical mace,2426,540;
+			warhammer,2391,10000
 		" />
 	</parameters>
 </npc>
