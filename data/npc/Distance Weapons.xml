@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="Armas de Distancia" script="default.lua" walkinterval="2000" floorchange="0">
+<npc name="Distance Weapons" script="default.lua" walkinterval="2000" floorchange="0">
 	<health now="100" max="100" />
 	<look type="129" head="94" body="90" legs="119" feet="119" addons="3" />
 	<parameters>

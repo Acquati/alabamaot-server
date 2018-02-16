@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <spawns>
 	<spawn centerx="1013" centery="1035" centerz="5" radius="1">
-		<npc name="Wands e Rods" x="0" y="0" z="5" spawntime="60" />
+		<npc name="Wands And Rods" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="978" centery="1021" centerz="6" radius="1">
-		<npc name="Correios" x="1" y="-1" z="6" spawntime="60" />
+	<spawn centerx="979" centery="1020" centerz="6" radius="1">
+		<npc name="Mail" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="6" radius="1">
-		<npc name="Runas" x="0" y="0" z="6" spawntime="60" />
+		<npc name="Runes" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="990" centery="988" centerz="7" radius="1">
 		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
@@ -25,7 +25,7 @@
 		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1016" centery="1003" centerz="7" radius="1">
-		<npc name="Armas Corpo a Corpo" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Melee Weapons" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1033" centery="1003" centerz="7" radius="1">
 		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
@@ -34,22 +34,22 @@
 		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1038" centery="1014" centerz="7" radius="1">
-		<npc name="Armaduras" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Armors" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="973" centery="1016" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="977" centery="1018" centerz="7" radius="1">
-		<npc name="Banco" x="1" y="-1" z="7" spawntime="60" />
+	<spawn centerx="978" centery="1018" centerz="7" radius="1">
+		<npc name="Bank" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="998" centery="1030" centerz="7" radius="1">
 		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1037" centery="1034" centerz="7" radius="1">
-		<npc name="Armas de Distancia" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Distance Weapons" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="7" radius="1">
-		<npc name="Pocoes e Equipamentos" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Potions And Equipments" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1054" centery="1035" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
@@ -135,7 +135,7 @@
 	</spawn>
 	<spawn centerx="824" centery="985" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="0" />
+		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="865" centery="985" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
@@ -181,7 +181,7 @@
 	</spawn>
 	<spawn centerx="824" centery="990" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Killer Rabbit" x="1" y="0" z="8" spawntime="0" />
+		<monster name="Killer Rabbit" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="911" centery="992" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
@@ -255,8 +255,14 @@
 	<spawn centerx="1080" centery="999" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1115" centery="999" centerz="8" radius="1">
+		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1058" centery="1000" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1112" centery="1000" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="842" centery="1001" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -336,6 +342,9 @@
 	<spawn centerx="1073" centery="1006" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1106" centery="1006" centerz="8" radius="1">
+		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="841" centery="1007" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -347,6 +356,9 @@
 	</spawn>
 	<spawn centerx="1087" centery="1007" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1124" centery="1007" centerz="8" radius="1">
+		<monster name="Dawnfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="865" centery="1008" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -461,7 +473,7 @@
 	</spawn>
 	<spawn centerx="846" centery="1015" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="0" />
+		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="886" centery="1015" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -648,7 +660,7 @@
 	</spawn>
 	<spawn centerx="817" centery="1034" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="0" />
+		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1076" centery="1034" centerz="8" radius="1">
 		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
@@ -657,7 +669,7 @@
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="833" centery="1035" centerz="8" radius="1">
-		<monster name="Killer Rabbit" x="-1" y="0" z="8" spawntime="0" />
+		<monster name="Killer Rabbit" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1089" centery="1035" centerz="8" radius="1">
