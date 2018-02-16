@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="I Buy Cheese" script="default.lua" walkinterval="2000" floorchange="0">
+<npc name="I Buy Insects" script="default.lua" walkinterval="2000" floorchange="0">
 	<health now="100" max="100" />
-	<look type="128" head="80" body="0" legs="94" feet="102" addons="2" />
+	<look type="154" head="82" body="101" legs="123" feet="94" addons="3" />
 
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
-			cheese,2696,5;
+			cheese,2696,6;
 			worm,3976,1;
 			cookie,2687,2
 		" />
 		<parameter key="shop_buyable" value="
-			cheese,2696,6;
+			cheese,2696,12;
 			worm,3976,1;
 			cookie,2687,5;
 			fishing rod,2580,140
