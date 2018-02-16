@@ -208,3 +208,6 @@ sudo vi /var/www/html/config.php
 
 Config the game:
 sudo vi ~/forgottenserver/config.lua
+
+conectar na máquina aws:
+ssh -i ~/.ssh/otserver.pem ubuntu@34.216.231.197
