@@ -40,6 +40,7 @@
 		<item name="health potion" chance="1780" />
 		<item name="mana potion" chance="2520" />
 		<item name="insectoid eggs" chance="10830" />
-		<item name="marsh stalker feather" chance="8610" />
+		<item name="damselfly wing" chance="9000" />
+		<item name="damselfly eye" chance="7000" />
 	</loot>
 </monster>
