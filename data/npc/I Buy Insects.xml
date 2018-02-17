@@ -6,15 +6,14 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
-			cheese,2696,6;
-			worm,3976,1;
-			cookie,2687,2
+			cherry,2679,1;
+			sandcrawler shell,11373,20;
+			honeycomb,5902,40;
+			damselfly wing,19738,20;
+			damselfly eye,19743,25
 		" />
 		<parameter key="shop_buyable" value="
-			cheese,2696,12;
-			worm,3976,1;
-			cookie,2687,5;
-			fishing rod,2580,140
+			cherry,2679,1
 		" />
 	</parameters>
 </npc>

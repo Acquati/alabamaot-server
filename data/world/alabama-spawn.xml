@@ -718,17 +718,17 @@
 	<spawn centerx="1162" centery="1024" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1034" centery="1026" centerz="8" radius="1">
-		<npc name="I Buy Insects" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1175" centery="1025" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1127" centery="1026" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1175" centery="1026" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="836" centery="1027" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1034" centery="1027" centerz="8" radius="1">
+		<npc name="I Buy Insects" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1080" centery="1027" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
@@ -738,10 +738,6 @@
 	</spawn>
 	<spawn centerx="1105" centery="1027" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1141" centery="1027" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="-1" z="8" spawntime="0" />
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1158" centery="1027" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
@@ -764,8 +760,8 @@
 	<spawn centerx="1163" centery="1030" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1175" centery="1030" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1176" centery="1030" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="832" centery="1031" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -800,6 +796,9 @@
 	<spawn centerx="1131" centery="1032" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1173" centery="1032" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="823" centery="1033" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -812,8 +811,8 @@
 	<spawn centerx="1151" centery="1033" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1168" centery="1033" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1167" centery="1033" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="817" centery="1034" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -831,6 +830,9 @@
 	<spawn centerx="1148" centery="1034" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1163" centery="1034" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="833" centery="1035" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -840,9 +842,6 @@
 	</spawn>
 	<spawn centerx="1134" centery="1035" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1163" centery="1035" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1177" centery="1035" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
@@ -854,7 +853,7 @@
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1152" centery="1037" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="822" centery="1038" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -863,82 +862,64 @@
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1159" centery="1039" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1172" centery="1039" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1176" centery="1039" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1177" centery="1040" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1156" centery="1040" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1152" centery="1041" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1153" centery="1041" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1159" centery="1043" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1174" centery="1043" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1178" centery="1043" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1173" centery="1043" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1144" centery="1044" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1148" centery="1044" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1170" centery="1044" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1163" centery="1046" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1168" centery="1046" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1178" centery="1046" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1160" centery="1047" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1173" centery="1047" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1166" centery="1047" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1149" centery="1049" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1174" centery="1047" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1168" centery="1049" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1149" centery="1048" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1173" centery="1051" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1170" centery="1048" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1179" centery="1051" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1178" centery="1049" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1161" centery="1052" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1166" centery="1052" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1170" centery="1052" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1175" centery="1052" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1180" centery="1052" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1162" centery="1052" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1153" centery="1053" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1157" centery="1053" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1158" centery="1053" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1170" centery="1055" centerz="8" radius="1">
-		<monster name="Lady Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1170" centery="1054" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1166" centery="1056" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />

@@ -211,3 +211,10 @@ sudo vi ~/forgottenserver/config.lua
 
 conectar na máquina aws:
 ssh -i ~/.ssh/otserver.pem ubuntu@34.216.231.197
+
+Map Editor
+sudo apt-get update
+sudo apt-get install git cmake libboost-system-dev libboost-thread-dev libglu1-mesa-dev libwxgtk3.0-dev libarchive-dev freeglut3-dev libxmu-dev libxi-dev
+git clone https://github.com/hjnilsson/rme.git
+mkdir rme/build && cd rme/build && cmake .. && make -j `nproc`
+./rme
