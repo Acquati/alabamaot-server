@@ -35,7 +35,8 @@
 			bonelord shield,2518,7000;
 			studded legs,2468,50;
 			chain legs,2648,80;
-			brass legs,2478,195
+			brass legs,2478,195;
+			leather boots,2643,10
 		" />
 	</parameters>
 </npc>

@@ -873,17 +873,29 @@
 	<spawn centerx="1153" centery="1041" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1034" centery="1042" centerz="8" radius="1">
+		<npc name="I Buy Troll Hair" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1159" centery="1043" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1173" centery="1043" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1057" centery="1044" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1089" centery="1044" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1144" centery="1044" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1148" centery="1044" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1053" centery="1046" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1163" centery="1046" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
@@ -894,8 +906,20 @@
 	<spawn centerx="1178" centery="1046" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1056" centery="1047" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1085" centery="1047" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1173" centery="1047" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1059" centery="1048" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1093" centery="1048" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1149" centery="1049" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
@@ -903,14 +927,35 @@
 	<spawn centerx="1168" centery="1049" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1090" centery="1050" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1053" centery="1051" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1058" centery="1051" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1173" centery="1051" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1179" centery="1051" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1261" centery="1051" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1277" centery="1051" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1087" centery="1052" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1162" centery="1052" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="1053" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1153" centery="1053" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
@@ -918,10 +963,550 @@
 	<spawn centerx="1158" centery="1053" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1266" centery="1053" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1053" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1170" centery="1054" centerz="8" radius="1">
 		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1069" centery="1056" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1166" centery="1056" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1056" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1277" centery="1056" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1080" centery="1057" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="1058" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1076" centery="1058" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1266" centery="1058" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1272" centery="1058" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1042" centery="1059" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1104" centery="1060" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1060" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1277" centery="1060" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="1061" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1212" centery="1061" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1224" centery="1061" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1144" centery="1062" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1101" centery="1063" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1106" centery="1063" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="1063" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1170" centery="1063" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1269" centery="1063" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1081" centery="1064" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="1064" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1173" centery="1064" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1177" centery="1064" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1235" centery="1064" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="1065" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1065" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1142" centery="1065" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1149" centery="1065" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1102" centery="1066" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1139" centery="1066" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1180" centery="1066" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1252" centery="1066" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1173" centery="1067" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1105" centery="1068" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1110" centery="1068" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="1068" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1177" centery="1069" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1069" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1069" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1070" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1141" centery="1070" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1064" centery="1071" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1071" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="1071" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1220" centery="1071" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1130" centery="1072" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1193" centery="1072" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1072" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1162" centery="1073" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1210" centery="1073" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1242" centery="1073" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1074" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="1074" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1189" centery="1074" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="1074" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1074" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="1075" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1153" centery="1075" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1192" centery="1075" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1249" centery="1075" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="1076" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1195" centery="1076" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1224" centery="1076" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1076" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1077" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="1077" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1095" centery="1077" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="1077" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1240" centery="1077" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1077" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1190" centery="1078" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1230" centery="1078" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1245" centery="1078" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1079" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1132" centery="1079" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1185" centery="1079" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1194" centery="1079" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1269" centery="1079" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1079" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1067" centery="1080" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1102" centery="1080" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="1080" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1153" centery="1080" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="1080" centerz="8" radius="1">
+		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1205" centery="1080" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1249" centery="1080" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1114" centery="1081" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1128" centery="1081" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="1081" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1221" centery="1081" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1226" centery="1081" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="1082" centerz="8" radius="1">
+		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1072" centery="1082" centerz="8" radius="1">
+		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1096" centery="1082" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1232" centery="1082" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1240" centery="1082" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1185" centery="1084" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1245" centery="1084" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1085" centery="1085" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1260" centery="1085" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1080" centery="1086" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="1086" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1152" centery="1086" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1178" centery="1086" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1223" centery="1086" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1229" centery="1086" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1088" centery="1088" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1091" centery="1088" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1077" centery="1089" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1168" centery="1089" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1210" centery="1089" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1090" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1195" centery="1090" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1191" centery="1091" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1091" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1091" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1080" centery="1092" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1092" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1092" centerz="8" radius="1">
+		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1145" centery="1092" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1163" centery="1092" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1135" centery="1093" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="1093" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1179" centery="1093" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="1093" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1199" centery="1093" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1166" centery="1094" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1190" centery="1094" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1242" centery="1095" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1256" centery="1095" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1269" centery="1095" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1095" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1292" centery="1095" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1095" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="1096" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1196" centery="1096" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1120" centery="1097" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1165" centery="1097" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1210" centery="1097" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1246" centery="1097" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1108" centery="1098" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1239" centery="1098" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1124" centery="1099" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="1099" centerz="8" radius="1">
+		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1288" centery="1099" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1296" centery="1099" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1179" centery="1100" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1118" centery="1101" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1194" centery="1101" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1227" centery="1101" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1241" centery="1102" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1245" centery="1102" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1138" centery="1103" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="1104" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="1104" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1104" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1150" centery="1104" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1155" centery="1104" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1205" centery="1104" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1223" centery="1104" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1228" centery="1104" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1263" centery="1104" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1231" centery="1105" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="1106" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="1107" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1149" centery="1107" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1221" centery="1107" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1108" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1191" centery="1108" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1198" centery="1108" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1146" centery="1109" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1216" centery="1109" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1225" centery="1109" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1229" centery="1109" centerz="8" radius="1">
+		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1150" centery="1111" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1153" centery="1111" centerz="8" radius="1">
+		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 </spawns>

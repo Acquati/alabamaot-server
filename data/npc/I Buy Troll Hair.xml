@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Troll Hair" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="151" head="114" body="115" legs="96" feet="76" addons="0" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			studded club,2448,10;
+			silver amulet,2170,50;
+			wood,5901,50;
+			marlin,7963,800;
+			fishing rod,2580,40;
+			troll green,2805,25;
+			swamp grass,10603,20;
+			bunch of troll hair,10606,30;
+			frosty ear of a troll,10565,30;
+			trollroot,12471,50;
+			stealth ring,2165,200;
+			war hammer,2391,1200;
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,5;
+			fish,2667,4;
+			spear,2389,9;
+			worm,3976,1;
+			fishing rod,2580,140;
+			arrow,2544,3;
+		" />
+	</parameters>
+</npc>

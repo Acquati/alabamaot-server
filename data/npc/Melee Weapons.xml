@@ -6,9 +6,24 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
+			sabre,2385,12;
+			bone sword,2450,20;
 			sword,2376,25;
+			carlin sword,2395,40;
+			longsword,2397,51;
+			serpent sword,2409,900;
+			spike sword,2383,1000;
+			twin hooks,11309,500;
 			mace,2398,30;
 			hatchet,2388,25;
+			battle axe,2378,80;
+			barbarian axe,2429,185;
+			obsidian lance,2425,500;
+			Zaoan halberd,11323,500;
+			battle hammer,2417,120;
+			morning star,2394,100;
+			clerical mace,2426,170;
+			warhammer,2391,1200;
 			poison dagger,2411,50
 		" />
 		<parameter key="shop_buyable" value="
