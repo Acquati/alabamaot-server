@@ -17,7 +17,7 @@
 			frosty ear of a troll,10565,30;
 			trollroot,12471,50;
 			stealth ring,2165,200;
-			war hammer,2391,1200;
+			war hammer,2391,1200
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,5;
@@ -25,7 +25,7 @@
 			spear,2389,9;
 			worm,3976,1;
 			fishing rod,2580,140;
-			arrow,2544,3;
+			arrow,2544,3
 		" />
 	</parameters>
 </npc>
