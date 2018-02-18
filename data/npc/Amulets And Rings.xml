@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Amulets And Rings" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="132" head="79" body="114" legs="114" feet="0" addons="3" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			amulet of loss,2173,45000;
+			bronze amulet,2172,50;
+			dragon necklace,2201,100;
+			elven amulet,2198,100;
+			garlic necklace,2199,50;
+			protection amulet,2200,100;
+			silver amulet,2170,50;
+			stone skin amulet,2197,500;
+			strange talisman,2161,30;
+			axe ring,2208,100;
+			club rin,2209,100;
+			dwarven ring,2213,100;
+			energy ring,2167,100;
+			life ring,2168,50;
+			might ring,2164,250;
+			power ring,2166,50;
+			ring of healing,2214,100;
+			stealth ring,2165,200;
+			sword ring,2207,100;
+			time ring,2169,100
+		" />
+		<parameter key="shop_buyable" value="
+			amulet of loss,2173,50000;
+			bronze amulet,2172,100;
+			dragon necklace,2201,1000;
+			elven amulet,2198,500;
+			garlic necklace,2199,100;
+			protection amulet,2200,700;
+			silver amulet,2170,100;
+			stone skin amulet,2197,5000;
+			strange talisman,2161,100;
+			scarf,2661,15;
+			axe ring,2208,500;
+			club rin,2209,500;
+			dwarven ring,2213,2000;
+			energy ring,2167,2000;
+			life ring,2168,900;
+			might ring,2164,5000;
+			power ring,2166,100;
+			ring of healing,2214,2000;
+			stealth ring,2165,5000;
+			sword ring,2207,500;
+			time ring,2169,2000
+		" />
+	</parameters>
+</npc>

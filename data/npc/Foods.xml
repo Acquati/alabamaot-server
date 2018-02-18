@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Foods" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="278" head="115" body="0" legs="94" feet="0" addons="1" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+		" />
+		<parameter key="shop_buyable" value="
+			cherry,2679,1;
+			cookie,2687,2;
+			plum,8839,3;
+			egg,2328,2;
+			banana,2676,2;
+			white mushroom,2787,6;
+			bread,2689,3;
+			potato,8838,4;
+			fish,2667,3;
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25;
+			bottle of glooth wine,23516,10;
+			party cake,6280,50;
+			beer,30003,2;
+			mead,30043,5;
+			rum,30027,10;
+			wine,30015,3
+		" />
+	</parameters>
+</npc>
