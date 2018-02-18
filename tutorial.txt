@@ -15,7 +15,7 @@ Custom TCP: 7171 Source: Anywhere
 Custom TCP: 7172 Source: Anywhere
 
 conectar na máquina aws:
-ssh -i ~/.ssh/otserver.pem ubuntu@34.216.231.197
+ssh -i ~/.ssh/otserver.pem ubuntu@54.186.144.84
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
@@ -78,7 +78,7 @@ sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.co
 sudo a2enconf phpmyadmin.conf
 sudo service apache2 reload
 
-http://34.216.231.197/phpmyadmin/
+http://54.186.144.84/phpmyadmin/
 adicione uma conta de usuário para o otserver
 Add user account
 User name: otserver
@@ -121,7 +121,7 @@ sudo vi config.lua
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "34.216.231.197"
+ip = "54.186.144.84"
 -- MySQL
 mysqlHost = "127.0.0.1"
 mysqlUser = "otserver"
@@ -142,9 +142,9 @@ cd ZnoteAAC
 sudo mv * ../
 cd ..
 
-visit 34.216.231.197
+visit 54.186.144.84
 import the schema to the TFS database in phpmyadmin
-http://34.216.231.197/phpmyadmin/
+http://54.186.144.84/phpmyadmin/
 select the otserver database and insert the SQL
 edit config.php with correct mysql connection details
 sudo vi config.php
@@ -172,9 +172,9 @@ cd ~/Documents/otserver/pyipchanger && python PyIpChanger.py
 python PyIpChanger.py
 
 Tranferência de Arquivos Local <=> EC2
-scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama.otbm ubuntu@34.216.231.197:~/ &&
-scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama-house.xml ubuntu@34.216.231.197:~/ &&
-scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama-spawn.xml ubuntu@34.216.231.197:~/
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama.otbm ubuntu@54.186.144.84:~/ &&
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama-house.xml ubuntu@54.186.144.84:~/ &&
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/rme/maps/alabama-spawn.xml ubuntu@54.186.144.84:~/
 sudo rm ~/forgottenserver/data/world/alabama.otbm &&
 sudo rm ~/forgottenserver/data/world/alabama-house.xml &&
 sudo rm ~/forgottenserver/data/world/alabama-spawn.xml &&
@@ -210,7 +210,7 @@ Config the game:
 sudo vi ~/forgottenserver/config.lua
 
 conectar na máquina aws:
-ssh -i ~/.ssh/otserver.pem ubuntu@34.216.231.197
+ssh -i ~/.ssh/otserver.pem ubuntu@54.186.144.84
 
 Map Editor
 sudo apt-get update

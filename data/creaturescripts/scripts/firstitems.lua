@@ -14,17 +14,17 @@ function onLogin(player)
 
 		if getPlayerVocation(player) == 1 then
 			doPlayerAddItem(player, 2190, 1) -- wand of vortex
-			doAddContainerItem(bag, 2384, 1) -- rapier
+			doAddContainerItem(bag, 2420, 1) -- machete
 		elseif getPlayerVocation(player) == 2 then
 			doPlayerAddItem(player, 2182, 1) -- snakebite rod
-			doAddContainerItem(bag, 2384, 1) -- rapier
+			doAddContainerItem(bag, 2420, 1) -- machete
 		elseif getPlayerVocation(player) == 3 then
 			doPlayerAddItem(player, 2389, 10) -- spears
-			doAddContainerItem(bag, 2384, 1) -- rapier
+			doAddContainerItem(bag, 2420, 1) -- machete
 		elseif getPlayerVocation(player) == 4 then
-			doPlayerAddItem(player, 2380, 1) -- hand axe
-			doAddContainerItem(bag, 2384, 1) -- rapier
-			doAddContainerItem(bag, 2448, 1) -- studded club
+			doPlayerAddItem(player, 2386, 1) -- axe
+			doAddContainerItem(bag, 2420, 1) -- machete
+			doAddContainerItem(bag, 2449, 1) -- bone club
 		end
 
 		for i = 1, table.maxn(commonItems) do

@@ -86,3 +86,13 @@ Amazon
 Valkyrie
 Fire Devil
 Priestess
+
+/addskill Knight Teste, experiece, 1
+/addskill Knight Teste, magic level, 1
+
+/i bonelord shield
+/i steel helmet
+/i brass legs
+/i leather boots
+/i noble armor
+/i spike sword
