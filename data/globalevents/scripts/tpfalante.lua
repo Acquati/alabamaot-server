@@ -9,5 +9,5 @@ function onThink(cid, interval, lastExecution)
         doSendAnimatedText(pos, text, math.random(211,212))
     end
     
-    return TRUE
+    return true
 end  
