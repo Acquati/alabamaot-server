@@ -1,10 +1,11 @@
 local commonItems =
 {
+	2661, -- scarf
 	2461, -- leather helmet
-	2654, -- cape
-	10297, -- shield of care
+	2467, -- leather armor
+	2512, -- wooden shield
 	2649, -- leather legs
-	2642, -- sandals
+	2643, -- leather boots
 	2050 -- torch
 }
 

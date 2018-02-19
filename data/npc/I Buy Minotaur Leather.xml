@@ -7,7 +7,7 @@
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
 			bronze amulet,2172,50;
-			sword,2373,25;
+			sword,2376,25;
 			mace,2398,30;
 			brass helmet,2460,30;
 			chain armor,2464,70;
@@ -32,10 +32,10 @@
 			plate armor,2463,400;
 			warrior helmet,2475,5000;
 			brass legs,2478,49;
-			plate legs,2647,115;
+			plate legs,2647,115
 		" />
 		<parameter key="shop_buyable" value="
-			meat,2666,5;
+			meat,2666,5
 		" />
 	</parameters>
 </npc>

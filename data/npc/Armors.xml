@@ -6,21 +6,34 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
-			brass shield,2511,25;
-			viking helmet,2473,66;
-			plate shield,2510,45;
 			chain armor,2464,70;
-			brass helmet,2460,30;
-			scale armor,2483,75;
 			brass armor,2465,150;
-			copper shield,2530,50
+			scale armor,2483,75;
+			plate armor,2463,400;
+			noble armor,2486,900;
+			chain helmet,2458,17;
+			brass helmet,2460,30;
+			viking helmet,2473,66;
+			iron helmet,2459,150;
+			steel helmet,2457,293;
+			studded shield,2526,16;
+			brass shield,2511,25;
+			plate shield,2510,45;
+			steel shield,2509,80;
+			dwarven shield,2525,100;
+			bonelord shield,2518,1200;
+			studded legs,2468,15;
+			chain legs,2648,25;
+			brass legs,2478,49
 		" />
 		<parameter key="shop_buyable" value="
 			leather armor,2467,35;
 			chain armor,2464,200;
 			brass armor,2465,450;
+			scale armor,2483,260;
 			plate armor,2463,1200;
 			noble armor,2486,8000;
+			leather helmet,2461,11;
 			chain helmet,2458,52;
 			brass helmet,2460,120;
 			viking helmet,2473,265;
