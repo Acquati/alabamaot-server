@@ -10,4 +10,4 @@ function onThink(cid, interval, lastExecution)
     end
     
     return true
-end  
+end
