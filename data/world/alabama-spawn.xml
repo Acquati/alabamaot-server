@@ -55,20 +55,17 @@
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="992" centery="1037" centerz="7" radius="1" />
-	<spawn centerx="1044" centery="1044" centerz="7" radius="1">
-		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="995" centery="1047" centerz="7" radius="1">
 		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1005" centery="1047" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1033" centery="1049" centerz="7" radius="1">
-		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1009" centery="1054" centerz="7" radius="1">
 		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="1055" centerz="7" radius="1">
+		<npc name="Foods" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1082" centery="964" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
