@@ -20,10 +20,7 @@
 			meat,2666,3;
 			ham,2671,5;
 			dragon ham,2672,25;
-			party cake,6280,50;
-			beer,30003,2;
-			rum,30027,10;
-			wine,30015,3
+			party cake,6280,50
 		" />
 	</parameters>
 </npc>
