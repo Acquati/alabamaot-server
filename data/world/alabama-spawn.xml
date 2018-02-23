@@ -9,6 +9,15 @@
 	<spawn centerx="1013" centery="1035" centerz="6" radius="1">
 		<npc name="Runes" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="1043" centery="1049" centerz="6" radius="1">
+		<npc name="Rings And Amulets" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1051" centery="1055" centerz="6" radius="1">
+		<npc name="Promotion" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1043" centery="1061" centerz="6" radius="1">
+		<npc name="Bless" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="990" centery="988" centerz="7" radius="1">
 		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
