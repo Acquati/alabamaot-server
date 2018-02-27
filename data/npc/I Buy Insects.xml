@@ -13,7 +13,9 @@
 			damselfly eye,19743,25
 		" />
 		<parameter key="shop_buyable" value="
-			cherry,2679,1
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
 		" />
 	</parameters>
 </npc>

@@ -35,7 +35,9 @@
 			plate legs,2647,115
 		" />
 		<parameter key="shop_buyable" value="
-			meat,2666,5
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
 		" />
 	</parameters>
 </npc>

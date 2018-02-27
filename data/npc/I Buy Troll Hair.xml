@@ -20,8 +20,9 @@
 			war hammer,2391,1200
 		" />
 		<parameter key="shop_buyable" value="
-			meat,2666,5;
-			fish,2667,4;
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25;
 			spear,2389,9;
 			worm,3976,1;
 			fishing rod,2580,140;
