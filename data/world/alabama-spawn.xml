@@ -2218,7 +2218,6 @@
 		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="778" centery="1112" centerz="8" radius="1">
-		<monster name="Drillworm" x="0" y="-1" z="8" spawntime="0" />
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="789" centery="1116" centerz="8" radius="1">
