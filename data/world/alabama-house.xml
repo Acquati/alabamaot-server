@@ -1,4 +1,28 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Castle #1" houseid="1" entryx="1034" entryy="1051" entryz="5" rent="4900" townid="1" size="47" />
+	<house name="Castle #1" houseid="1" entryx="1034" entryy="1051" entryz="5" rent="0" townid="1" size="47" />
+	<house name="Castle #2" houseid="2" entryx="1052" entryy="1051" entryz="5" rent="0" townid="1" size="47" />
+	<house name="Castle #3" houseid="3" entryx="1034" entryy="1059" entryz="5" rent="0" townid="1" size="47" />
+	<house name="Castle #4" houseid="4" entryx="1052" entryy="1059" entryz="5" rent="0" townid="1" size="47" />
+	<house name="Castle #5" houseid="5" entryx="1034" entryy="1051" entryz="4" rent="0" townid="1" size="47" />
+	<house name="Castle #6" houseid="6" entryx="1052" entryy="1051" entryz="4" rent="0" townid="1" size="47" />
+	<house name="Castle #7" houseid="7" entryx="1034" entryy="1059" entryz="4" rent="0" townid="1" size="47" />
+	<house name="Castle #8" houseid="8" entryx="1052" entryy="1059" entryz="4" rent="0" townid="1" size="47" />
+	<house name="Castle #9" houseid="9" entryx="1034" entryy="1051" entryz="3" rent="0" townid="1" size="47" />
+	<house name="Castle #10" houseid="10" entryx="1052" entryy="1051" entryz="3" rent="0" townid="1" size="47" />
+	<house name="Castle #11" houseid="11" entryx="1034" entryy="1059" entryz="3" rent="0" townid="1" size="47" />
+	<house name="Castle #12" houseid="12" entryx="1052" entryy="1059" entryz="3" rent="0" townid="1" size="47" />
+	<house name="Castle #13" houseid="13" entryx="1034" entryy="1051" entryz="2" rent="0" townid="1" size="47" />
+	<house name="Castle #14" houseid="14" entryx="1052" entryy="1051" entryz="2" rent="0" townid="1" size="47" />
+	<house name="Castle #15" houseid="15" entryx="1034" entryy="1059" entryz="2" rent="0" townid="1" size="47" />
+	<house name="Castle #16" houseid="16" entryx="1052" entryy="1059" entryz="2" rent="0" townid="1" size="47" />
+	<house name="Castle #17" houseid="17" entryx="1034" entryy="1051" entryz="1" rent="0" townid="1" size="47" />
+	<house name="Castle #18" houseid="18" entryx="1052" entryy="1051" entryz="1" rent="0" townid="1" size="47" />
+	<house name="Castle #19" houseid="19" entryx="1034" entryy="1059" entryz="1" rent="0" townid="1" size="47" />
+	<house name="Castle #20" houseid="20" entryx="1052" entryy="1059" entryz="1" rent="0" townid="1" size="47" />
+	<house name="Armors #1" houseid="21" entryx="1037" entryy="1014" entryz="6" rent="0" townid="1" size="18" />
+	<house name="Armors #2" houseid="22" entryx="1040" entryy="1014" entryz="6" rent="0" townid="1" size="14" />
+	<house name="Armors #3" houseid="23" entryx="1045" entryy="1014" entryz="6" rent="0" townid="1" size="10" />
+	<house name="Armors #4" houseid="24" entryx="1037" entryy="1014" entryz="5" rent="0" townid="1" size="30" />
+	<house name="Armors #5" houseid="25" entryx="1039" entryy="1014" entryz="5" rent="0" townid="1" size="20" />
 </houses>
