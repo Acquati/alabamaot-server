@@ -1,2 +1,7 @@
 <?xml version="1.0"?>
-<houses />
+<houses>
+	<house name="Castle #1" houseid="1" entryx="1034" entryy="1051" entryz="5" rent="4900" townid="1" size="49" />
+	<house name="Castle #2" houseid="2" entryx="1052" entryy="1051" entryz="5" rent="4900" townid="1" size="49" />
+	<house name="Castle #3" houseid="3" entryx="1034" entryy="1059" entryz="5" rent="4900" townid="1" size="49" />
+	<house name="Castle #4" houseid="4" entryx="1052" entryy="1059" entryz="5" rent="4900" townid="1" size="49" />
+</houses>

@@ -185,6 +185,17 @@ sudo apt-get install -y unrar
 unrar x otpremium.rar
 gunzip nomedoarquivo.zip
 
+scp -i ~/.ssh/otserver.pem ~/Documents/otserver/MuGesior2017.rar ubuntu@54.186.144.84:~/
+sudo mv ~/MuGesior2017.rar /var/www/html
+sudo unrar x MuGesior2017.rar
+cd MuGesior2017/
+sudo mv * /var/www/html
+cd ..
+sudo rm -rf MuGesior2017 && sudo rm MuGesior2017.rar
+
+apaga tudo de dentro da pasta:
+sudo rm -r *
+
 Screen
 sudo apt-get install -y screen
 
