@@ -196,6 +196,9 @@ sudo rm -rf MuGesior2017 && sudo rm MuGesior2017.rar
 apaga tudo de dentro da pasta:
 sudo rm -r *
 
+faz uma cópia da pasta:
+cp -ar layout ~/
+
 Screen
 sudo apt-get install -y screen
 

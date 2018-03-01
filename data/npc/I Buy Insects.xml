@@ -6,11 +6,45 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
-			cherry,2679,1;
 			sandcrawler shell,11373,20;
 			honeycomb,5902,40;
 			damselfly wing,19738,20;
-			damselfly eye,19743,25
+			damselfly eye,19743,25;
+			small emerald,2149,250;
+			small amethyst,2150,200;
+			scarab coin,2159,100;
+			daramian mace,2439,110;
+			piece of scarab shell,10558,45;
+			club ring,2209,100;
+			ripper lance,3964,500;
+			terramite shell,11369,170;
+			terramite eggs,11370,50;
+			terramite legs,11371,60;
+			poisonous slime,10557,50;
+			lump of dirt,10609,10;
+			lancer beetle shell,11372,80;
+			beetle necklace,11374,1500;
+			epee,2438,8000;
+			swarmer antenna,15479,130;
+			compound eye,15486,150;
+			dung ball,15622,130;
+			grasshopper legs,15490,15000;
+			carapace shield,15491,32000;
+			hive scythe,15492,17000;
+			stealth ring,2165,200;
+			platinum amulet,2171,2500;
+			magic sulphur,5904,8000;
+			lump of earth,11222,130;
+			sulphurous stone,11232,100;
+			brimstone fangs,12658,380;
+			brimstone shell,12659,210;
+			green gem,2155,5000;
+			time ring,2169,100;
+			crusader helmet,2497,6000;
+			crystal sword,7449,600;
+			spitter nose,15481,340;
+			compound eye,15486,150;
+			calopteryx cape,15489,15000
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;

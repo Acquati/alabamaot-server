@@ -356,6 +356,9 @@
 	<spawn centerx="1077" centery="985" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1364" centery="985" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="875" centery="986" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -373,6 +376,9 @@
 	</spawn>
 	<spawn centerx="1209" centery="986" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1374" centery="986" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="829" centery="987" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -492,6 +498,9 @@
 	<spawn centerx="1243" centery="990" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1382" centery="990" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1105" centery="991" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -509,6 +518,9 @@
 	</spawn>
 	<spawn centerx="1214" centery="991" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1309" centery="991" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="911" centery="992" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
@@ -528,6 +540,9 @@
 	<spawn centerx="1211" centery="992" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1371" centery="992" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="828" centery="993" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -540,32 +555,38 @@
 	<spawn centerx="1240" centery="993" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1361" centery="993" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="978" centery="994" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1127" centery="994" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1327" centery="994" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="839" centery="995" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1070" centery="995" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="833" centery="996" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1064" centery="996" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1067" centery="996" centerz="8" radius="1">
+		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1090" centery="996" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1255" centery="996" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="875" centery="997" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1075" centery="997" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1073" centery="997" centerz="8" radius="1">
+		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1380" centery="997" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="868" centery="998" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -576,11 +597,14 @@
 	<spawn centerx="992" centery="998" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1085" centery="998" centerz="8" radius="1">
+	<spawn centerx="1061" centery="998" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1095" centery="998" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1267" centery="998" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1317" centery="998" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="837" centery="999" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -591,26 +615,14 @@
 	<spawn centerx="978" centery="999" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1064" centery="999" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1108" centery="999" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1068" centery="999" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1278" centery="1000" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1080" centery="999" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1140" centery="999" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1145" centery="999" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1058" centery="1000" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1112" centery="1000" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1351" centery="1000" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="842" centery="1001" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -621,26 +633,23 @@
 	<spawn centerx="880" centery="1001" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1072" centery="1001" centerz="8" radius="1">
+	<spawn centerx="1056" centery="1001" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1119" centery="1001" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1054" centery="1002" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1098" centery="1002" centerz="8" radius="1">
+	<spawn centerx="1068" centery="1001" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1136" centery="1002" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1101" centery="1001" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1147" centery="1002" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1214" centery="1001" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1152" centery="1002" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1117" centery="1002" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1305" centery="1002" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="787" centery="1003" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
@@ -663,8 +672,17 @@
 	<spawn centerx="986" centery="1003" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1084" centery="1003" centerz="8" radius="1">
+	<spawn centerx="1063" centery="1003" centerz="8" radius="1">
+		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1078" centery="1003" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1156" centery="1003" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1166" centery="1003" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="838" centery="1004" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -675,6 +693,9 @@
 	<spawn centerx="981" centery="1004" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1073" centery="1004" centerz="8" radius="1">
+		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="846" centery="1005" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -684,11 +705,11 @@
 	<spawn centerx="998" centery="1005" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1102" centery="1005" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1108" centery="1005" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1148" centery="1005" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1330" centery="1005" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="931" centery="1006" centerz="8" radius="1">
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
@@ -699,23 +720,17 @@
 	<spawn centerx="1003" centery="1006" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1059" centery="1006" centerz="8" radius="1">
+	<spawn centerx="1052" centery="1006" centerz="8" radius="1">
 		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1073" centery="1006" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1106" centery="1006" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1134" centery="1006" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1159" centery="1006" centerz="8" radius="1">
+	<spawn centerx="1095" centery="1006" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1163" centery="1006" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1101" centery="1006" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1254" centery="1006" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="841" centery="1007" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -723,14 +738,17 @@
 	<spawn centerx="985" centery="1007" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1050" centery="1007" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1058" centery="1007" centerz="8" radius="1">
+		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1087" centery="1007" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1114" centery="1007" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1124" centery="1007" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1121" centery="1007" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1148" centery="1007" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="865" centery="1008" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -747,14 +765,17 @@
 	<spawn centerx="980" centery="1008" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1092" centery="1008" centerz="8" radius="1">
+	<spawn centerx="1079" centery="1008" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1129" centery="1008" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1209" centery="1008" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1142" centery="1008" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1297" centery="1008" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1360" centery="1008" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="859" centery="1009" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -771,17 +792,17 @@
 	<spawn centerx="956" centery="1009" centerz="8" radius="1">
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1084" centery="1009" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1157" centery="1009" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1138" centery="1009" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1199" centery="1009" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1160" centery="1009" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1220" centery="1009" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1167" centery="1009" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1229" centery="1009" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="853" centery="1010" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -792,11 +813,14 @@
 	<spawn centerx="1003" centery="1010" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1134" centery="1010" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1048" centery="1010" centerz="8" radius="1">
+		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1146" centery="1010" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1074" centery="1010" centerz="8" radius="1">
+		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1167" centery="1010" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="846" centery="1011" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -804,11 +828,20 @@
 	<spawn centerx="882" centery="1011" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1105" centery="1011" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1054" centery="1011" centerz="8" radius="1">
+		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1124" centery="1011" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1100" centery="1011" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1175" centery="1011" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1244" centery="1011" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1276" centery="1011" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="818" centery="1012" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
@@ -825,20 +858,17 @@
 	<spawn centerx="999" centery="1012" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1061" centery="1012" centerz="8" radius="1">
+	<spawn centerx="1042" centery="1012" centerz="8" radius="1">
 		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1065" centery="1012" centerz="8" radius="1">
+	<spawn centerx="1080" centery="1012" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1071" centery="1012" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1151" centery="1012" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1159" centery="1012" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1163" centery="1012" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1338" centery="1012" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="842" centery="1013" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -858,30 +888,17 @@
 	<spawn centerx="975" centery="1013" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1075" centery="1013" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1094" centery="1013" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1148" centery="1013" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1167" centery="1013" centerz="8" radius="1">
+	<spawn centerx="1093" centery="1013" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="851" centery="1014" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1043" centery="1014" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1118" centery="1014" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1108" centery="1014" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="846" centery="1015" centerz="8" radius="1">
-		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="60" />
+	<spawn centerx="1144" centery="1014" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="886" centery="1015" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -889,14 +906,14 @@
 	<spawn centerx="939" centery="1015" centerz="8" radius="1">
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1079" centery="1015" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1050" centery="1015" centerz="8" radius="1">
+		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1136" centery="1015" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1074" centery="1015" centerz="8" radius="1">
+		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1152" centery="1015" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1124" centery="1015" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="862" centery="1016" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -910,14 +927,11 @@
 	<spawn centerx="994" centery="1016" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1069" centery="1016" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1202" centery="1016" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1103" centery="1016" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1170" centery="1016" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1303" centery="1016" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="881" centery="1017" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -931,29 +945,17 @@
 	<spawn centerx="1044" centery="1017" centerz="8" radius="1">
 		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1075" centery="1017" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1099" centery="1017" centerz="8" radius="1">
+	<spawn centerx="1079" centery="1017" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1148" centery="1017" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1166" centery="1017" centerz="8" radius="1">
+	<spawn centerx="1096" centery="1017" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="840" centery="1018" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1058" centery="1018" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1109" centery="1018" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1122" centery="1018" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1175" centery="1018" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="844" centery="1019" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -964,17 +966,17 @@
 	<spawn centerx="974" centery="1019" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1083" centery="1019" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1148" centery="1019" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1095" centery="1019" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1225" centery="1019" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1135" centery="1019" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1250" centery="1019" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1152" centery="1019" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1282" centery="1019" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="876" centery="1020" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -982,17 +984,17 @@
 	<spawn centerx="985" centery="1020" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1089" centery="1020" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1073" centery="1020" centerz="8" radius="1">
+		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1139" centery="1020" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1147" centery="1020" centerz="8" radius="1">
+	<spawn centerx="1090" centery="1020" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1171" centery="1020" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1118" centery="1020" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="1020" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="865" centery="1021" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1003,20 +1005,17 @@
 	<spawn centerx="935" centery="1021" centerz="8" radius="1">
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1054" centery="1021" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1124" centery="1021" centerz="8" radius="1">
+		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1069" centery="1021" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1196" centery="1021" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1105" centery="1021" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1332" centery="1021" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1108" centery="1021" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1166" centery="1021" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1357" centery="1021" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="839" centery="1022" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1027,11 +1026,11 @@
 	<spawn centerx="1014" centery="1022" centerz="8" radius="1">
 		<npc name="I Buy Cheese" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1124" centery="1022" centerz="8" radius="1">
-		<monster name="Insect Swarm" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1142" centery="1022" centerz="8" radius="1">
+	<spawn centerx="1078" centery="1022" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1140" centery="1022" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="964" centery="1023" centerz="8" radius="1">
 		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="60" />
@@ -1039,17 +1038,8 @@
 	<spawn centerx="980" centery="1023" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1049" centery="1023" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1083" centery="1023" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1093" centery="1023" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1130" centery="1023" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1095" centery="1023" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="843" centery="1024" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1060,26 +1050,23 @@
 	<spawn centerx="966" centery="1024" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1152" centery="1024" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1156" centery="1024" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1162" centery="1024" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="962" centery="1025" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="964" centery="1025" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1175" centery="1025" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1127" centery="1026" centerz="8" radius="1">
+	<spawn centerx="1069" centery="1025" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1075" centery="1025" centerz="8" radius="1">
+		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1116" centery="1026" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1301" centery="1026" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="836" centery="1027" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1087,26 +1074,20 @@
 	<spawn centerx="1034" centery="1027" centerz="8" radius="1">
 		<npc name="I Buy Insects" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1080" centery="1027" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1122" centery="1027" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1095" centery="1027" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1145" centery="1027" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1105" centery="1027" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1275" centery="1027" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1158" centery="1027" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1171" centery="1028" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1054" centery="1028" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1066" centery="1028" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1153" centery="1028" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1228" centery="1028" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="840" centery="1029" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1114,38 +1095,35 @@
 	<spawn centerx="920" centery="1029" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1088" centery="1029" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1247" centery="1029" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1336" centery="1029" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="917" centery="1030" centerz="8" radius="1">
 		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1071" centery="1030" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1078" centery="1030" centerz="8" radius="1">
+		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1163" centery="1030" centerz="8" radius="1">
+	<spawn centerx="1093" centery="1030" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1176" centery="1030" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1164" centery="1030" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="832" centery="1031" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1058" centery="1031" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1062" centery="1031" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1080" centery="1031" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1093" centery="1031" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1100" centery="1031" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1142" centery="1031" centerz="8" radius="1">
+	<spawn centerx="1074" centery="1031" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1139" centery="1031" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="827" centery="1032" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1156,14 +1134,14 @@
 	<spawn centerx="920" centery="1032" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1097" centery="1032" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1131" centery="1032" centerz="8" radius="1">
+	<spawn centerx="1070" centery="1032" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1173" centery="1032" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1083" centery="1032" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="1032" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="823" centery="1033" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1171,49 +1149,46 @@
 	<spawn centerx="918" centery="1033" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1073" centery="1033" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1139" centery="1033" centerz="8" radius="1">
-		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1151" centery="1033" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1167" centery="1033" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1364" centery="1033" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="817" centery="1034" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1076" centery="1034" centerz="8" radius="1">
-		<monster name="Bug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1117" centery="1034" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1085" centery="1034" centerz="8" radius="1">
-		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1144" centery="1034" centerz="8" radius="1">
+		<monster name="Terramite" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1143" centery="1034" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1221" centery="1034" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1148" centery="1034" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1163" centery="1034" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1308" centery="1034" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="833" centery="1035" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1089" centery="1035" centerz="8" radius="1">
-		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="975" centery="1035" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1134" centery="1035" centerz="8" radius="1">
+	<spawn centerx="1078" centery="1035" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1177" centery="1035" centerz="8" radius="1">
+	<spawn centerx="1089" centery="1035" centerz="8" radius="1">
 		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1195" centery="1035" centerz="8" radius="1">
+		<monster name="The Blightfather" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1281" centery="1035" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1327" centery="1035" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="970" centery="1036" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1221,14 +1196,17 @@
 	<spawn centerx="981" centery="1036" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1169" centery="1036" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="818" centery="1037" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1138" centery="1037" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1074" centery="1037" centerz="8" radius="1">
+		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1152" centery="1037" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1109" centery="1037" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="822" centery="1038" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -1236,20 +1214,26 @@
 	<spawn centerx="827" centery="1038" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1084" centery="1038" centerz="8" radius="1">
+		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1253" centery="1038" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="884" centery="1039" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1159" centery="1039" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1114" centery="1039" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1172" centery="1039" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1139" centery="1039" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="959" centery="1040" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1177" centery="1040" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1163" centery="1040" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="876" centery="1041" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
@@ -1257,23 +1241,38 @@
 	<spawn centerx="899" centery="1041" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1153" centery="1041" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="985" centery="1041" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1293" centery="1041" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1034" centery="1042" centerz="8" radius="1">
 		<npc name="I Buy Troll Hair" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1144" centery="1042" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1227" centery="1042" centerz="8" radius="1">
+		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="892" centery="1043" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="948" centery="1043" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="967" centery="1043" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1159" centery="1043" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1172" centery="1043" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1173" centery="1043" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1302" centery="1043" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1356" centery="1043" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="942" centery="1044" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1284,11 +1283,11 @@
 	<spawn centerx="1089" centery="1044" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1144" centery="1044" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1115" centery="1044" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1148" centery="1044" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1244" centery="1044" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="915" centery="1045" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
@@ -1299,6 +1298,15 @@
 	<spawn centerx="1058" centery="1045" centerz="8" radius="1">
 		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1109" centery="1045" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1136" centery="1045" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1282" centery="1045" centerz="8" radius="1">
+		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="922" centery="1046" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1308,14 +1316,11 @@
 	<spawn centerx="1053" centery="1046" centerz="8" radius="1">
 		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1163" centery="1046" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1188" centery="1046" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1168" centery="1046" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1178" centery="1046" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1331" centery="1046" centerz="8" radius="1">
+		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="759" centery="1047" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1335,8 +1340,17 @@
 	<spawn centerx="1090" centery="1047" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1173" centery="1047" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1141" centery="1047" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1180" centery="1047" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1195" centery="1047" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="934" centery="1048" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1056" centery="1048" centerz="8" radius="1">
 		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
@@ -1347,14 +1361,17 @@
 	<spawn centerx="1093" centery="1048" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1119" centery="1048" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1168" centery="1048" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1052" centery="1049" centerz="8" radius="1">
 		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1149" centery="1049" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1168" centery="1049" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1131" centery="1049" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="830" centery="1050" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1368,10 +1385,25 @@
 	<spawn centerx="1090" centery="1050" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1113" centery="1050" centerz="8" radius="1">
+		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1050" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1235" centery="1050" centerz="8" radius="1">
+		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="884" centery="1051" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="938" centery="1051" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="953" centery="1051" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="969" centery="1051" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="974" centery="1051" centerz="8" radius="1">
@@ -1379,12 +1411,6 @@
 	</spawn>
 	<spawn centerx="1093" centery="1051" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1173" centery="1051" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1179" centery="1051" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1261" centery="1051" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
@@ -1401,8 +1427,11 @@
 	<spawn centerx="928" centery="1052" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1162" centery="1052" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1177" centery="1052" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1190" centery="1052" centerz="8" radius="1">
+		<monster name="Swarmer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="802" centery="1053" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1416,11 +1445,8 @@
 	<spawn centerx="990" centery="1053" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1153" centery="1053" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1158" centery="1053" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1135" centery="1053" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1266" centery="1053" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
@@ -1428,11 +1454,14 @@
 	<spawn centerx="1272" centery="1053" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1342" centery="1053" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="816" centery="1054" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1170" centery="1054" centerz="8" radius="1">
-		<monster name="Ladybug" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="996" centery="1054" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1001" centery="1055" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1440,20 +1469,32 @@
 	<spawn centerx="869" centery="1056" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="881" centery="1056" centerz="8" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="956" centery="1056" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="976" centery="1056" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1069" centery="1056" centerz="8" radius="1">
 		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1166" centery="1056" centerz="8" radius="1">
-		<monster name="Larva" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1120" centery="1056" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1128" centery="1056" centerz="8" radius="1">
+		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1261" centery="1056" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1277" centery="1056" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1355" centery="1056" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="923" centery="1057" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1470,6 +1511,9 @@
 	<spawn centerx="916" centery="1058" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="952" centery="1058" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1062" centery="1058" centerz="8" radius="1">
 		<monster name="Young Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1481,6 +1525,9 @@
 	</spawn>
 	<spawn centerx="1272" centery="1058" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1330" centery="1058" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="942" centery="1059" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1518,10 +1565,7 @@
 	<spawn centerx="1175" centery="1061" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1212" centery="1061" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1224" centery="1061" centerz="8" radius="1">
+	<spawn centerx="1216" centery="1061" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="883" centery="1062" centerz="8" radius="1">
@@ -1532,6 +1576,9 @@
 	</spawn>
 	<spawn centerx="1144" centery="1062" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1241" centery="1062" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="779" centery="1063" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1550,6 +1597,9 @@
 	</spawn>
 	<spawn centerx="1170" centery="1063" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1228" centery="1063" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1269" centery="1063" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
@@ -1577,9 +1627,6 @@
 	</spawn>
 	<spawn centerx="1177" centery="1064" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1235" centery="1064" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="795" centery="1065" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1626,14 +1673,23 @@
 	<spawn centerx="1180" centery="1066" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1252" centery="1066" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="928" centery="1067" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1111" centery="1067" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1173" centery="1067" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1253" centery="1067" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="889" centery="1068" centerz="8" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1068" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1147" centery="1068" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
@@ -1653,6 +1709,9 @@
 	<spawn centerx="756" centery="1070" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="953" centery="1070" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1086" centery="1070" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1662,17 +1721,20 @@
 	<spawn centerx="1141" centery="1070" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1210" centery="1070" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="904" centery="1071" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="975" centery="1071" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1124" centery="1071" centerz="8" radius="1">
 		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1147" centery="1071" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1220" centery="1071" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="769" centery="1072" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1701,17 +1763,14 @@
 	<spawn centerx="939" centery="1073" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="961" centery="1073" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1127" centery="1073" centerz="8" radius="1">
 		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1162" centery="1073" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1210" centery="1073" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1242" centery="1073" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="877" centery="1074" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
@@ -1728,9 +1787,6 @@
 	<spawn centerx="1189" centery="1074" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1260" centery="1074" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1296" centery="1074" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1746,8 +1802,8 @@
 	<spawn centerx="1192" centery="1075" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1249" centery="1075" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="917" centery="1076" centerz="8" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="978" centery="1076" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
@@ -1764,19 +1820,22 @@
 	<spawn centerx="1195" centery="1076" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1224" centery="1076" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1288" centery="1076" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="885" centery="1077" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="929" centery="1077" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1171" centery="1077" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1240" centery="1077" centerz="8" radius="1">
+	<spawn centerx="1206" centery="1077" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1261" centery="1077" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1292" centery="1077" centerz="8" radius="1">
@@ -1791,6 +1850,9 @@
 	<spawn centerx="935" centery="1078" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="948" centery="1078" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="961" centery="1078" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1799,12 +1861,6 @@
 	</spawn>
 	<spawn centerx="1190" centery="1078" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1230" centery="1078" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1245" centery="1078" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="779" centery="1079" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -1845,16 +1901,10 @@
 	<spawn centerx="819" centery="1080" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1153" centery="1080" centerz="8" radius="1">
-		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1175" centery="1080" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1205" centery="1080" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1249" centery="1080" centerz="8" radius="1">
+	<spawn centerx="1248" centery="1080" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="760" centery="1081" centerz="8" radius="1">
@@ -1869,16 +1919,22 @@
 	<spawn centerx="1171" centery="1081" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1221" centery="1081" centerz="8" radius="1">
+	<spawn centerx="1232" centery="1081" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1226" centery="1081" centerz="8" radius="1">
+	<spawn centerx="1240" centery="1081" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="913" centery="1082" centerz="8" radius="1">
+		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="930" centery="1082" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="950" centery="1082" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="955" centery="1082" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="967" centery="1082" centerz="8" radius="1">
@@ -1890,19 +1946,25 @@
 	<spawn centerx="1072" centery="1082" centerz="8" radius="1">
 		<monster name="Island Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1232" centery="1082" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1240" centery="1082" centerz="8" radius="1">
+	<spawn centerx="1245" centery="1082" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="884" centery="1083" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1223" centery="1083" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1227" centery="1083" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1248" centery="1083" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1185" centery="1084" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1245" centery="1084" centerz="8" radius="1">
+	<spawn centerx="1242" centery="1084" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="848" centery="1085" centerz="8" radius="1">
@@ -1917,13 +1979,19 @@
 	<spawn centerx="924" centery="1085" centerz="8" radius="1">
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="937" centery="1085" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1083" centery="1085" centerz="8" radius="1">
 		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1115" centery="1085" centerz="8" radius="1">
 		<monster name="Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1260" centery="1085" centerz="8" radius="1">
+	<spawn centerx="1230" centery="1085" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1245" centery="1085" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="878" centery="1086" centerz="8" radius="1">
@@ -1938,10 +2006,10 @@
 	<spawn centerx="1178" centery="1086" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1223" centery="1086" centerz="8" radius="1">
+	<spawn centerx="1208" centery="1086" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1229" centery="1086" centerz="8" radius="1">
+	<spawn centerx="1223" centery="1086" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="891" centery="1087" centerz="8" radius="1">
@@ -1959,6 +2027,12 @@
 	<spawn centerx="1003" centery="1087" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1227" centery="1087" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1259" centery="1088" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="793" centery="1089" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1973,9 +2047,6 @@
 	</spawn>
 	<spawn centerx="1168" centery="1089" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1210" centery="1089" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="764" centery="1090" centerz="8" radius="1">
 		<monster name="Drillworm" x="0" y="0" z="8" spawntime="60" />
@@ -2040,10 +2111,10 @@
 	<spawn centerx="1198" centery="1095" centerz="8" radius="1">
 		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1242" centery="1095" centerz="8" radius="1">
+	<spawn centerx="1240" centery="1095" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1256" centery="1095" centerz="8" radius="1">
+	<spawn centerx="1243" centery="1095" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1269" centery="1095" centerz="8" radius="1">
@@ -2076,20 +2147,23 @@
 	<spawn centerx="1210" centery="1097" centerz="8" radius="1">
 		<monster name="Troll Champion" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1246" centery="1097" centerz="8" radius="1">
+	<spawn centerx="1256" centery="1097" centerz="8" radius="1">
 		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1108" centery="1098" centerz="8" radius="1">
 		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1239" centery="1098" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1124" centery="1099" centerz="8" radius="1">
 		<monster name="Frost Troll" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1169" centery="1099" centerz="8" radius="1">
 		<monster name="Troll Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1238" centery="1099" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1241" centery="1099" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1288" centery="1099" centerz="8" radius="1">
 		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="60" />
@@ -2124,12 +2198,6 @@
 	<spawn centerx="984" centery="1102" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1241" centery="1102" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1245" centery="1102" centerz="8" radius="1">
-		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="952" centery="1103" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -2144,6 +2212,12 @@
 	</spawn>
 	<spawn centerx="1229" centery="1103" centerz="8" radius="1">
 		<monster name="Big Boss Trolliver" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1241" centery="1103" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1244" centery="1103" centerz="8" radius="1">
+		<monster name="Troll Legionnaire" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="980" centery="1104" centerz="8" radius="1">
 		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
