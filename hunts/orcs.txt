@@ -1,0 +1,59 @@
+orc
+orc spearman
+orc warrior
+rorc										
+orc shaman
+orc rider
+orc berserker
+orc marauder
+orc leader
+orc warlord
+Warlord Ruzad (foda)
+
+<item name="sabre" chance="5850" />
+<item name="studded helmet" chance="2950" />
+<item name="orc tooth" chance="210" />
+<item name="orc leather" chance="590" />
+
+<item name="studded legs" chance="10000" />
+
+<item name="poison dagger" chance="120" />
+<item name="copper shield" chance="560" />
+<item name="broken helmet" chance="10800" />
+<item name="skull belt" chance="980" />
+
+<item name="wolf tooth chain" chance="7410" />
+<item name="obsidian lance" chance="930" />
+<item name="orcish axe" chance="2040" />
+<item name="plate shield" chance="6700" />
+<item name="rorc feather" chance="12520" />
+<item name="rorc egg" chance="790" />
+<item name="hatched rorc egg" chance="12670" />
+
+<item name="sword ring" chance="3920" />
+<item name="longsword" chance="2800" />
+<item name="broadsword" chance="610" />
+<item id="2419" chance="1860" /><!-- scimitar -->
+<item name="plate armor" chance="1650" />
+<item name="warrior helmet" chance="180" />
+<item name="brass legs" chance="3100" />
+<item name="plate legs" chance="440" />
+
+<item name="battle axe" chance="6110" />
+<item name="halberd" chance="7280" />
+<item name="chain armor" chance="890" />
+<item name="hunting spear" chance="5000" />
+<item name="orcish gear" chance="9400" />
+
+<item name="stealth ring" chance="90" />
+<item name="gold ring" chance="30" />
+<item name="protection amulet" chance="2190" />
+<item name="two handed sword" chance="1680" />
+<item name="dragon hammer" chance="320" />
+<item name="brass armor" chance="740" />
+<item name="dark helmet" chance="1260" />
+<item name="crusader helmet" chance="280" />
+<item id="7395" chance="50" /><!-- orc trophy -->
+<item name="magma boots" chance="280" />
+
+<item name="fire sword" chance="8970" />
