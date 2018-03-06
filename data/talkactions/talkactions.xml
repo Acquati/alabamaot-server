@@ -35,9 +35,6 @@
 	<talkaction words="/reload" separator=" " script="reload.lua" />
 	<talkaction words="/raid" separator=" " script="force_raid.lua" />
 
-	<!-- auto loot system -->
-	<talkaction words="!autoloot" separator=" " script="Auto Loot.lua"/>
-
 	<!-- player talkactions -->
 	<talkaction words="!buypremium" script="buyprem.lua" />
 	<talkaction words="!buyhouse" script="buyhouse.lua" />
