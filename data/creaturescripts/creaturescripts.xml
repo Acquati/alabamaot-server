@@ -8,4 +8,6 @@
 	<event type="death" name="PlayerDeath" script="playerdeath.lua" />
 	<event type="death" name="DropLoot" script="droploot.lua" />
 	<event type="extendedopcode" name="ExtendedOpcode" script="extendedopcode.lua" />
+	<event type="login" name="aloot_reg" event="script" value="aloot.lua"/>
+	<event type="kill" name="aloot_kill" event="script" value="aloot.lua"/>
 </creaturescripts>
