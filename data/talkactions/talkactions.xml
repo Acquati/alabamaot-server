@@ -36,7 +36,7 @@
 	<talkaction words="/raid" separator=" " script="force_raid.lua" />
 
 	<!-- auto loot system -->
-	<talkaction words="/aloot" hide="yes" event="script" value="aloot.lua"/>
+	<talkaction words="!aloot" script="aloot.lua"/>
 
 	<!-- player talkactions -->
 	<talkaction words="!buypremium" script="buyprem.lua" />
