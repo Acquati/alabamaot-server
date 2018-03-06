@@ -34,7 +34,7 @@ function onLogin(player)
 	player:registerEvent("DropLoot")
 
 	-- Auto Loot
-	player:registerCreatureEvent("autoloot")
-	player:registerCreatureEvent("Auto Loot")
+	registerCreatureEvent(player, "autoloot")
+	registerCreatureEvent(player, "Auto Loot")
 	return true
 end
