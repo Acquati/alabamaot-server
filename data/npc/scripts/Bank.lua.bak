@@ -1,4 +1,5 @@
 local keywordHandler = KeywordHandler:new()
+
 local npcHandler = NpcHandler:new(keywordHandler)
 NpcSystem.parseParameters(npcHandler)
 local talkState = {}
@@ -226,11 +227,17 @@ else
 selfSay('Ok. We cancel.', cid)
 talkState[talkUser] = 0
 end
+
+
 end
+
+
 end
 
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:addModule(FocusModule:new())
+
+
 
 -- function maded by Gesior--
 function getNumber(txt) --return number if its number and is > 0, else return 0
