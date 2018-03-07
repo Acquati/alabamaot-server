@@ -1,244 +1,321 @@
 local keywordHandler = KeywordHandler:new()
 local npcHandler = NpcHandler:new(keywordHandler)
 NpcSystem.parseParameters(npcHandler)
-local talkState = {}
-
+ 
+local Topic, count, transfer = {}, {}, {}
+ 
 function onCreatureAppear(cid) npcHandler:onCreatureAppear(cid) end
 function onCreatureDisappear(cid) npcHandler:onCreatureDisappear(cid) end
 function onCreatureSay(cid, type, msg) npcHandler:onCreatureSay(cid, type, msg) end
 function onThink() npcHandler:onThink() end
-
+ 
+local function getCount(s)
+    local b, e = s:find('%d+')
+    return b and e and math.min(4294967295, tonumber(s:sub(b, e))) or -1
+end
+ 
+local function findPlayer(name)
+    local q = db.getResult('SELECT name FROM players WHERE name=' .. db.escapeString(name) .. ' LIMIT 1'), nil
+    if q:getID() == -1 then
+        return
+    end
+    local r = q:getDataString('name')
+    q:free()
+    return r
+end
+ 
+function greet(cid)
+    Topic[cid], count[cid], transfer[cid] = nil, nil, nil
+    return true
+end
+ 
 function creatureSayCallback(cid, type, msg)
-if(not npcHandler:isFocused(cid)) then
-return false
+    if not npcHandler:isFocused(cid) then
+        return false
+    elseif msgcontains(msg, 'balance') then
+        npcHandler:say('Your account balance is ' .. getPlayerBalance(cid) .. ' gold.', cid)
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'deposit') and msgcontains(msg, 'all') then
+        if getPlayerMoney(cid) == 0 then
+            npcHandler:say('You don\'t have any gold with you.', cid)
+            Topic[cid] = nil
+        else
+            count[cid] = getPlayerMoney(cid)
+            npcHandler:say('Would you really like to deposit ' .. count[cid] .. ' gold?', cid)
+            Topic[cid] = 2
+        end
+    elseif msgcontains(msg, 'deposit') then
+        if getCount(msg) == 0 then
+            npcHandler:say('You are joking, aren\'t you??', cid)
+            Topic[cid] = nil
+        elseif getCount(msg) ~= -1 then
+            if getPlayerMoney(cid) >= getCount(msg) then
+                count[cid] = getCount(msg)
+                npcHandler:say('Would you really like to deposit ' .. count[cid] .. ' gold?', cid)
+                Topic[cid] = 2
+            else
+                npcHandler:say('You do not have enough gold.', cid)
+                Topic[cid] = nil
+            end
+        elseif getPlayerMoney(cid) == 0 then
+            npcHandler:say('You don\'t have any gold with you.', cid)
+            Topic[cid] = nil
+        else
+            npcHandler:say('Please tell me how much gold it is you would like to deposit.', cid)
+            Topic[cid] = 1
+        end
+    elseif Topic[cid] == 1 then
+        if getCount(msg) == -1 then
+            npcHandler:say('Please tell me how much gold it is you would like to deposit.', cid)
+            Topic[cid] = 1
+        elseif getPlayerMoney(cid) >= getCount(msg) then
+            count[cid] = getCount(msg)
+            npcHandler:say('Would you really like to deposit ' .. count[cid] .. ' gold?', cid)
+            Topic[cid] = 2
+        else
+            npcHandler:say('You do not have enough gold.', cid)
+            Topic[cid] = nil
+        end
+    elseif msgcontains(msg, 'yes') and Topic[cid] == 2 then
+        if doPlayerRemoveMoney(cid, count[cid]) then
+            doPlayerSetBalance(cid, getPlayerBalance(cid) + count[cid])
+            npcHandler:say('Alright, we have added the amount of ' .. count[cid] .. ' gold to your balance. You can withdraw your money anytime you want to.', cid)
+        else
+            npcHandler:say('I am inconsolable, but it seems you have lost your gold. I hope you get it back.', cid)
+        end
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'no') and Topic[cid] == 2 then
+        npcHandler:say('As you wish. Is there something else I can do for you?', cid)
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'withdraw') then
+        if getCount(msg) == 0 then
+            npcHandler:say('Sure, you want nothing you get nothing!', cid)
+            Topic[cid] = nil
+        elseif getCount(msg) ~= -1 then
+            if getPlayerBalance(cid) >= getCount(msg) then
+                count[cid] = getCount(msg)
+                npcHandler:say('Are you sure you wish to withdraw ' .. count[cid] .. ' gold from your bank account?', cid)
+                Topic[cid] = 4
+            else
+                npcHandler:say('There is not enough gold on your account.', cid)
+                Topic[cid] = nil
+            end
+        elseif getPlayerBalance(cid) == 0 then
+            npcHandler:say('You don\'t have any money on your bank account.', cid)
+            Topic[cid] = nil
+        else
+            npcHandler:say('Please tell me how much gold you would like to withdraw.', cid)
+            Topic[cid] = 3
+        end
+    elseif Topic[cid] == 3 then
+        if getCount(msg) == -1 then
+            npcHandler:say('Please tell me how much gold you would like to withdraw.', cid)
+            Topic[cid] = 3
+        elseif getPlayerBalance(cid) >= getCount(msg) then
+            count[cid] = getCount(msg)
+            npcHandler:say('Are you sure you wish to withdraw ' .. count[cid] .. ' gold from your bank account?', cid)
+            Topic[cid] = 4
+        else
+            npcHandler:say('There is not enough gold on your account.', cid)
+            Topic[cid] = nil
+        end
+    elseif msgcontains(msg, 'yes') and Topic[cid] == 4 then
+        if getPlayerBalance(cid) >= count[cid] then
+            doPlayerAddMoney(cid, count[cid])
+            doPlayerSetBalance(cid, getPlayerBalance(cid) - count[cid])
+            npcHandler:say('Here you are, ' .. count[cid] .. ' gold. Please let me know if there is something else I can do for you.', cid)
+        else
+            npcHandler:say('There is not enough gold on your account.', cid)
+        end
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'no') and Topic[cid] == 4 then
+        npcHandler:say('The customer is king! Come back anytime you want to if you wish to withdraw your money.', cid)
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'transfer') then
+        if getCount(msg) == 0 then
+            npcHandler:say('Please think about it. Okay?', cid)
+            Topic[cid] = nil
+        elseif getCount(msg) ~= -1 then
+            count[cid] = getCount(msg)
+            if getPlayerBalance(cid) >= count[cid] then
+                npcHandler:say('Who would you like to transfer ' .. count[cid] .. ' gold to?', cid)
+                Topic[cid] = 6
+            else
+                npcHandler:say('There is not enough gold on your account.', cid)
+                Topic[cid] = nil
+            end
+        else
+            npcHandler:say('Please tell me the amount of gold you would like to transfer.', cid)
+            Topic[cid] = 5
+        end
+    elseif Topic[cid] == 5 then
+        if getCount(msg) == -1 then
+            npcHandler:say('Please tell me the amount of gold you would like to transfer.', cid)
+            Topic[cid] = 5
+        else
+            count[cid] = getCount(msg)
+            if getPlayerBalance(cid) >= count[cid] then
+                npcHandler:say('Who would you like to transfer ' .. count[cid] .. ' gold to?', cid)
+                Topic[cid] = 6
+            else
+                npcHandler:say('There is not enough gold on your account.', cid)
+                Topic[cid] = nil
+            end
+        end
+    elseif Topic[cid] == 6 then
+        local v = getPlayerByName(msg)
+        if getPlayerBalance(cid) >= count[cid] then
+            if v then
+                transfer[cid] = msg
+                npcHandler:say('Would you really like to transfer ' .. count[cid] .. ' gold to ' .. getPlayerName(v) .. '?', cid)
+                Topic[cid] = 7
+            elseif findPlayer(msg):lower() == msg:lower() then
+                transfer[cid] = msg
+                npcHandler:say('Would you really like to transfer ' .. count[cid] .. ' gold to ' .. findPlayer(msg) .. '?', cid)
+                Topic[cid] = 7
+            else
+                npcHandler:say('This player does not exist.', cid)
+                Topic[cid] = nil
+            end
+        else
+            npcHandler:say('There is not enough gold on your account.', cid)
+            Topic[cid] = nil
+        end
+    elseif Topic[cid] == 7 and msgcontains(msg, 'yes') then
+        if getPlayerBalance(cid) >= count[cid] then
+            local v = getPlayerByName(transfer[cid])
+            if v then
+                doPlayerSetBalance(cid, getPlayerBalance(cid) - count[cid])
+                doPlayerSetBalance(v, getPlayerBalance(v) + count[cid])
+                npcHandler:say('Very well. You have transferred ' .. count[cid] .. ' gold to ' .. getPlayerName(v) .. '.', cid)
+            elseif findPlayer(transfer[cid]):lower() == transfer[cid]:lower() then
+                doPlayerSetBalance(cid, getPlayerBalance(cid) - count[cid])
+                db.executeQuery('UPDATE players SET balance=balance+' .. count[cid] .. ' WHERE name=' .. db.escapeString(transfer[cid]) .. ' LIMIT 1')
+                npcHandler:say('Very well. You have transferred ' .. count[cid] .. ' gold to ' .. findPlayer(transfer[cid]) .. '.', cid)
+            else
+                npcHandler:say('This player does not exist.', cid)
+            end
+        else
+            npcHandler:say('There is not enough gold on your account.', cid)
+        end
+        Topic[cid] = nil
+    elseif Topic[cid] == 7 and msgcontains(msg, 'no') then
+        npcHandler:say('Alright, is there something else I can do for you?', cid)
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'change gold') then
+        npcHandler:say('How many platinum coins would you like to get?', cid)
+        Topic[cid] = 8
+    elseif Topic[cid] == 8 then
+        if getCount(msg) < 1 then
+            npcHandler:say('Hmm, can I help you with something else?', cid)
+            Topic[cid] = nil
+        else
+            count[cid] = math.min(500, getCount(msg))
+            npcHandler:say('So you would like me to change ' .. count[cid] * 100 .. ' of your gold coins into ' .. count[cid] .. ' platinum coins?', cid)
+            Topic[cid] = 9
+        end
+    elseif Topic[cid] == 9 then
+        if msgcontains(msg, 'yes') then
+            if doPlayerRemoveItem(cid, 2148, count[cid] * 100) then
+                npcHandler:say('Here you are.', cid)
+                doPlayerAddItem(cid, 2152, count[cid])
+            else
+                npcHandler:say('Sorry, you do not have enough gold coins.', cid)
+            end
+        else
+            npcHandler:say('Well, can I help you with something else?', cid)
+        end
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'change platinum') then
+        npcHandler:say('Would you like to change your platinum coins into gold or crystal?', cid)
+        Topic[cid] = 10
+    elseif Topic[cid] == 10 then
+        if msgcontains(msg, 'gold') then
+            npcHandler:say('How many platinum coins would you like to change into gold?', cid)
+            Topic[cid] = 11
+        elseif msgcontains(msg, 'crystal') then
+            npcHandler:say('How many crystal coins would you like to get?', cid)
+            Topic[cid] = 13
+        else
+            npcHandler:say('Well, can I help you with something else?', cid)
+            Topic[cid] = nil
+        end
+    elseif Topic[cid] == 11 then
+        if getCount(msg) < 1 then
+            npcHandler:say('Hmm, can I help you with something else?', cid)
+            Topic[cid] = nil
+        else
+            count[cid] = math.min(500, getCount(msg))
+            npcHandler:say('So you would like me to change ' .. count[cid] .. ' of your platinum coins into ' .. count[cid] * 100 .. ' gold coins for you?', cid)
+            Topic[cid] = 12
+        end
+    elseif Topic[cid] == 12 then
+        if msgcontains(msg, 'yes') then
+            if doPlayerRemoveItem(cid, 2152, count[cid]) then
+                npcHandler:say('Here you are.', cid)
+                doPlayerAddItem(cid, 2148, count[cid] * 100)
+            else
+                npcHandler:say('Sorry, you do not have enough platinum coins.', cid)
+            end
+        else
+            npcHandler:say('Well, can I help you with something else?', cid)
+        end
+        Topic[cid] = nil
+    elseif Topic[cid] == 13 then
+        if getCount(msg) < 1 then
+            npcHandler:say('Hmm, can I help you with something else?', cid)
+            Topic[cid] = nil
+        else
+            count[cid] = math.min(500, getCount(msg))
+            npcHandler:say('So you would like me to change ' .. count[cid] * 100 .. ' of your platinum coins into ' .. count[cid] .. ' crystal coins for you?', cid)
+            Topic[cid] = 14
+        end
+    elseif Topic[cid] == 14 then
+        if msgcontains(msg, 'yes') then
+            if doPlayerRemoveItem(cid, 2152, count[cid] * 100) then
+                npcHandler:say('Here you are.', cid)
+                doPlayerAddItem(cid, 2160, count[cid])
+            else
+                npcHandler:say('Sorry, you do not have enough platinum coins.', cid)
+            end
+        else
+            npcHandler:say('Well, can I help you with something else?', cid)
+        end
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'change crystal') then
+        npcHandler:say('How many crystal coins would you like to change into platinum?', cid)
+        Topic[cid] = 15
+    elseif Topic[cid] == 15 then
+        if getCount(msg) == -1 or getCount(msg) == 0 then
+            npcHandler:say('Hmm, can I help you with something else?', cid)
+            Topic[cid] = nil
+        else
+            count[cid] = math.min(500, getCount(msg))
+            npcHandler:say('So you would like me to change ' .. count[cid] .. ' of your crystal coins into ' .. count[cid] * 100 .. ' platinum coins for you?', cid)
+            Topic[cid] = 16
+        end
+    elseif Topic[cid] == 16 then
+        if msgcontains(msg, 'yes') then
+            if doPlayerRemoveItem(cid, 2160, count[cid]) then
+                npcHandler:say('Here you are.', cid)
+                doPlayerAddItem(cid, 2152, count[cid] * 100)
+            else
+                npcHandler:say('Sorry, you do not have enough crystal coins.', cid)
+            end
+        else
+            npcHandler:say('Well, can I help you with something else?', cid)
+        end
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'change') then
+        npcHandler:say('There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you\'d like to change 100 gold into 1 platinum, simply say \'{change gold}\' and then \'1 platinum\'.', cid)
+        Topic[cid] = nil
+    elseif msgcontains(msg, 'bank') then
+        npcHandler:say('We can change money for you. You can also access your bank account.', cid)
+        Topic[cid] = nil
+    end
+    return true
 end
-
-local talkUser = NPCHANDLER_CONVBEHAVIOR == CONVERSATION_DEFAULT and 0 or cid
-
---------------------MESSAGES------------------------------------------------------------------------------
-if msgcontains(msg, 'deposit') then
-selfSay('Please tell me how much gold it is you would like to deposit.', cid)
-talkState[talkUser] = 1
-
-elseif msgcontains(msg, 'withdraw') then
-selfSay('Please tell me how much gold you would like to withdraw.', cid)
-talkState[talkUser] = 3
-
-elseif msgcontains(msg, 'transfer') then
-selfSay('Please tell me the amount of gold coins you would like to transfer.', cid)
-talkState[talkUser] = 5
-
-elseif msgcontains(msg, 'change gold') then
-selfSay('How many platinum coins do you want to get?', cid)
-talkState[talkUser] = 8
-
-elseif msgcontains(msg, 'change platinum') then
-selfSay('Do you want to change your platinum coins to gold or crystal?', cid)
-talkState[talkUser] = 10
-
-elseif msgcontains(msg, 'change crystal') then
-selfSay('How many crystal coins do you want to change to platinum?', cid)
-talkState[talkUser] = 15
-
-elseif msgcontains(msg, 'balance') then
-n = getPlayerBalance(cid)
-selfSay('Your balance are '..n..' golds.', cid)
-talkState[talkUser] = 0
-
-
-----------------------DEPOSIT-------------------------------------------------------
-elseif talkState[talkUser] == 1 then
-if msgcontains(msg, 'all') then
-n = getPlayerMoney(cid)
-selfSay('Do you want deposit '..n..' golds ?', cid)
-talkState[talkUser] = 2
-else
-n = getNumber(msg)
-selfSay('Do you want deposit '..n..' golds ?', cid)
-talkState[talkUser] = 2
-end
-
-elseif talkState[talkUser] == 2 then
-if msgcontains(msg, 'yes') then
-if getPlayerMoney(cid) >= n then
-doPlayerDepositMoney(cid,n)
-selfSay('Sucessfull. Now your balance account is ' ..getPlayerBalance(cid)..' golds.', cid)
-talkState[talkUser] = 0
-else
-selfSay('You don\'t have money.', cid)
-end
-else
-selfSay('Ok then', cid)
-end
-
-----------------------WITHDRAW-------------------------------------------------------------------------------------
-
-elseif talkState[talkUser] == 3 then
-if msgcontains(msg, 'all') then
-n = getPlayerBalance(cid)
-selfSay('Do you want withdraw '..n..' golds ?', cid)
-talkState[talkUser] = 4
-else
-n = getNumber(msg)
-selfSay('Do you want withdraw '..n..' golds ?', cid)
-talkState[talkUser] = 4
-end
-
-elseif talkState[talkUser] == 4 then
-if msgcontains(msg, 'yes') then
-if getPlayerBalance(cid) >= n then
-doPlayerWithdrawMoney(cid, n)
-selfSay('Here you are, '..n..' gold. Now your balance account is ' ..getPlayerBalance(cid)..' golds.', cid)
-talkState[talkUser] = 0
-else
-selfSay('There is not enough gold on your account', cid)
-end
-else
-selfSay('Ok then', cid)
-end
-
-----------------------TRANSFER----------------------------------------------------------------------------------------
-
-elseif talkState[talkUser] == 5 then
-if msgcontains(msg, 'all') then
-n = getPlayerBalance(cid)
-selfSay('Who would you like transfer '..n..' gold to?', cid)
-talkState[talkUser] = 6
-else
-n = getNumber(msg)
-selfSay('Who would you like transfer '..n..' gold to?', cid)
-talkState[talkUser] = 6
-end
-
-elseif talkState[talkUser] == 6 then
-p = msg
-selfSay('So you would like to transfer '..n..' gold to '..p..'?', cid)
-talkState[talkUser] = 7
-
-elseif talkState[talkUser] == 7 then
-if msgcontains(msg, 'yes') then
-if getPlayerBalance(cid) >= n then
-if doPlayerTransferMoneyTo(cid, p, n) == TRUE then
-selfSay('You have transferred '..n..' gold to '..p..' and your account balance is '..getPlayerBalance(cid)..' golds.', cid)
-talkState[talkUser] = 0
-else
-selfSay('This player does not exist. Please tell me a valid name!', cid)
-talkState[talkUser] = 0
-end
-else
-selfSay('There is not enough gold on your account', cid)
-talkState[talkUser] = 0
-end
-else
-selfSay('Ok then', cid)
-talkState[talkUser] = 0
-end
-
-----------------------CHANGE GOLD---------------------------------------------------------------------------------
-elseif talkState[talkUser] == 8 then
-n = getNumber(msg)
-b = n * 100
-selfSay('So I should change '..b..' of your gold coins to '..n..' platinum coins for you?', cid)
-talkState[talkUser] = 9
-
-elseif talkState[talkUser] == 9 then
-if msgcontains(msg, 'yes') then
-if doPlayerRemoveItem(cid, 2148, b) == TRUE then
-doPlayerAddItem(cid, 2152, n)
-talkState[talkUser] = 0
-else
-selfSay('You don\'t have money.', cid)
-talkState[talkUser] = 0
-end
-else
-selfSay('Ok. We cancel.', cid)
-talkState[talkUser] = 0
-end
-
----------------------CHANGE PLATINUM-------------------------------------------------------------------------
-elseif talkState[talkUser] == 10 then
-if msgcontains(msg, 'gold') then
-selfSay('How many platinum coins do you want to change to gold?', cid)
-talkState[talkUser] = 11
-elseif msgcontains(msg, 'crystal') then
-selfSay('How many crystal coins do you want to get?', cid)
-talkState[talkUser] = 13
-end
-
-
-elseif talkState[talkUser] == 11 then
-n = getNumber(msg)
-b = n * 100
-selfSay('So I should change '..n..' of your platinum coins to '..b..' gold coins for you?', cid)
-talkState[talkUser] = 12
-
-elseif talkState[talkUser] == 12 then
-if msgcontains(msg, 'yes') then
-if doPlayerRemoveItem(cid, 2152, n) == TRUE then
-doPlayerAddItem(cid, 2148, b)
-talkState[talkUser] = 0
-else
-selfSay('You don\'t have money.', cid)
-talkState[talkUser] = 0
-end
-else
-selfSay('Ok. We cancel.', cid)
-talkState[talkUser] = 0
-end
-
-elseif talkState[talkUser] == 13 then
-n = getNumber(msg)
-b = n * 100
-selfSay('So I should change '..b..' of your platinum coins to '..n..' crystal coins for you?', cid)
-talkState[talkUser] = 14
-
-elseif talkState[talkUser] == 14 then
-if msgcontains(msg, 'yes') then
-if doPlayerRemoveItem(cid, 2152, b) == TRUE then
-doPlayerAddItem(cid, 2160, n)
-talkState[talkUser] = 0
-else
-selfSay('You don\'t have money.', cid)
-talkState[talkUser] = 0
-end
-else
-selfSay('Ok. We cancel.', cid)
-talkState[talkUser] = 0
-end
-
----------------------CHANGE CRYSTAL-------------------------------------------------------------------------------
-elseif talkState[talkUser] == 15 then
-n = getNumber(msg)
-b = n * 100
-selfSay('So I should change '..n..' of your crystal coins to '..b..' platinum coins for you?', cid)
-talkState[talkUser] = 16
-
-elseif talkState[talkUser] == 16 then
-if msgcontains(msg, 'yes') then
-if doPlayerRemoveItem(cid, 2160, n) == TRUE then
-doPlayerAddItem(cid, 2152, b)
-talkState[talkUser] = 0
-else
-selfSay('You don\'t have money.', cid)
-talkState[talkUser] = 0
-end
-else
-selfSay('Ok. We cancel.', cid)
-talkState[talkUser] = 0
-end
-end
-end
-
+ 
+npcHandler:setCallback(CALLBACK_GREET, greet)
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
 npcHandler:addModule(FocusModule:new())
-
--- function maded by Gesior--
-function getNumber(txt) --return number if its number and is > 0, else return 0
-x = string.gsub(txt,"%a","")
-x = tonumber(x)
-if x ~= nill and x > 0 then
-return x
-else
-return 0
-end
-end
