@@ -142,6 +142,9 @@
 	<spawn centerx="1049" centery="1055" centerz="7" radius="1">
 		<npc name="Foods" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1016" centery="1098" centerz="7" radius="1">
+		<npc name="I Buy Flavio Leather" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1055" centery="1099" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -154,6 +157,9 @@
 	<spawn centerx="1047" centery="1103" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="997" centery="1104" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1051" centery="1104" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -163,17 +169,41 @@
 	<spawn centerx="1065" centery="1106" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1055" centery="1107" centerz="7" radius="1">
+		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1016" centery="1108" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1110" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1111" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1061" centery="1111" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1023" centery="1112" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1026" centery="1112" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
+	<spawn centerx="991" centery="1113" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="998" centery="1113" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
+	</spawn>
+	<spawn centerx="1027" centery="1116" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1043" centery="1116" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1051" centery="1116" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1002" centery="1118" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
@@ -193,6 +223,9 @@
 	<spawn centerx="1039" centery="1125" centerz="7" radius="1">
 		<monster name="Troll" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
+	<spawn centerx="1051" centery="1125" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1023" centery="1126" centerz="7" radius="1">
 		<monster name="Troll" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
@@ -201,6 +234,9 @@
 	</spawn>
 	<spawn centerx="1036" centery="1128" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1059" centery="1128" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1055" centery="1131" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
@@ -211,6 +247,9 @@
 	<spawn centerx="989" centery="1133" centerz="7" radius="1">
 		<monster name="Dragon" x="0" y="0" z="7" spawntime="37" />
 	</spawn>
+	<spawn centerx="1009" centery="1133" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1012" centery="1134" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
@@ -220,6 +259,15 @@
 	<spawn centerx="1006" centery="1135" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
+	<spawn centerx="1027" centery="1135" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1050" centery="1135" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1060" centery="1136" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1039" centery="1137" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
@@ -228,6 +276,18 @@
 	</spawn>
 	<spawn centerx="992" centery="1139" centerz="7" radius="1">
 		<monster name="Dragon Hatchling" x="0" y="0" z="7" spawntime="41" />
+	</spawn>
+	<spawn centerx="1011" centery="1139" centerz="7" radius="1">
+		<monster name="Troll" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1038" centery="1139" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1141" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1142" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="987" centery="1143" centerz="7" radius="1">
 		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
@@ -241,8 +301,20 @@
 	<spawn centerx="1056" centery="1144" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
+	<spawn centerx="1039" centery="1146" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1022" centery="1147" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1027" centery="1147" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
+	</spawn>
+	<spawn centerx="1043" centery="1147" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1054" centery="1148" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1016" centery="1150" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
@@ -253,14 +325,44 @@
 	<spawn centerx="991" centery="1152" centerz="7" radius="1">
 		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1049" centery="1152" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1052" centery="1152" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
+	</spawn>
+	<spawn centerx="1007" centery="1153" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1018" centery="1153" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1028" centery="1153" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1031" centery="1153" centerz="7" radius="1">
 		<monster name="Deer" x="0" y="0" z="7" spawntime="40" />
 	</spawn>
+	<spawn centerx="1039" centery="1154" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1053" centery="1157" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1039" centery="1158" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1007" centery="1159" centerz="7" radius="1">
+		<monster name="Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1023" centery="1159" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="35" />
+	</spawn>
+	<spawn centerx="1042" centery="1160" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="1161" centerz="7" radius="1">
+		<monster name="Poison Spider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1026" centery="1161" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="35" />
@@ -684,6 +786,9 @@
 	</spawn>
 	<spawn centerx="1108" centery="953" centerz="8" radius="1">
 		<monster name="Apprentice Sheng" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1142" centery="953" centerz="8" radius="1">
+		<monster name="General Murius" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="898" centery="954" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
