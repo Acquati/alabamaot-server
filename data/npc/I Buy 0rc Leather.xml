@@ -47,7 +47,7 @@
 			magma boots,7891,2500;
 			fire sword,2392,4000;
 			shamanic hood,12434,45;
-			broken shamanic staff,12408,35;
+			broken shamanic staff,12408,35
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
