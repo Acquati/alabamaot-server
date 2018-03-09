@@ -811,16 +811,10 @@
 	<spawn centerx="924" centery="981" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1045" centery="981" centerz="8" radius="1">
-		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1084" centery="981" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1079" centery="982" centerz="8" radius="1">
-		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1042" centery="983" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="856" centery="984" centerz="8" radius="1">
@@ -961,6 +955,12 @@
 	</spawn>
 	<spawn centerx="907" centery="989" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1045" centery="989" centerz="8" radius="1">
+		<monster name="Minotaur" x="0" y="0" z="8" spawntime="0" />
+	</spawn>
+	<spawn centerx="1048" centery="989" centerz="8" radius="1">
+		<monster name="Minotaur" x="0" y="0" z="8" spawntime="0" />
 	</spawn>
 	<spawn centerx="1108" centery="989" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
