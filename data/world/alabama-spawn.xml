@@ -957,10 +957,10 @@
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1045" centery="989" centerz="8" radius="1">
-		<monster name="Minotaur" x="0" y="0" z="8" spawntime="0" />
+		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1048" centery="989" centerz="8" radius="1">
-		<monster name="Minotaur" x="0" y="0" z="8" spawntime="0" />
+		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1108" centery="989" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
@@ -1275,6 +1275,9 @@
 	<spawn centerx="1079" centery="1008" centerz="8" radius="1">
 		<monster name="Wasp" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1156" centery="1008" centerz="8" radius="1">
+		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1209" centery="1008" centerz="8" radius="1">
 		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1298,9 +1301,6 @@
 	</spawn>
 	<spawn centerx="956" centery="1009" centerz="8" radius="1">
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1157" centery="1009" centerz="8" radius="1">
-		<monster name="Lancer Beetle" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1199" centery="1009" centerz="8" radius="1">
 		<monster name="Insectoid Worker" x="0" y="0" z="8" spawntime="60" />
