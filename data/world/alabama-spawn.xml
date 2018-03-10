@@ -3,6 +3,144 @@
 	<spawn centerx="1043" centery="1055" centerz="0" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="0" spawntime="60" />
 	</spawn>
+	<spawn centerx="975" centery="977" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="988" centery="978" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="994" centery="978" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="1000" centery="978" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="981" centery="980" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="1006" centery="981" centerz="2" radius="1">
+		<monster name="Dirtbeard" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="988" centery="984" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="994" centery="984" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="1000" centery="984" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="975" centery="986" centerz="2" radius="1">
+		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
+	</spawn>
+	<spawn centerx="989" centery="976" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="1003" centery="976" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="983" centery="977" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="995" centery="977" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="979" centery="981" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="999" centery="981" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="981" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="993" centery="982" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="975" centery="983" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="983" centery="983" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="987" centery="984" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="979" centery="986" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="992" centery="986" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="998" centery="986" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="1004" centery="986" centerz="3" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
+	</spawn>
+	<spawn centerx="1000" centery="976" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="1006" centery="976" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="976" centery="977" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="982" centery="977" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="988" centery="977" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="992" centery="979" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="995" centery="979" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="978" centery="980" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="984" centery="980" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="1004" centery="981" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="981" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="998" centery="982" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="1001" centery="982" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="976" centery="984" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="982" centery="984" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="992" centery="985" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="995" centery="985" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="980" centery="987" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="986" centery="987" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="1003" centery="987" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="987" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
 	<spawn centerx="1048" centery="1104" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -18,8 +156,116 @@
 	<spawn centerx="1057" centery="1110" centerz="4" radius="1">
 		<monster name="Cyclops Smith" x="0" y="0" z="4" spawntime="41" />
 	</spawn>
+	<spawn centerx="977" centery="976" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="983" centery="977" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="989" centery="977" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="995" centery="977" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="1004" centery="977" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="998" centery="978" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="977" centery="980" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="980" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="987" centery="982" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="992" centery="982" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="1001" centery="982" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="981" centery="984" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="985" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="975" centery="986" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="985" centery="986" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="991" centery="986" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="997" centery="986" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="1003" centery="986" centerz="5" radius="1">
+		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="5" radius="1">
 		<npc name="Wands And Rods" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1005" centery="976" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="976" centery="977" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="988" centery="977" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="994" centery="977" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="1000" centery="978" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="1005" centery="979" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="981" centery="980" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="980" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="992" centery="981" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="985" centery="982" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="975" centery="983" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="996" centery="983" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="1002" centery="983" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="980" centery="986" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="990" centery="986" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="1008" centery="986" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="996" centery="987" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
+	</spawn>
+	<spawn centerx="1002" centery="987" centerz="6" radius="1">
+		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
 	</spawn>
 	<spawn centerx="979" centery="1020" centerz="6" radius="1">
 		<npc name="Mail" x="0" y="0" z="6" spawntime="60" />
@@ -75,11 +321,83 @@
 	<spawn centerx="997" centery="1154" centerz="6" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="6" spawntime="40" />
 	</spawn>
-	<spawn centerx="990" centery="988" centerz="7" radius="1">
-		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="995" centery="957" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1012" centery="990" centerz="7" radius="1">
-		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="981" centery="960" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1005" centery="960" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="992" centery="962" centerz="7" radius="1">
+		<monster name="Horse1" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="1013" centery="962" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="971" centery="963" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="979" centery="968" centerz="7" radius="1">
+		<monster name="Horse" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="1003" centery="968" centerz="7" radius="1">
+		<monster name="Horse" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="964" centery="970" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1014" centery="974" centerz="7" radius="1">
+		<monster name="Donkey" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1003" centery="977" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="1031" centery="977" centerz="7" radius="1">
+		<npc name="I Buy Pirate Things" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="995" centery="978" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="980" centery="979" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="990" centery="979" centerz="7" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="985" centery="980" centerz="7" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="975" centery="981" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="1003" centery="981" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="996" centery="982" centerz="7" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="1007" centery="983" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="978" centery="985" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="984" centery="985" centerz="7" radius="1">
+		<monster name="Amazon" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="990" centery="985" centerz="7" radius="1">
+		<monster name="Amazon" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="996" centery="986" centerz="7" radius="1">
+		<monster name="Amazon" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="1002" centery="986" centerz="7" radius="1">
+		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
+	</spawn>
+	<spawn centerx="963" centery="988" centerz="7" radius="1">
+		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="991" centery="998" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
@@ -754,6 +1072,15 @@
 	<spawn centerx="1268" centery="973" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="978" centery="974" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="990" centery="974" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="994" centery="974" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="1066" centery="974" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -772,11 +1099,23 @@
 	<spawn centerx="921" centery="975" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="984" centery="975" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="908" centery="976" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="912" centery="976" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="973" centery="976" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="1001" centery="976" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="1005" centery="976" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1266" centery="976" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
@@ -790,11 +1129,20 @@
 	<spawn centerx="850" centery="978" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1010" centery="978" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="896" centery="979" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="920" centery="979" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="979" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="989" centery="979" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1081" centery="979" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
@@ -808,20 +1156,41 @@
 	<spawn centerx="911" centery="980" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="997" centery="980" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="924" centery="981" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="985" centery="981" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="1003" centery="981" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1084" centery="981" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="993" centery="982" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="1079" centery="982" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="983" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="856" centery="984" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="921" centery="984" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1004" centery="984" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="1010" centery="984" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1046" centery="984" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
@@ -866,6 +1235,9 @@
 	<spawn centerx="898" centery="986" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="997" centery="986" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="1044" centery="986" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -886,6 +1258,18 @@
 	</spawn>
 	<spawn centerx="911" centery="987" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="974" centery="987" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="981" centery="987" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="991" centery="987" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="1001" centery="987" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1048" centery="987" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
@@ -916,6 +1300,9 @@
 	</spawn>
 	<spawn centerx="923" centery="988" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="985" centery="988" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1034" centery="988" centerz="8" radius="1">
 		<npc name="I Buy Minotaur Leather" x="0" y="0" z="8" spawntime="60" />
@@ -981,6 +1368,12 @@
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Killer Rabbit" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1005" centery="990" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="1010" centery="990" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
 	<spawn centerx="1099" centery="990" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1007,6 +1400,15 @@
 	</spawn>
 	<spawn centerx="1382" centery="990" centerz="8" radius="1">
 		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="991" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="989" centery="991" centerz="8" radius="1">
+		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
+	</spawn>
+	<spawn centerx="997" centery="991" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
 	<spawn centerx="1105" centery="991" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
@@ -1035,9 +1437,6 @@
 	<spawn centerx="915" centery="992" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="984" centery="992" centerz="8" radius="1">
-		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1102" centery="992" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1064,9 +1463,6 @@
 	</spawn>
 	<spawn centerx="1361" centery="993" centerz="8" radius="1">
 		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="978" centery="994" centerz="8" radius="1">
-		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1127" centery="994" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
@@ -1098,12 +1494,6 @@
 	<spawn centerx="868" centery="998" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="973" centery="998" centerz="8" radius="1">
-		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="992" centery="998" centerz="8" radius="1">
-		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1061" centery="998" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1119,7 +1509,10 @@
 	<spawn centerx="940" centery="999" centerz="8" radius="1">
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="978" centery="999" centerz="8" radius="1">
+	<spawn centerx="975" centery="999" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="999" centerz="8" radius="1">
 		<monster name="Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1108" centery="999" centerz="8" radius="1">
