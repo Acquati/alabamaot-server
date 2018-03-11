@@ -47,6 +47,9 @@
 	<talkaction words="!online" script="online.lua" />
 	<talkaction words="!serverinfo" script="serverinfo.lua" />
 
+	<!-- Auto Loot -->
+	<talkaction words="!autoloot" separator=" " script="autoloot.lua"/>
+
 	<!-- test talkactions -->
 	<talkaction words="!z" separator=" " script="magiceffect.lua" />
 	<talkaction words="!x" separator=" " script="animationeffect.lua" />

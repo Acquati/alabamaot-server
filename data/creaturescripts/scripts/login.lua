@@ -32,5 +32,9 @@ function onLogin(player)
 	-- Events
 	player:registerEvent("PlayerDeath")
 	player:registerEvent("DropLoot")
+
+	-- Autoloot
+	player:registerEvent("AutoLoot")
+	
 	return true
 end
