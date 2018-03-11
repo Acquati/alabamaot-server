@@ -3,7 +3,7 @@ dofile('data/lib/lib.lua')
 STORAGEVALUE_PROMOTION = 30018
 
 -- AutoLoot config
-    AUTO_LOOT_MAX_ITEMS = 5
+    AUTO_LOOT_MAX_ITEMS = 8
  
     -- Reserved storage
     AUTOLOOT_STORAGE_START = 10000

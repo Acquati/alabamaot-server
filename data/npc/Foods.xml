@@ -17,7 +17,12 @@
 			meat,2666,3;
 			ham,2671,5;
 			dragon ham,2672,25;
-			party cake,6280,50
+			party cake,6280,50;
+			golden mug,2033,500;
+			cup,3941,2;
+			jug,2014,10;
+			bucket,2005,4;
+			rum flask,5553,150
 		" />
 	</parameters>
 </npc>
