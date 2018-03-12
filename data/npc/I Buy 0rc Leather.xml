@@ -51,7 +51,9 @@
 			warwolf fur,11235,30;
 			wand of decay,2188,1000;
 			battle shield,2513,95;
-			scale armor,2483,75
+			scale armor,2483,75;
+			shaggy tail,11324,25;
+			broken crossbow,12407,30
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
