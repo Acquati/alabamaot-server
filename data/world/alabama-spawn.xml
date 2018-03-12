@@ -643,8 +643,20 @@
 	<spawn centerx="1031" centery="1161" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="35" />
 	</spawn>
+	<spawn centerx="675" centery="909" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="691" centery="909" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="707" centery="909" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1240" centery="917" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="807" centery="918" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1236" centery="918" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
@@ -654,6 +666,9 @@
 	</spawn>
 	<spawn centerx="1243" centery="919" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="790" centery="920" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1205" centery="920" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
@@ -667,6 +682,30 @@
 	<spawn centerx="1234" centery="921" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="671" centery="922" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="679" centery="922" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="922" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="695" centery="922" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="703" centery="922" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="922" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="814" centery="922" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="823" centery="922" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="969" centery="922" centerz="8" radius="1">
 		<monster name="Orc" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -675,6 +714,9 @@
 	</spawn>
 	<spawn centerx="1244" centery="922" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="801" centery="923" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="884" centery="923" centerz="8" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="8" spawntime="60" />
@@ -685,6 +727,24 @@
 	<spawn centerx="1213" centery="924" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="721" centery="925" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="925" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="746" centery="925" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="925" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="764" centery="925" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="770" centery="925" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="877" centery="925" centerz="8" radius="1">
 		<monster name="Orc Rider" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -692,6 +752,9 @@
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="978" centery="925" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="926" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="893" centery="926" centerz="8" radius="1">
@@ -702,6 +765,18 @@
 	</spawn>
 	<spawn centerx="974" centery="926" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="792" centery="928" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="809" centery="928" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="817" centery="928" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="830" centery="928" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="893" centery="928" centerz="8" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="8" spawntime="60" />
@@ -715,11 +790,29 @@
 	<spawn centerx="978" centery="928" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="806" centery="929" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="903" centery="929" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="974" centery="929" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="931" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="751" centery="931" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="931" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="931" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="836" centery="931" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="867" centery="931" centerz="8" radius="1">
 		<monster name="Orc Rider" x="0" y="0" z="8" spawntime="60" />
@@ -739,17 +832,32 @@
 	<spawn centerx="987" centery="931" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="736" centery="932" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="932" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="911" centery="932" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="949" centery="932" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="822" centery="933" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="946" centery="933" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="990" centery="933" centerz="8" radius="1">
 		<monster name="Orc" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="814" centery="934" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="825" centery="934" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="876" centery="934" centerz="8" radius="1">
 		<monster name="Orc Rider" x="0" y="0" z="8" spawntime="60" />
@@ -763,6 +871,12 @@
 	<spawn centerx="1266" centery="934" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="626" centery="935" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="802" centery="935" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="892" centery="935" centerz="8" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -775,11 +889,50 @@
 	<spawn centerx="1262" centery="935" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="727" centery="936" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1269" centery="936" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="789" centery="937" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="918" centery="937" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="626" centery="938" centerz="8" radius="1">
+		<monster name="Warlord Ruzad" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="671" centery="938" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="683" centery="938" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="699" centery="938" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="938" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="938" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="751" centery="938" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="938" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="938" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="938" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="843" centery="938" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="908" centery="938" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
@@ -796,11 +949,29 @@
 	<spawn centerx="1266" centery="938" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="817" centery="939" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="959" centery="939" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1270" centery="939" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="727" centery="940" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="809" centery="940" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="830" centery="940" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="626" centery="941" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="806" centery="941" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="868" centery="941" centerz="8" radius="1">
 		<monster name="Orc Rider" x="0" y="0" z="8" spawntime="60" />
@@ -829,6 +1000,12 @@
 	<spawn centerx="1267" centery="943" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="736" centery="944" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="944" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="969" centery="944" centerz="8" radius="1">
 		<monster name="Orc" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -841,8 +1018,32 @@
 	<spawn centerx="1193" centery="944" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="742" centery="945" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="751" centery="945" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="945" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="769" centery="945" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="822" centery="945" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="836" centery="945" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1136" centery="945" centerz="8" radius="1">
 		<monster name="General Murius" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="814" centery="946" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="802" centery="947" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="908" centery="947" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
@@ -859,6 +1060,9 @@
 	<spawn centerx="1226" centery="947" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="790" centery="948" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="870" centery="948" centerz="8" radius="1">
 		<monster name="Orc Rider" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -874,7 +1078,31 @@
 	<spawn centerx="1245" centery="948" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="827" centery="949" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="960" centery="949" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="950" centerz="8" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="951" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="951" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="746" centery="951" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="755" centery="951" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="764" centery="951" centerz="8" radius="1">
+		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="770" centery="951" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="878" centery="951" centerz="8" radius="1">
@@ -901,6 +1129,12 @@
 	<spawn centerx="1216" centery="952" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="806" centery="953" centerz="8" radius="1">
+		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="819" centery="953" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="945" centery="953" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -909,6 +1143,27 @@
 	</spawn>
 	<spawn centerx="1108" centery="953" centerz="8" radius="1">
 		<monster name="Apprentice Sheng" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="671" centery="954" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="679" centery="954" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="954" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="695" centery="954" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="703" centery="954" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="711" centery="954" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="810" centery="954" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="941" centery="954" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
@@ -924,6 +1179,9 @@
 	</spawn>
 	<spawn centerx="984" centery="955" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="795" centery="956" centerz="8" radius="1">
+		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="958" centery="956" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
@@ -981,6 +1239,15 @@
 	</spawn>
 	<spawn centerx="1132" centery="966" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="675" centery="967" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="691" centery="967" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="707" centery="967" centerz="8" radius="1">
+		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="827" centery="967" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
