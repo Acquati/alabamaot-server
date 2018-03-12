@@ -34,7 +34,8 @@
 			brass legs,2478,49;
 			plate legs,2647,115;
 			warwolf fur,11235,30;
-			nose ring,5804,2000
+			nose ring,5804,2000;
+			wand of cosmic energy,2189,2000
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
