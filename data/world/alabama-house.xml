@@ -25,4 +25,6 @@
 	<house name="Armors #3" houseid="23" entryx="1045" entryy="1014" entryz="6" rent="3000" townid="1" size="10" />
 	<house name="Armors #4" houseid="24" entryx="1037" entryy="1014" entryz="5" rent="6500" townid="1" size="30" />
 	<house name="Armors #5" houseid="25" entryx="1039" entryy="1014" entryz="5" rent="5200" townid="1" size="20" />
+	<house name="Mount #1" houseid="26" entryx="1002" entryy="1035" entryz="6" rent="0" townid="1" size="95" />
+	<house name="Mount #2" houseid="27" entryx="1002" entryy="1035" entryz="5" rent="0" townid="1" size="225" />
 </houses>

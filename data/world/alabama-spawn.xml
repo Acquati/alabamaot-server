@@ -402,9 +402,7 @@
 	<spawn centerx="978" centery="1018" centerz="7" radius="1">
 		<npc name="Bank" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="998" centery="1030" centerz="7" radius="1">
-		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="998" centery="1030" centerz="7" radius="1" />
 	<spawn centerx="1037" centery="1034" centerz="7" radius="1">
 		<npc name="Distance Weapons" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -413,6 +411,9 @@
 	</spawn>
 	<spawn centerx="1054" centery="1035" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1036" centerz="7" radius="1">
+		<npc name="Mount Seller" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="992" centery="1037" centerz="7" radius="1" />
 	<spawn centerx="995" centery="1047" centerz="7" radius="1">

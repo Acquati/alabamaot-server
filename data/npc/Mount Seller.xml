@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mount Seller" script="mount_seller.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="128" head="17" body="54" legs="114" feet="0" addons="2" mount="379"/>
+    <parameters>
+        <parameter key="message_greet" value="Welcome |PLAYERNAME|! I selling mounts: {Widow Queen}, {Racing Bird}, {War Bear}, {Black Sheep}, {Midnight Panther}, {Draptor}, {Titanica}, {Tin Lizzard}, {Blazebringer}, {Rapid Boar}, {Stampor}, {Undead Cavebear}."/>
+    </parameters>
+</npc>
