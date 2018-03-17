@@ -1,4 +1,5 @@
 dofile('data/lib/lib.lua')
+dofile('data/lib/quest_chests.lua')
 
 STORAGEVALUE_PROMOTION = 30018
 
