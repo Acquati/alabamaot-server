@@ -20,16 +20,16 @@
 	<action uniqueid="30015" script="quests/annihilator.lua" />
 	-->
 
-	<action actionid="45801-45802" event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45804"       event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45807-45811" event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45815-45816" event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45818"       event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45820"       event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45822-45823" event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45827"       event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45831"       event="script" value="Xikini_Easy_Chest_System.lua"/>
-	<action actionid="45835"       event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45801-45802" script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45804"       script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45807-45811" script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45815-45816" script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45818"       script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45820"       script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45822-45823" script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45827"       script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45831"       script="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45835"       script="Xikini_Easy_Chest_System.lua"/>
 
 	<!-- Tools -->
 	<action itemid="2420" script="tools/machete.lua" />
