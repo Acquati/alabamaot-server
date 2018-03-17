@@ -8,15 +8,28 @@
 	<action itemid="24739" script="other/enchanting.lua" />
 
 	<!-- Quests -->
+	<!-- 
 	<action itemid="1740" script="quests/quests.lua" />
 	<action fromid="1747" toid="1749" script="quests/quests.lua" />
 	<action itemid="1738" script="quests/quests.lua" />
 	<action itemid="1741" script="quests/quests.lua" />
 	<action itemid="1746" script="quests/quests.lua" />
 	<action fromid="1750" toid="1753" script="quests/quests.lua" />
+	 -->
 	<!-- 
 	<action uniqueid="30015" script="quests/annihilator.lua" />
 	-->
+
+	<action actionid="45801-45802" event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45804"       event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45807-45811" event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45815-45816" event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45818"       event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45820"       event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45822-45823" event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45827"       event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45831"       event="script" value="Xikini_Easy_Chest_System.lua"/>
+	<action actionid="45835"       event="script" value="Xikini_Easy_Chest_System.lua"/>
 
 	<!-- Tools -->
 	<action itemid="2420" script="tools/machete.lua" />
