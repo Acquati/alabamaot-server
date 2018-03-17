@@ -10,6 +10,10 @@
 	<!-- Quests -->
 	<action itemid="1740" script="quests/quests.lua" />
 	<action fromid="1747" toid="1749" script="quests/quests.lua" />
+	<action itemid="1738" script="quests/quests.lua" />
+	<action itemid="1741" script="quests/quests.lua" />
+	<action itemid="1746" script="quests/quests.lua" />
+	<action fromid="1750" toid="1753" script="quests/quests.lua" />
 	<!-- 
 	<action uniqueid="30015" script="quests/annihilator.lua" />
 	-->
