@@ -12,4 +12,4 @@ questChests = {
            [5] = {type = "mount", mountName = "Orc", mountId = 20},
        },
    },
-},
+}
