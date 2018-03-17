@@ -20,8 +20,8 @@
 	<action uniqueid="30015" script="quests/annihilator.lua" />
 	-->
 
-	<action fromuid="2000" touid="2100" script="quest_chests.lua" />
-	
+	<action fromuid="35700" touid="45700" script="quest_chests.lua" />
+
 	<!-- Tools -->
 	<action itemid="2420" script="tools/machete.lua" />
 	<action itemid="2550" script="tools/scythe.lua" />

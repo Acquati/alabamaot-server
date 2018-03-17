@@ -15,7 +15,7 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
    -----------------------------------------------------------------------------------
    local playerLevel = player:getLevel()
    local minLevel = questChests[questChest].minLevel
-   if questChests[questChest].minLevel => playerLevel then
+   if questChests[questChest].minLevel > playerLevel then
        player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You need to be level "..minLevel.." to open this chest.")
        return true
    end
