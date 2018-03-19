@@ -147,6 +147,12 @@
 	<spawn centerx="1057" centery="1110" centerz="4" radius="1">
 		<monster name="Cyclops Smith" x="0" y="0" z="4" spawntime="41" />
 	</spawn>
+	<spawn centerx="1924" centery="1766" centerz="4" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1926" centery="1766" centerz="4" radius="1">
+		<monster name="Lizard Noble" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="977" centery="976" centerz="5" radius="1">
 		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
 	</spawn>
@@ -197,6 +203,63 @@
 	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="5" radius="1">
 		<npc name="Wands And Rods" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1925" centery="1695" centerz="5" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1921" centery="1697" centerz="5" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1918" centery="1700" centerz="5" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1927" centery="1700" centerz="5" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1922" centery="1701" centerz="5" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1963" centery="1713" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1956" centery="1716" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1982" centery="1716" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1961" centery="1722" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1972" centery="1722" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1955" centery="1726" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1975" centery="1729" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1949" centery="1734" centerz="5" radius="1">
+		<monster name="Hydra" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1926" centery="1766" centerz="5" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1968" centery="1802" centerz="5" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1968" centery="1808" centerz="5" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1986" centery="1809" centerz="5" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1982" centery="1812" centerz="5" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1974" centery="1813" centerz="5" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1005" centery="976" centerz="6" radius="1">
 		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
@@ -297,6 +360,156 @@
 	<spawn centerx="997" centery="1154" centerz="6" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="6" spawntime="40" />
 	</spawn>
+	<spawn centerx="1923" centery="1690" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1916" centery="1692" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1933" centery="1692" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1965" centery="1692" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1910" centery="1697" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1953" centery="1697" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1936" centery="1699" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1913" centery="1704" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1931" centery="1704" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1946" centery="1704" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1922" centery="1708" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1914" centery="1711" centerz="6" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1972" centery="1713" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1937" centery="1716" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1988" centery="1720" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1951" centery="1722" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1926" centery="1723" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1925" centery="1733" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1939" centery="1733" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1977" centery="1733" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1957" centery="1734" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1969" centery="1734" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1945" centery="1739" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1925" centery="1746" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1971" centery="1746" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1948" centery="1749" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1934" centery="1752" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1967" centery="1756" centerz="6" radius="1">
+		<monster name="Hydra" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1995" centery="1756" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1994" centery="1762" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1927" centery="1765" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1898" centery="1766" centerz="6" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2000" centery="1766" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1921" centery="1767" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2009" centery="1768" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1983" centery="1770" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1991" centery="1770" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2000" centery="1772" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2015" centery="1774" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2020" centery="1779" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1998" centery="1784" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1958" centery="1786" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2001" centery="1786" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1975" centery="1791" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1965" centery="1792" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1994" centery="1792" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="2004" centery="1795" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1972" centery="1796" centerz="6" radius="1">
+		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1998" centery="1799" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1992" centery="1803" centerz="6" radius="1">
+		<monster name="Lizard Zaogun" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="995" centery="957" centerz="7" radius="1">
 		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -375,20 +588,11 @@
 	<spawn centerx="963" centery="988" centerz="7" radius="1">
 		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="991" centery="998" centerz="7" radius="1">
-		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1047" centery="998" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1004" centery="999" centerz="7" radius="1">
-		<monster name="Dog" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1016" centery="1003" centerz="7" radius="1">
 		<npc name="Melee Weapons" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1033" centery="1003" centerz="7" radius="1">
-		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="981" centery="1006" centerz="7" radius="1">
 		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
@@ -659,6 +863,402 @@
 	</spawn>
 	<spawn centerx="1031" centery="1161" centerz="7" radius="1">
 		<monster name="Spider" x="0" y="0" z="7" spawntime="35" />
+	</spawn>
+	<spawn centerx="1864" centery="1688" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1846" centery="1690" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1882" centery="1691" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1837" centery="1692" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1854" centery="1692" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1873" centery="1692" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1827" centery="1696" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1863" centery="1696" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1845" centery="1697" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1888" centery="1699" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1815" centery="1701" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1835" centery="1701" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1873" centery="1701" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1898" centery="1702" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1855" centery="1703" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1821" centery="1706" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1870" centery="1706" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1886" centery="1706" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1809" centery="1707" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1839" centery="1708" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1862" centery="1708" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1830" centery="1709" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1903" centery="1709" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1892" centery="1710" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1849" centery="1712" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1878" centery="1712" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1802" centery="1713" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1821" centery="1715" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1856" centery="1716" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1867" centery="1716" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1809" centery="1717" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1841" centery="1717" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1885" centery="1717" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1894" centery="1718" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1903" centery="1718" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1818" centery="1721" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1831" centery="1721" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1850" centery="1722" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1802" centery="1724" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1859" centery="1724" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1876" centery="1724" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1898" centery="1724" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1839" centery="1725" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1888" centery="1725" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1907" centery="1725" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1824" centery="1727" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1811" centery="1728" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1868" centery="1729" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1852" centery="1731" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1877" centery="1731" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1821" centery="1732" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1841" centery="1732" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1832" centery="1733" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1908" centery="1734" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1806" centery="1735" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1891" centery="1735" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1901" centery="1735" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1861" centery="1736" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1821" centery="1739" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1833" centery="1739" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1841" centery="1739" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1872" centery="1739" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1882" centery="1739" centerz="7" radius="1">
+		<monster name="Lizard Snakecharmer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1852" centery="1740" centerz="7" radius="1">
+		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1813" centery="1741" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1904" centery="1742" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1828" centery="1743" centerz="7" radius="1">
+		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1891" centery="1743" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1912" centery="1743" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1995" centery="1743" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2002" centery="1744" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1898" centery="1748" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1991" centery="1749" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2010" centery="1749" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1906" centery="1751" centerz="7" radius="1">
+		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1999" centery="1751" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2018" centery="1752" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1984" centery="1754" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1916" centery="1756" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2004" centery="1756" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2024" centery="1757" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2014" centery="1759" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1928" centery="1760" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1911" centery="1761" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2029" centery="1761" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2008" centery="1763" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1980" centery="1765" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1906" centery="1766" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1937" centery="1767" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2022" centery="1768" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1883" centery="1770" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1948" centery="1770" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1959" centery="1770" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1913" centery="1772" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1893" centery="1773" centerz="7" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2028" centery="1773" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1941" centery="1774" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1967" centery="1774" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1869" centery="1775" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1931" centery="1775" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1905" centery="1776" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1880" centery="1778" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1888" centery="1778" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1948" centery="1778" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1983" centery="1778" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="2001" centery="1778" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1857" centery="1779" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1923" centery="1779" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1957" centery="1779" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1976" centery="1780" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1939" centery="1781" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1864" centery="1782" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1913" centery="1782" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1874" centery="1783" centerz="7" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1992" centery="1783" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1931" centery="1785" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1949" centery="1785" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1847" centery="1786" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1852" centery="1786" centerz="7" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1870" centery="1786" centerz="7" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1984" centery="1786" centerz="7" radius="1">
+		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1859" centery="1788" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1891" centery="1790" centerz="7" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1941" centery="1790" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1876" centery="1791" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1954" centery="1792" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1853" centery="1793" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1947" centery="1799" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1888" centery="1800" centerz="7" radius="1">
+		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1956" centery="1803" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1947" centery="1807" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1951" centery="1814" centerz="7" radius="1">
+		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="675" centery="909" centerz="8" radius="1">
 		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
@@ -1433,7 +2033,6 @@
 	</spawn>
 	<spawn centerx="853" centery="982" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Mutated Rat" x="0" y="1" z="8" spawntime="0" />
 	</spawn>
 	<spawn centerx="993" centery="982" centerz="8" radius="1">
 		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
@@ -3544,6 +4143,87 @@
 	<spawn centerx="1029" centery="1195" centerz="8" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="8" spawntime="35" />
 	</spawn>
+	<spawn centerx="1929" centery="1836" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1938" centery="1840" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1952" centery="1842" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1973" centery="1843" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1931" centery="1845" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1964" centery="1845" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1946" centery="1846" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1966" centery="1851" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1925" centery="1852" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1956" centery="1852" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1973" centery="1852" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1933" centery="1854" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1948" centery="1855" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1949" centery="1866" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1970" centery="1866" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1925" centery="1867" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1938" centery="1867" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1915" centery="1868" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1964" centery="1868" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1953" centery="1869" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1976" centery="1871" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1938" centery="1872" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1970" centery="1875" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1915" centery="1876" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1952" centery="1876" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1927" centery="1877" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1943" centery="1877" centerz="8" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="950" centery="1137" centerz="9" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="9" spawntime="50" />
 	</spawn>
@@ -3705,6 +4385,60 @@
 	</spawn>
 	<spawn centerx="1045" centery="1214" centerz="9" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="9" spawntime="35" />
+	</spawn>
+	<spawn centerx="1928" centery="1827" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1958" centery="1831" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1947" centery="1832" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1917" centery="1837" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1976" centery="1837" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1940" centery="1847" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1982" centery="1852" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1915" centery="1853" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1959" centery="1854" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1941" centery="1859" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1968" centery="1860" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1925" centery="1861" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1910" centery="1864" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1983" centery="1868" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1981" centery="1879" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1934" centery="1882" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1918" centery="1884" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1959" centery="1886" centerz="9" radius="1">
+		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1054" centery="1196" centerz="10" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="10" spawntime="41" />
