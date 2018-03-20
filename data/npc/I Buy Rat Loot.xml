@@ -17,7 +17,7 @@
 			green mushroom,2796,100;
 			stone herb,2799,20;
 			spellbook of enlightenment,8900,4000;
-			mutated rat tail,10585,150;
+			mutated rat tail,10585,150
 		" />
 		<parameter key="shop_buyable" value="
 			cheese,2696,6;
