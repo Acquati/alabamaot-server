@@ -32,7 +32,7 @@
 			small sapphire,2146,250;
 			wand of inferno,2187,3000;
 			wyvern fang,7408,1500;
-			wyvern talisman,10561,265;
+			wyvern talisman,10561,265
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
