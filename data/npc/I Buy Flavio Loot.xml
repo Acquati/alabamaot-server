@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Flavio Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="132" head="78" body="69" legs="58" feet="76" addons="0" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			antlers,11214,50;
+			wolf paw,5897,70;
+			silver amulet,2170,50;
+			bunch of troll hair,10606,30;
+			wolf tooth chain,2129,100;
+			club ring,2209,100;
+			halberd,2381,400;
+			short sword,2406,10;
+			dark helmet,2490,250;
+			plate shield,2510,45;
+			battle shield,2513,95;
+			cyclops trophy,7398,500;
+			cyclops toe,10574,55;
+			battle axe,2378,80;
+			battle hammer,2417,120;
+			heavy machete,2442,90;
+			spiked squelcher,7452,5000;
+			spider fangs,8859,10;
+			poison spider shell,12441,10;
+			time ring,2169,100;
+			brass legs,2478,49;
+			tarantula egg,11198,80;
+			platinum amulet,2171,2500;
+			two handed sword,2377,450;
+			plate armor,2463,400;
+			knight armor,2476,5000;
+			knight legs,2477,5000;
+			spider silk,5879,100;
+			lightning headband,7901,2500;
+			small diamond,2145,300;
+			life crystal,2177,85;
+			wand of inferno,2187,3000;
+			double axe,2387,260;
+			longsword,2397,51;
+			serpent sword,2409,500;
+			broadsword,2413,500;
+			dragon hammer,2434,2000;
+			crossbow,2455,160;
+			steel helmet,2457,293;
+			steel shield,2509,80;
+			dragon shield,2516,4000;
+			plate legs,2647,115;
+			green dragon leather,5877,100;
+			green dragon scale,5920,100;
+			dragonbone staff,7430,3000;
+			dragon's tail,12413,100;
+			gemmed book,1976,100;
+			golden mug,2033,250;
+			small sapphire,2146,250;
+			energy ring,2167,100;
+			fire sword,2392,4000;
+			strange helmet,2479,500;
+			dragon scale mail,2492,40000;
+			royal helmet,2498,30000;
+			tower shield,2528,8000;
+			red dragon scale,5882,200;
+			red dragon leather,5948,200;
+			dragon lord trophy,7399,10000;
+			dragon slayer,7402,15000;
+			green mushroom,2796,100
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
+		" />
+	</parameters>
+</npc>

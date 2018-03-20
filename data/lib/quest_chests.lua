@@ -100,7 +100,7 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 16}, -- platinum coin
-    [2] = {type = "item", item = 2159, count = 1},
+    [2] = {type = "item", item = 2209, count = 1},
     [3] = {type = "item", item = 2964, count = 1},
     [4] = {type = "item", item = 2439, count = 1},
     [5] = {type = "experience", amount = 7500},
@@ -110,7 +110,7 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 38}, -- platinum coin
-    [2] = {type = "item", item = 7903, count = 1},
+    [2] = {type = "item", item = 2438, count = 1},
     [3] = {type = "item", item = 2440, count = 1},
     [4] = {type = "item", item = 2159, count = 15},
     [5] = {type = "experience", amount = 36000},
@@ -139,7 +139,7 @@ questChests = {
   items = {
     [1] = {type = "item", item = 2148, count = 20}, -- gold coin
     [2] = {type = "item", item = 2152, count = 16}, -- platinum coin
-    [3] = {type = "item", item = 2425, count = 1},
+    [3] = {type = "item", item = 2483, count = 1},
     [4] = {type = "item", item = 2188, count = 1},
     [5] = {type = "experience", amount = 5500},
   },
@@ -148,7 +148,7 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 18}, -- platinum coin
-    [2] = {type = "item", item = 8857, count = 1},
+    [2] = {type = "item", item = 2425, count = 1},
     [3] = {type = "item", item = 7620, count = 20},
     [4] = {type = "experience", amount = 10250},
   },
@@ -157,7 +157,7 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 7}, -- platinum coin
-    [2] = {type = "item", item = 2475, count = 1},
+    [2] = {type = "item", item = 2647, count = 1},
     [3] = {type = "item", item = 2413, count = 1},
     [4] = {type = "experience", amount = 13500},
   },
@@ -166,8 +166,8 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 9}, -- platinum coin
-    [2] = {type = "item", item = 7891, count = 1},
-    [3] = {type = "item", item = 2497, count = 1},
+    [2] = {type = "item", item = 2434, count = 1},
+    [3] = {type = "item", item = 2490, count = 1},
     [4] = {type = "item", item = 7395, count = 1},
     [5] = {type = "experience", amount = 33500},
   },
@@ -231,8 +231,8 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 11}, -- platinum coin
-    [2] = {type = "item", item = 7409, count = 1},
-    [3] = {type = "item", item = 2187, count = 1},
+    [2] = {type = "item", item = 2409, count = 1},
+    [3] = {type = "item", item = 7430, count = 1},
     [4] = {type = "experience", amount = 17500},
   },
 },
@@ -240,8 +240,8 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 11}, -- platinum coin
-    [2] = {type = "item", item = 2516, count = 1},
-    [3] = {type = "item", item = 7430, count = 1},
+    [2] = {type = "item", item = 2187, count = 1},
+    [3] = {type = "item", item = 2516, count = 1},
     [4] = {type = "experience", amount = 17500},
   },
 },
@@ -249,8 +249,8 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 25}, -- platinum coin
-    [2] = {type = "item", item = 2528, count = 1},
-    [3] = {type = "item", item = 2479, count = 1},
+    [2] = {type = "item", item = 7399, count = 1},
+    [3] = {type = "item", item = 2392, count = 1},
     [4] = {type = "experience", amount = 52500},
   },
 },
@@ -258,8 +258,8 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 25}, -- platinum coin
-    [2] = {type = "item", item = 2392, count = 1},
-    [3] = {type = "item", item = 2498, count = 1},
+    [2] = {type = "item", item = 7402, count = 1},
+    [3] = {type = "item", item = 2528, count = 1},
     [4] = {type = "experience", amount = 52500},
   },
 },
@@ -276,7 +276,7 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 38}, -- platinum coin
-    [2] = {type = "item", item = 7901, count = 1},
+    [2] = {type = "item", item = 2477, count = 1},
     [3] = {type = "item", item = 2476, count = 1},
     [4] = {type = "experience", amount = 45000},
   },

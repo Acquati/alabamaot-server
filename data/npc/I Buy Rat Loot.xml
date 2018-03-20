@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Rat Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="128" head="80" body="0" legs="94" feet="102" addons="2" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			cheese,2696,5;
+			worm,3976,1;
+			cookie,2687,2;
+			stealth ring,2165,200;
+			skull of Ratha,20180,250;
+			halberd,2381,400;
+			plate shield,2510,45;
+			tower shield,2528,8000;
+			green mushroom,2796,100;
+			stone herb,2799,20;
+			spellbook of enlightenment,8900,4000;
+			mutated rat tail,10585,150;
+		" />
+		<parameter key="shop_buyable" value="
+			cheese,2696,6;
+			worm,3976,1;
+			cookie,2687,5;
+			fishing rod,2580,140
+		" />
+	</parameters>
+</npc>

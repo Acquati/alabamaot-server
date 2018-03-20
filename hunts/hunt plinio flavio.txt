@@ -14,3 +14,36 @@ hellspawn
 
 hydra
 bog raider
+
+<item name="small diamond" chance="190" />
+<item name="halberd" chance="510" />
+<item name="obsidian lance" chance="1120" />
+<item name="chain armor" chance="8560" />
+<item name="scale armor" chance="7730" />
+<item name="sentinel shield" chance="320" />
+<item name="lizard leather" chance="990" />
+<item name="lizard scale" chance="960" />
+
+<item name="small emerald" chance="250" />
+<item id="2376" chance="4000" /><!-- sword -->
+<item name="morning star" chance="1990" />
+<item name="short sword" chance="9500" />
+<item name="steel helmet" chance="2000" />
+<item name="plate armor" chance="1000" />
+<item name="templar scytheblade" chance="500" />
+<item name="salamander shield" chance="110" />
+
+<item name="small amethyst" chance="520" />
+<item name="yellow gem" chance="150" />
+<item name="life ring" chance="340" />
+<item name="life crystal" chance="1430" />
+<item name="terra rod" chance="920" />
+<item name="snakebite rod" chance="230" />
+<item name="cape" chance="8640" />
+<item name="charmer's tiara" chance="230" />
+
+<item name="emerald bangle" chance="540" />
+<item name="small sapphire" chance="5000" />
+<item name="wand of inferno" chance="810" />
+<item name="wyvern fang" chance="410" />
+<item name="wyvern talisman" chance="12300" />

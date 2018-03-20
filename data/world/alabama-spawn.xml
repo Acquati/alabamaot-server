@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <spawns>
 	<spawn centerx="1043" centery="1055" centerz="0" radius="1">
-		<monster name="Dragon Lord" x="0" y="0" z="0" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="0" spawntime="60" />
 	</spawn>
 	<spawn centerx="988" centery="978" centerz="2" radius="1">
 		<monster name="Pirate Corsair" x="0" y="0" z="2" spawntime="54" />
@@ -544,7 +544,7 @@
 		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
 	</spawn>
 	<spawn centerx="1031" centery="977" centerz="7" radius="1">
-		<npc name="I Buy Pirate Things" x="0" y="0" z="7" spawntime="54" />
+		<npc name="I Buy Pirate Loot" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="995" centery="978" centerz="7" radius="1">
 		<monster name="Nomad" x="0" y="0" z="7" spawntime="54" />
@@ -649,7 +649,7 @@
 		<npc name="Foods" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1016" centery="1098" centerz="7" radius="1">
-		<npc name="I Buy Flavio Leather" x="0" y="0" z="7" spawntime="60" />
+		<npc name="I Buy Flavio Loot" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1055" centery="1099" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
@@ -1026,6 +1026,9 @@
 	<spawn centerx="1908" centery="1734" centerz="7" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1792" centery="1735" centerz="7" radius="1">
+		<npc name="I Buy Lizard Loot" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1806" centery="1735" centerz="7" radius="1">
 		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -1098,22 +1101,19 @@
 	<spawn centerx="1984" centery="1754" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1916" centery="1756" centerz="7" radius="1">
-		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="2004" centery="1756" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2024" centery="1757" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1919" centery="1758" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2014" centery="1759" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1928" centery="1760" centerz="7" radius="1">
-		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1911" centery="1761" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2029" centery="1761" centerz="7" radius="1">
@@ -1125,9 +1125,6 @@
 	<spawn centerx="1980" centery="1765" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1906" centery="1766" centerz="7" radius="1">
-		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1937" centery="1767" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -1137,17 +1134,20 @@
 	<spawn centerx="1883" centery="1770" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1902" centery="1770" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1948" centery="1770" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1959" centery="1770" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1913" centery="1772" centerz="7" radius="1">
-		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1893" centery="1773" centerz="7" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1913" centery="1773" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="2028" centery="1773" centerz="7" radius="1">
 		<monster name="Bog Raider" x="0" y="0" z="7" spawntime="60" />
@@ -1164,14 +1164,14 @@
 	<spawn centerx="1931" centery="1775" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1905" centery="1776" centerz="7" radius="1">
-		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="1880" centery="1778" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1888" centery="1778" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1905" centery="1778" centerz="7" radius="1">
+		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1948" centery="1778" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
@@ -1825,7 +1825,7 @@
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1014" centery="957" centerz="8" radius="1">
-		<npc name="I Buy 0rc Leather" x="0" y="0" z="8" spawntime="60" />
+		<npc name="I Buy 0rc Loot" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1111" centery="957" centerz="8" radius="1">
 		<monster name="Apprentice Sheng" x="0" y="0" z="8" spawntime="60" />
@@ -2061,6 +2061,9 @@
 	<spawn centerx="1240" centery="984" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1373" centery="984" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="793" centery="985" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -2075,9 +2078,6 @@
 	</spawn>
 	<spawn centerx="1077" centery="985" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1364" centery="985" centerz="8" radius="1">
-		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="875" centery="986" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
@@ -2099,9 +2099,6 @@
 	</spawn>
 	<spawn centerx="1209" centery="986" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1374" centery="986" centerz="8" radius="1">
-		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="821" centery="987" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -2148,9 +2145,6 @@
 	<spawn centerx="985" centery="988" centerz="8" radius="1">
 		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
-	<spawn centerx="1034" centery="988" centerz="8" radius="1">
-		<npc name="I Buy Minotaur Leather" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1102" centery="988" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -2180,6 +2174,9 @@
 	</spawn>
 	<spawn centerx="907" centery="989" centerz="8" radius="1">
 		<monster name="Mutated Rat" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1034" centery="989" centerz="8" radius="1">
+		<npc name="I Buy Minotaur Loot" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1045" centery="989" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
@@ -2235,9 +2232,6 @@
 	<spawn centerx="1243" centery="990" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1382" centery="990" centerz="8" radius="1">
-		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="977" centery="991" centerz="8" radius="1">
 		<monster name="Pirate Skeleton" x="0" y="0" z="8" spawntime="54" />
 	</spawn>
@@ -2280,17 +2274,14 @@
 	<spawn centerx="1211" centery="992" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1371" centery="992" centerz="8" radius="1">
-		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1131" centery="993" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1240" centery="993" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1361" centery="993" centerz="8" radius="1">
-		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1363" centery="993" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1127" centery="994" centerz="8" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="8" spawntime="60" />
@@ -2310,9 +2301,6 @@
 	<spawn centerx="1073" centery="997" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1380" centery="997" centerz="8" radius="1">
-		<monster name="Ancient Scarab" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1061" centery="998" centerz="8" radius="1">
 		<monster name="Sandcrawler" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -2321,6 +2309,9 @@
 	</spawn>
 	<spawn centerx="1317" centery="998" centerz="8" radius="1">
 		<monster name="Brimstone Bug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1380" centery="998" centerz="8" radius="1">
+		<monster name="Spitter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="874" centery="999" centerz="8" radius="1">
 		<monster name="Killer Rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -2695,7 +2686,7 @@
 		<monster name="Cave Rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1014" centery="1022" centerz="8" radius="1">
-		<npc name="I Buy Cheese" x="0" y="0" z="8" spawntime="60" />
+		<npc name="I Buy Rat Loot" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1078" centery="1022" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
@@ -2727,14 +2718,14 @@
 	<spawn centerx="1075" centery="1025" centerz="8" radius="1">
 		<monster name="Emerald Damselfly" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1034" centery="1026" centerz="8" radius="1">
+		<npc name="I Buy Insect Loot" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1116" centery="1026" centerz="8" radius="1">
 		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1301" centery="1026" centerz="8" radius="1">
 		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1034" centery="1027" centerz="8" radius="1">
-		<npc name="I Buy Insects" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1122" centery="1027" centerz="8" radius="1">
 		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
@@ -2890,7 +2881,7 @@
 		<monster name="Waspoid" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1034" centery="1042" centerz="8" radius="1">
-		<npc name="I Buy Troll Hair" x="0" y="0" z="8" spawntime="60" />
+		<npc name="I Buy Troll Loot" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1144" centery="1042" centerz="8" radius="1">
 		<monster name="Insectoid Scout" x="0" y="0" z="8" spawntime="60" />
@@ -3214,7 +3205,7 @@
 		<monster name="Carrion Worm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1014" centery="1062" centerz="8" radius="1">
-		<npc name="I Buy Worms" x="0" y="0" z="8" spawntime="60" />
+		<npc name="I Buy Rotworm Loot" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1144" centery="1062" centerz="8" radius="1">
 		<monster name="Swamp Troll" x="0" y="0" z="8" spawntime="60" />
