@@ -24,7 +24,10 @@
 			morning star,2394,100;
 			clerical mace,2426,170;
 			warhammer,2391,1200;
-			poison dagger,2411,50
+			poison dagger,2411,50;
+			golden sickle,2418,7;
+			knife,2403,7;
+			crowbar,2416,7;
 		" />
 		<parameter key="shop_buyable" value="
 			sabre,2385,35;

@@ -31,7 +31,8 @@
 			tarsal arrow,15648,6;
 			throwing star,2399,42;
 			poison arrow,2545,18;
-			assassin star,7368,100
+			assassin star,7368,100;
+			small stone,1294,10
 		" />
 	</parameters>
 </npc>
