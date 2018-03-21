@@ -30,28 +30,28 @@
 	<house name="Alabama #1" houseid="28" entryx="1027" entryy="997" entryz="7" rent="12000" townid="1" size="130" />
 	<house name="Alabama #2" houseid="29" entryx="992" entryy="1001" entryz="7" rent="19800" guildhall="true" townid="1" size="224" />
 	<house name="Distance #1" houseid="30" entryx="1043" entryy="1031" entryz="6" rent="5000" townid="1" size="62" />
-	<house name="Alabama Flat #1" houseid="31" entryx="1020" entryy="1047" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #2" houseid="32" entryx="1020" entryy="1052" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #3" houseid="33" entryx="1020" entryy="1057" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #4" houseid="34" entryx="1020" entryy="1062" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #5" houseid="35" entryx="1020" entryy="1047" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #6" houseid="36" entryx="1020" entryy="1052" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #7" houseid="37" entryx="1020" entryy="1057" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #8" houseid="38" entryx="1020" entryy="1062" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #9" houseid="39" entryx="1020" entryy="1047" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #10" houseid="40" entryx="1020" entryy="1052" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #11" houseid="41" entryx="1020" entryy="1057" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #12" houseid="42" entryx="1020" entryy="1062" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #13" houseid="43" entryx="1008" entryy="1047" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #14" houseid="44" entryx="1008" entryy="1052" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #15" houseid="45" entryx="1008" entryy="1057" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #16" houseid="46" entryx="1008" entryy="1062" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #17" houseid="47" entryx="1008" entryy="1047" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #18" houseid="48" entryx="1008" entryy="1052" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #19" houseid="49" entryx="1008" entryy="1057" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #20" houseid="50" entryx="1008" entryy="1062" entryz="6" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #21" houseid="51" entryx="1008" entryy="1047" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #22" houseid="52" entryx="1008" entryy="1052" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #23" houseid="53" entryx="1008" entryy="1057" entryz="5" rent="0" townid="1" size="22" />
-	<house name="Alabama Flat #24" houseid="54" entryx="1008" entryy="1062" entryz="5" rent="0" townid="1" size="22" />
+	<house name="Alabama Flat #1" houseid="31" entryx="1020" entryy="1047" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #2" houseid="32" entryx="1020" entryy="1052" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #3" houseid="33" entryx="1020" entryy="1057" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #4" houseid="34" entryx="1020" entryy="1062" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #5" houseid="35" entryx="1020" entryy="1047" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #6" houseid="36" entryx="1020" entryy="1052" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #7" houseid="37" entryx="1020" entryy="1057" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #8" houseid="38" entryx="1020" entryy="1062" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #9" houseid="39" entryx="1020" entryy="1047" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #10" houseid="40" entryx="1020" entryy="1052" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #11" houseid="41" entryx="1020" entryy="1057" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #12" houseid="42" entryx="1020" entryy="1062" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #13" houseid="43" entryx="1008" entryy="1047" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #14" houseid="44" entryx="1008" entryy="1052" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #15" houseid="45" entryx="1008" entryy="1057" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #16" houseid="46" entryx="1008" entryy="1062" entryz="7" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #17" houseid="47" entryx="1008" entryy="1047" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #18" houseid="48" entryx="1008" entryy="1052" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #19" houseid="49" entryx="1008" entryy="1057" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #20" houseid="50" entryx="1008" entryy="1062" entryz="6" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #21" houseid="51" entryx="1008" entryy="1047" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #22" houseid="52" entryx="1008" entryy="1052" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #23" houseid="53" entryx="1008" entryy="1057" entryz="5" rent="2000" townid="1" size="22" />
+	<house name="Alabama Flat #24" houseid="54" entryx="1008" entryy="1062" entryz="5" rent="2000" townid="1" size="22" />
 </houses>
