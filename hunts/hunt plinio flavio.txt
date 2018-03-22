@@ -2,6 +2,7 @@ lizard sentinel
 lizard templar
 lizard snakecharmer
 wyvern
+heoni
 
 lizard legionnaire
 lizard dragon priest
@@ -47,3 +48,74 @@ bog raider
 <item name="wand of inferno" chance="810" />
 <item name="wyvern fang" chance="410" />
 <item name="wyvern talisman" chance="12300" />
+
+--//--
+
+<item name="small diamond" countmax="2" chance="1001" />
+<item name="lizard leather" chance="970" />
+<item name="lizard scale" countmax="3" chance="980" />
+<item name="red lantern" chance="530" />
+<item name="bunch of ripe rice" chance="1950" />
+<item name="Zaoan armor" chance="70" />
+<item name="Zaoan shoes" chance="460" />
+<item name="drakinata" chance="710" />
+<item name="Zaoan halberd" chance="960" />
+<item name="legionnaire flags" chance="1940" />
+<item name="broken halberd" chance="14940" />
+<item name="lizard trophy" chance="20" />
+
+<item name="small amethyst" countmax="3" chance="4900" />
+<item name="yellow gem" chance="1000" />
+<item name="life ring" chance="770" />
+<item name="terra rod" chance="1001" />
+<item name="wand of inferno" chance="1480" />
+<item name="focus cape" chance="660" />
+<item name="Zaoan robe" chance="300" />
+<item name="dragon priest's wandtip" chance="9910" />
+
+<item name="small emerald" countmax="4" chance="2520" />
+<item name="tower shield" chance="1040" />
+<item name="Zaoan legs" chance="720" />
+<item name="spiked iron ball" chance="7000" />
+<item name="high guard flag" chance="2990" />
+<item name="high guard shoulderplates" chance="8150" />
+
+<item name="zaogun flag" chance="8280" />
+<item name="zaogun shoulderplates" chance="14980" />
+
+<item name="small ruby" countmax="5" chance="7100" />
+
+<item name="Zaoan helmet" chance="140" />
+<item name="corrupted flag" chance="3350" />
+<item name="cursed shoulder spikes" chance="5800" />
+<item name="scale of corruption" chance="2870" />
+
+<item name="morning star" chance="10000" />
+<item name="broadsword" chance="10000" />
+<item name="warrior helmet" chance="1886" />
+<item name="knight legs" chance="3030" />
+<item name="demonic essence" chance="9090" />
+<item name="onyx flail" chance="103" />
+<item name="berserk potion" chance="934" />
+<item name="spiked squelcher" chance="970" />
+<item id="9948" chance="140" /><!-- dracoyle statue -->
+<item name="black skull" chance="151" />
+<item name="small topaz" countmax="3" chance="5882" />
+<item name="hellspawn tail" chance="20000" />
+
+<item name="plate legs" chance="2040" />
+<item name="belted cape" chance="590" />
+<item name="paladin armor" chance="110" />
+<item name="springsprout rod" chance="1030" />
+<item name="boggy dreads" chance="9870" />
+
+<item name="small sapphire" chance="5000" />
+<item name="life crystal" chance="570" />
+<item name="boots of haste" chance="130" />
+<item name="stone skin amulet" chance="900" />
+<item name="ring of healing" chance="1190" />
+<item name="knight armor" chance="1000" />
+<item name="royal helmet" chance="210" />
+<item name="medusa shield" chance="270" />
+<item name="hydra egg" chance="930" />
+<item name="hydra head" chance="10120" />

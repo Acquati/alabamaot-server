@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Lizard High Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="335" head="115" body="119" legs="94" feet="81" addons="3" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			small diamond,2145,300;
+			lizard leather,5876,150;
+			lizard scale,5881,120;
+			red lantern,11206,250;
+			bunch of ripe rice,11245,75;
+			Zaoan armor,11301,14000;
+			Zaoan shoes,11303,5000;
+			drakinata,11305,10000;
+			Zaoan halberd,11323,500;
+			legionnaire flags,11334,500;
+			broken halberd,11335,100;
+			lizard trophy,11336,8000;
+			small amethyst,2150,200;
+			yellow gem,2154,1000;
+			life ring,2168,50;
+			terra rod,2181,2000;
+			wand of inferno,2187,3000;
+			focus cape,8871,6000;
+			Zaoan robe,11356,12000;
+			dragon priest's wandtip,11361,175;
+			small emerald,2149,250;
+			tower shield,2528,8000;
+			Zaoan legs,11304,14000;
+			spiked iron ball,11325,100;
+			high guard flag,11332,550;
+			high guard shoulderplates,11333,130;
+			zaogun flag,11330,600;
+			zaogun shoulderplates,11331,150;
+			small ruby,2147,250;
+			Zaoan helmet,11302,45000;
+			corrupted flag,11326,700;
+			cursed shoulder spikes,11327,320;
+			scale of corruption,12629,680;
+			morning star,2394,100;
+			broadsword,2413,500;
+			warrior helmet,2475,5000;
+			knight legs,2477,5000;
+			demonic essence,6500,1000;
+			onyx flail,7421,22000;
+			berserk potion,7439,500;
+			spiked squelcher,7452,5000;
+			dracoyle statue,9948,5000;
+			black skull,9969,4000;
+			small topaz,9970,200;
+			hellspawn tail,11221,475;
+			plate legs,2647,115;
+			belted cape,8872,500;
+			paladin armor,8891,15000;
+			springsprout rod,8912,3600;
+			boggy dreads,10584,200;
+			small sapphire,2146,250;
+			life crystal,2177,85;
+			boots of haste,2195,30000;
+			stone skin amulet,2197,500;
+			ring of healing,2214,100;
+			knight armor,2476,5000;
+			royal helmet,2498,30000;
+			medusa shield,2536,9000;
+			hydra egg,4850,500;
+			hydra head,11199,600
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25;
+		" />
+	</parameters>
+</npc>

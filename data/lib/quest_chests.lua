@@ -290,4 +290,80 @@ questChests = {
     [4] = {type = "experience", amount = 17500},
   },
 },
+[35731] = { -- Wyvern
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 18}, -- platinum coin
+    [2] = {type = "item", item = 7408, count = 1},
+    [3] = {type = "experience", amount = 25750},
+  },
+},
+[35732] = { -- Lizard Low Class
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 11}, -- platinum coin
+    [2] = {type = "item", item = 2181, count = 1},
+    [3] = {type = "item", item = 2963, count = 1},
+    [4] = {type = "item", item = 2425, count = 1},
+    [5] = {type = "experience", amount = 10500},
+  },
+},
+[35733] = { -- Lizard Chosen
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 1}, -- crystal coin
+    [2] = {type = "item", item = 11302, count = 1},
+    [3] = {type = "experience", amount = 110000},
+  },
+},
+[35734] = { -- Lizard Dragon Priest
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 37}, -- platinum coin
+    [2] = {type = "item", item = 11301, count = 1},
+    [3] = {type = "experience", amount = 66000},
+  },
+},
+[35735] = { -- Lizard Tower
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 32}, -- platinum coin
+    [2] = {type = "item", item = 11304, count = 1},
+    [3] = {type = "experience", amount = 55000},
+  },
+},
+[35736] = { -- Lizard Zaogun
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 60}, -- platinum coin
+    [2] = {type = "item", item = 11303, count = 1},
+    [3] = {type = "experience", amount = 85000},
+  },
+},
+[35737] = { -- Bog Raider
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 26}, -- platinum coin
+    [2] = {type = "item", item = 8891, count = 1},
+    [3] = {type = "experience", amount = 40000},
+  },
+},
+[35738] = { -- Hydra
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 10}, -- platinum coin
+    [2] = {type = "item", item = 2160, count = 1}, -- crystal coin
+    [3] = {type = "item", item = 2498, count = 1},
+    [4] = {type = "experience", amount = 105000},
+  },
+},
+[35739] = { -- Elder Wyrm
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 1}, -- crystal coin
+    [2] = {type = "item", item = 7895, count = 1},
+    [3] = {type = "item", item = 7898, count = 1},
+    [4] = {type = "experience", amount = 125000},
+  },
+},
 } -- THE END
