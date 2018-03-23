@@ -303,7 +303,7 @@ questChests = {
   items = {
     [1] = {type = "item", item = 2152, count = 11}, -- platinum coin
     [2] = {type = "item", item = 2181, count = 1},
-    [3] = {type = "item", item = 2963, count = 1},
+    [3] = {type = "item", item = 3975, count = 1},
     [4] = {type = "item", item = 2425, count = 1},
     [5] = {type = "experience", amount = 10500},
   },
