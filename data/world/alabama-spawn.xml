@@ -1290,8 +1290,11 @@
 	<spawn centerx="1956" centery="1803" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1944" centery="1822" centerz="7" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="1945" centery="1820" centerz="7" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1951" centery="1826" centerz="7" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="675" centery="909" centerz="8" radius="1">
 		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
@@ -4410,56 +4413,77 @@
 	<spawn centerx="1045" centery="1214" centerz="9" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="9" spawntime="35" />
 	</spawn>
-	<spawn centerx="1928" centery="1827" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1931" centery="1827" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1958" centery="1831" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1958" centery="1829" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1947" centery="1832" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1916" centery="1835" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1917" centery="1837" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1972" centery="1835" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1976" centery="1837" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1945" centery="1836" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1940" centery="1847" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1980" centery="1844" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1982" centery="1852" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1934" centery="1848" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1915" centery="1853" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1958" centery="1849" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1959" centery="1854" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1914" centery="1854" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1941" centery="1859" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1980" centery="1856" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1968" centery="1860" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1939" centery="1859" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1925" centery="1861" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1923" centery="1861" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1910" centery="1864" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1951" centery="1861" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1983" centery="1868" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1969" centery="1861" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1981" centery="1879" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1910" centery="1869" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1934" centery="1882" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1931" centery="1870" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1918" centery="1884" centerz="9" radius="1">
-		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1958" centery="1872" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1984" centery="1872" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1911" centery="1880" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1974" centery="1881" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1934" centery="1883" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1948" centery="1883" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1962" centery="1885" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1921" centery="1886" centerz="9" radius="1">
+		<monster name="Wyrm" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1959" centery="1886" centerz="9" radius="1">
 		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />

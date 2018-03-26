@@ -119,3 +119,19 @@ bog raider
 <item name="medusa shield" chance="270" />
 <item name="hydra egg" chance="930" />
 <item name="hydra head" chance="10120" />
+
+<item name="crossbow" chance="5920" />
+<item name="dragonbone staff" chance="110" />
+<item name="lightning pendant" chance="720" />
+<item name="composite hornbow" chance="90" />
+<item name="hibiscus dress" chance="250" />
+<item name="wand of starstorm" chance="420" />
+<item name="wand of draconia" chance="990" />
+<item name="shockwave amulet" chance="110" />
+<item name="wyrm scale" chance="15360" />
+
+<item name="soul orb" chance="5980" />
+<item name="shadow sceptre" chance="310" />
+<item name="lightning boots" chance="310" />
+<item name="lightning legs" chance="930" />
+<item name="lightning robe" chance="310" />

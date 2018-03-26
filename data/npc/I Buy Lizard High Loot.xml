@@ -65,7 +65,21 @@
 			royal helmet,2498,30000;
 			medusa shield,2536,9000;
 			hydra egg,4850,500;
-			hydra head,11199,600
+			hydra head,11199,600;
+			crossbow,5947,140;
+			dragonbone staff,7430,3000;
+			lightning pendant,7889,1500;
+			composite hornbow,8855,25000;
+			hibiscus dress,8873,3000;
+			wand of starstorm,8920,3600;
+			wand of draconia,8921,1500;
+			shockwave amulet,10221,3000;
+			wyrm scale,10582,400;
+			soul orb,5944,25;
+			shadow sceptre,7451,10000;
+			lightning boots,7893,2500;
+			lightning legs,7895,11000;
+			lightning robe,7898,11000
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
