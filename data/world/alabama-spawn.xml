@@ -4251,6 +4251,18 @@
 	<spawn centerx="1943" centery="1877" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1022" centery="1019" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1019" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1022" centery="1023" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1026" centery="1023" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="950" centery="1137" centerz="9" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="9" spawntime="50" />
 	</spawn>
