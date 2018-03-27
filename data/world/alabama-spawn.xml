@@ -4251,17 +4251,461 @@
 	<spawn centerx="1943" centery="1877" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1022" centery="1019" centerz="9" radius="1">
+	<spawn centerx="979" centery="997" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="984" centery="997" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="998" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="999" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1026" centery="1019" centerz="9" radius="1">
+	<spawn centerx="974" centery="1001" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="894" centery="1002" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="969" centery="1002" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="1003" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="953" centery="1003" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1001" centery="1003" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1022" centery="1023" centerz="9" radius="1">
+	<spawn centerx="989" centery="1004" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1026" centery="1023" centerz="9" radius="1">
+	<spawn centerx="872" centery="1005" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="917" centery="1005" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="853" centery="1006" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="865" centery="1006" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="1006" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="941" centery="1006" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="1006" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="879" centery="1007" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="888" centery="1007" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="1007" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="948" centery="1007" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="979" centery="1007" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="902" centery="1008" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="930" centery="1008" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="935" centery="1008" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="959" centery="1008" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="970" centery="1008" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="995" centery="1008" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="895" centery="1009" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="912" centery="1009" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1003" centery="1009" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="868" centery="1011" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="1011" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="938" centery="1011" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="944" centery="1012" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="952" centery="1012" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="850" centery="1013" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="964" centery="1013" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="976" centery="1013" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="918" centery="1014" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="983" centery="1014" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="907" centery="1015" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="925" centery="1015" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1007" centery="1015" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="1016" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="1016" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="959" centery="1016" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="861" centery="1017" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="1017" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="901" centery="1017" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="931" centery="1017" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="1017" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1018" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="945" centery="1018" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="970" centery="1018" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1018" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="847" centery="1019" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="871" centery="1019" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="963" centery="1019" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="987" centery="1019" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="1020" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1020" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="916" centery="1021" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="953" centery="1021" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1021" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="910" centery="1022" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="864" centery="1023" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="880" centery="1023" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="897" centery="1023" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="926" centery="1023" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="904" centery="1024" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="974" centery="1024" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1002" centery="1024" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="933" centery="1025" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="938" centery="1025" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="965" centery="1025" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="979" centery="1025" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="987" centery="1025" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="851" centery="1026" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="888" centery="1026" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="1026" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="946" centery="1026" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1026" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="958" centery="1027" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1028" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="876" centery="1029" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="892" centery="1029" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="899" centery="1029" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="909" centery="1029" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="915" centery="1029" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="952" centery="1029" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="855" centery="1031" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="926" centery="1031" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="972" centery="1031" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1031" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="983" centery="1031" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1007" centery="1031" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="870" centery="1032" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="921" centery="1032" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="932" centery="1032" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="940" centery="1032" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="863" centery="1033" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="881" centery="1033" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="990" centery="1033" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="966" centery="1034" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="996" centery="1034" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="897" centery="1035" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="958" centery="1035" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1004" centery="1035" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="846" centery="1036" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="887" centery="1036" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="903" centery="1036" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="946" centery="1036" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="875" centery="1037" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="934" centery="1037" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="974" centery="1037" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="925" centery="1038" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="982" centery="1038" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="893" centery="1039" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="952" centery="1039" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="960" centery="1039" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="967" centery="1039" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="868" centery="1040" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="879" centery="1040" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="939" centery="1040" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="1040" centerz="9" radius="1">
+		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="860" centery="1041" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="911" centery="1041" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="918" centery="1041" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="1041" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="947" centery="1042" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="854" centery="1043" centerz="9" radius="1">
+		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="897" centery="1043" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="932" centery="1043" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="972" centery="1043" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="985" centery="1043" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="884" centery="1044" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="905" centery="1044" centerz="9" radius="1">
+		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="956" centery="1044" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="962" centery="1044" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="967" centery="1044" centerz="9" radius="1">
+		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="1044" centerz="9" radius="1">
+		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="872" centery="1045" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="890" centery="1045" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="865" centery="1046" centerz="9" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="878" centery="1046" centerz="9" radius="1">
+		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="923" centery="1046" centerz="9" radius="1">
+		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="950" centery="1046" centerz="9" radius="1">
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="927" centery="1047" centerz="9" radius="1">
+		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="937" centery="1047" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="944" centery="1047" centerz="9" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="950" centery="1137" centerz="9" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="9" spawntime="50" />

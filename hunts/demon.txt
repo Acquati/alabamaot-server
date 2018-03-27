@@ -1,0 +1,50 @@
+Skeleton 35
+Skeleton Warrior 45
+Honour Guard 55
+
+Fire Devil 145
+Gozzler 180
+infernal frog 190
+Fire Elemental 220
+Demon Skeleton 240
+Dreadbeast 250
+Wailing Widow 450
+Blazing Fire Elemental 450
+Grave Guard 485
+Nightstalker 500
+Bonebeast 580
+
+Undead Gladiator 800
+Askarak Demon 900
+Shaburak Demon 900
+Gravedigger 950
+
+Askarak Lord 1200
+Shaburak Lord 1200
+Yielothax 1250
+Blistering Fire Elemental 1300
+Nightmare Scion 1350
+Massive Fire Elemental 1400
+Rift Brood 1600
+
+Askarak Prince 1700
+Shaburak Prince 1700
+Rift Scythe	2000
+Nightmare 2150
+Destroyer 2500
+Hellspawn 2550
+Magma Crawler 2700
+Diabolic Imp 2900
+
+Betrayed Wraith 3500
+Hellfire Fighter 3900
+Lost Soul 4000
+Plaguesmith 4500
+Dark Torturer 4650
+Weeper 4800
+Orewalker 4800
+Hand of Cursed Fate 5000
+Demon 6000
+Lava Golem 6200
+Hellhound 6800
+Juggernaut 14000
