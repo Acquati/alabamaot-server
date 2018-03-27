@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Flavio Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="278" head="114" body="114" legs="114" feet="114" addons="2" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			small amethyst,2150,200;
+			necrotic rod,2185,1000;
+			double axe,2387,260;
+			scimitar,2419,150;
+			guardian shield,2515,2000;
+			small pitchfork,12469,70;
+			small sapphire,2146,250;
+			dwarven ring,2213,100;
+			battle axe,2378,80;
+			sabre,2385,12;
+			morning star,2394,100;
+			serpent sword,2409,500;
+			clerical mace,2426,170;
+			plate shield,2510,45;
+			black pearl,2144,280;
+			small ruby,2147,250;
+			mind stone,2178,170;
+			mysterious fetish,2194,80;
+			battle hammer,2417,120;
+			iron helmet,2459,150;
+			battle shield,2513,95;
+			demonic skeletal hand,10564,80;
+			halberd,2381,400;
+			green mushroom,2796,100;
+			Zaoan halberd,11323,500;
+			widow's mandibles,11328,110;
+			wailing widow's necklace,11329,3000;
+			glimmering soil,8299,2000;
+			fiery heart,10553,375;
+			scarab coin,2159,100;
+			daramian waraxe,2440,1000;
+			grave flower,2747,25;
+			death ring,6300,1000;
+			crystal ring,2124,250;
+			platinum amulet,2171,2500;
+			boots of haste,2195,30000;
+			protection amulet,2200,100;
+			shadow herb,2804,20;
+			haunted blade,7407,8000;
+			chaos mace,7427,9000;
+			spirit cloak,8870,350;
+			crystal of balance,9942,1000;
+			plate armor,2463,400;
+			hardened bone,5925,70;
+			bonebeast trophy,11161,6000;
+			bony tail,11194,210
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
+		" />
+	</parameters>
+</npc>

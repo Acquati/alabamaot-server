@@ -4509,6 +4509,9 @@
 	<spawn centerx="997" centery="1028" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1016" centery="1028" centerz="9" radius="1">
+		<monster name="Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="876" centery="1029" centerz="9" radius="1">
 		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -4526,6 +4529,9 @@
 	</spawn>
 	<spawn centerx="952" centery="1029" centerz="9" radius="1">
 		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1016" centery="1030" centerz="9" radius="1">
+		<npc name="I Buy Cemetery Loot" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="855" centery="1031" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
