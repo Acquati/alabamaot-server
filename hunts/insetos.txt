@@ -21,59 +21,66 @@ spidris 2600
 spidris elite 4000
 Fleshslicer 5500 Boss
 
-<item name="sandcrawler shell" chance="2173" />
-<item name="honeycomb" chance="3000" />
-<item name="damselfly wing" chance="9000" />
-<item name="damselfly eye" chance="7000" />
-<item name="small emerald" chance="413" />
-<item name="small amethyst" chance="540" />
-<item name="scarab coin" chance="1098" />
-<item name="daramian mace" chance="245" />
-<item name="piece of scarab shell" chance="4950" />
-<item name="club ring" chance="100" />
-<item name="ripper lance" chance="850" />
-<item name="terramite shell" chance="7730" />
-<item name="terramite eggs" countmax="3" chance="4680" />
-<item name="terramite legs" chance="14880" />
-<item name="small amethyst" chance="247" />
-<item name="poisonous slime" chance="8333" />
-<item name="lump of dirt" chance="4166" />
-<item name="lancer beetle shell" chance="16666" />
-<item name="beetle necklace" chance="1123" />
-<item name="epee" chance="450" />
-<item name="swarmer antenna" chance="15300" />
-<item name="compound eye" chance="12500" />
-<item id="15622" chance="14990" /><!-- dung ball -->
-<item name="scarab amulet" chance="3410" />
-<item name="ancient amulet" chance="2570" />
-<item name="daramian waraxe" chance="420" />
-<item name="plate armor" chance="10300" />
-<item name="scarab shield" chance="480" />
-<item name="terra hood" chance="490" />
-<item name="scarab pincers" chance="3571" />
-<item name="emerald bangle" chance="2040" />
-<item name="black pearl" chance="4230" />
-<item name="yellow gem" chance="1040" />
-<item name="waspoid claw" chance="9096" />
-<item name="waspoid wing" chance="13890" />
-<item name="compound eye" chance="6060" />
-<item name="grasshopper legs" chance="230" />
-<item name="carapace shield" chance="120" />
-<item name="hive scythe" chance="330" />
-<item name="small emerald" countmax="4" chance="2702" />
-<item name="stealth ring" chance="892" />
-<item name="platinum amulet" chance="110" />
-<item name="magic sulphur" chance="1639" />
-<item name="poisonous slime" chance="50000" />
-<item name="lump of earth" chance="20000" />
-<item name="sulphurous stone" chance="14970" />
-<item name="brimstone fangs" chance="5710" />
-<item name="brimstone shell" chance="10000" />
-<item name="green gem" chance="210" />
-<item id="2169" chance="2400" /><!-- time ring -->
-<item name="crusader helmet" chance="230" />
-<item name="crystal sword" chance="2000" />
-<item name="spitter nose" chance="18000" />
-<item name="compound eye" chance="15000" />
-<item name="calopteryx cape" chance="240" />
-<item name="grasshopper legs" chance="130" />
+sandcrawler shell,11373,20;
+honeycomb,5902,40;
+damselfly wing,19738,20;
+damselfly eye,19743,25;
+small emerald,2149,250;
+small amethyst,2150,200;
+scarab coin,2159,100;
+daramian mace,2439,110;
+piece of scarab shell,10558,45;
+club ring,2209,100;
+ripper lance,3964,500;
+terramite shell,11369,170;
+terramite eggs,11370,50;
+terramite legs,11371,60;
+poisonous slime,10557,50;
+lump of dirt,10609,10;
+lancer beetle shell,11372,80;
+beetle necklace,11374,1500;
+epee,2438,8000;
+swarmer antenna,15479,130;
+compound eye,15486,150;
+dung ball,15622,130;
+grasshopper legs,15490,15000;
+carapace shield,15491,32000;
+hive scythe,15492,17000;
+stealth ring,2165,200;
+platinum amulet,2171,2500;
+magic sulphur,5904,8000;
+lump of earth,11222,130;
+sulphurous stone,11232,100;
+brimstone fangs,12658,380;
+brimstone shell,12659,210;
+green gem,2155,5000;
+time ring,2169,100;
+crusader helmet,2497,6000;
+crystal sword,7449,600;
+spitter nose,15481,340;
+calopteryx cape,15489,15000;
+scarab amulet,2135,200;
+ancient amulet,2142,200;
+magic light wand,2162,35;
+daramian waraxe,2440,1000;
+plate armor,2463,400;
+scarab shield,2540,2000;
+terra hood,7903,2500;
+scarab pincers,10548,280;
+emerald bangle,2127,800;
+black pearl,2144,280;
+yellow gem,2154,1000;
+waspoid claw,15483,320;
+waspoid wing,15484,190;
+
+<item name="small ruby" countmax="2" chance="8180" />
+<item name="ring of healing" chance="3270" />
+<item name="steel boots" chance="130" />
+<item id="7632" chance="2600" /><!-- giant shimmering pearl -->
+<item name="gold ingot" chance="5160" />
+<item name="kollos shell" chance="15390" />
+
+<item name="violet gem" chance="770" />
+<item id="6300" chance="2700" /><!-- death ring -->
+<item name="titan axe" chance="920" />
+<item name="spidris mandible" chance="14960" />

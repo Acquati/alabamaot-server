@@ -43,8 +43,30 @@
 			crusader helmet,2497,6000;
 			crystal sword,7449,600;
 			spitter nose,15481,340;
-			compound eye,15486,150;
-			calopteryx cape,15489,15000
+			calopteryx cape,15489,15000;
+			scarab amulet,2135,200;
+			ancient amulet,2142,200;
+			magic light wand,2162,35;
+			daramian waraxe,2440,1000;
+			plate armor,2463,400;
+			scarab shield,2540,2000;
+			terra hood,7903,2500;
+			scarab pincers,10548,280;
+			emerald bangle,2127,800;
+			black pearl,2144,280;
+			yellow gem,2154,1000;
+			waspoid claw,15483,320;
+			waspoid wing,15484,190;
+			small ruby,2147,250;
+			ring of healing,2214,100;
+			steel boots,2645,30000;
+			giant shimmering pearl,7632,3000;
+			gold ingot,9971,5000;
+			kollos shell,15480,420;
+			violet gem,2153,10000;
+			death ring,6300,1000;
+			titan axe,7413,4000;
+			spidris mandible,15485,450
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
