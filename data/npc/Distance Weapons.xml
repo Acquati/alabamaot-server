@@ -5,7 +5,7 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_sellable" value="
-			crossbow,2455,150;
+			crossbow,2455,160;
 			bow,2456,130;
 			spear,2389,3
 		" />

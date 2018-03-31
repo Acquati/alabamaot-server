@@ -366,4 +366,12 @@ questChests = {
     [4] = {type = "experience", amount = 125000},
   },
 },
+[35740] = { -- Dwarf Geomancer
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 10}, -- platinum coin
+    [2] = {type = "item", item = 7886, count = 1},
+    [3] = {type = "experience", amount = 13250},
+  },
+},
 } -- THE END

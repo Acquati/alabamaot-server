@@ -1296,6 +1296,126 @@
 	<spawn centerx="1951" centery="1826" centerz="7" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1119" centery="886" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="890" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1130" centery="890" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1153" centery="890" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1166" centery="890" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1135" centery="891" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1141" centery="891" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="891" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1101" centery="892" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1107" centery="892" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="892" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="892" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1059" centery="893" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="893" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="893" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1066" centery="894" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1072" centery="894" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1078" centery="894" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="895" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="896" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="896" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="897" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="898" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="898" centerz="8" radius="1">
+		<monster name="Foreman Kneebiter" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1160" centery="899" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1164" centery="900" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="901" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="902" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="902" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="902" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1116" centery="902" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1063" centery="903" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1138" centery="904" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1142" centery="904" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1120" centery="905" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="906" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1069" centery="907" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="907" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="908" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="908" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="675" centery="909" centerz="8" radius="1">
 		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1305,11 +1425,65 @@
 	<spawn centerx="707" centery="909" centerz="8" radius="1">
 		<monster name="Orc Warlord" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1063" centery="909" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="911" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="912" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="913" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="914" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="914" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1062" centery="915" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1137" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1142" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1148" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1154" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1160" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1166" centery="917" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1240" centery="917" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="807" centery="918" centerz="8" radius="1">
 		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1171" centery="918" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1236" centery="918" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
@@ -1322,6 +1496,36 @@
 	</spawn>
 	<spawn centerx="790" centery="920" centerz="8" radius="1">
 		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1043" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1055" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1061" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1067" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1079" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1085" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1091" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1097" centery="920" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1205" centery="920" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
@@ -1374,6 +1578,15 @@
 	<spawn centerx="884" centery="923" centerz="8" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1119" centery="923" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1144" centery="923" centerz="8" radius="1">
+		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="923" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1204" centery="923" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1419,6 +1632,15 @@
 	<spawn centerx="974" centery="926" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1048" centery="926" centerz="8" radius="1">
+		<monster name="Dwarf Miner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="926" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="927" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="792" centery="928" centerz="8" radius="1">
 		<monster name="Orc Berserker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1442,6 +1664,12 @@
 	</spawn>
 	<spawn centerx="978" centery="928" centerz="8" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1144" centery="928" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1169" centery="928" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="806" centery="929" centerz="8" radius="1">
 		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
@@ -1497,6 +1725,15 @@
 	<spawn centerx="911" centery="932" centerz="8" radius="1">
 		<monster name="Rorc" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1098" centery="932" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1143" centery="932" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1170" centery="932" centerz="8" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="822" centery="933" centerz="8" radius="1">
 		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1508,6 +1745,9 @@
 	</spawn>
 	<spawn centerx="990" centery="933" centerz="8" radius="1">
 		<monster name="Orc" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="933" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="814" centery="934" centerz="8" radius="1">
 		<monster name="Orc Marauder" x="0" y="0" z="8" spawntime="60" />
@@ -1547,6 +1787,9 @@
 	</spawn>
 	<spawn centerx="727" centery="936" centerz="8" radius="1">
 		<monster name="Orc Leader" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1097" centery="936" centerz="8" radius="1">
+		<monster name="Dwarf Soldier" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1269" centery="936" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
@@ -1602,6 +1845,9 @@
 	<spawn centerx="992" centery="938" centerz="8" radius="1">
 		<monster name="Orc" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1079" centery="938" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1266" centery="938" centerz="8" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -1610,6 +1856,24 @@
 	</spawn>
 	<spawn centerx="959" centery="939" centerz="8" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1043" centery="939" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="939" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1055" centery="939" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1061" centery="939" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1067" centery="939" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="939" centerz="8" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1270" centery="939" centerz="8" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="8" spawntime="60" />
@@ -1721,6 +1985,9 @@
 	</spawn>
 	<spawn centerx="992" centery="947" centerz="8" radius="1">
 		<monster name="Orc" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1034" centery="947" centerz="8" radius="1">
+		<npc name="I Buy Dwarf Loot" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1136" centery="947" centerz="8" radius="1">
 		<monster name="Minotaur Guard" x="0" y="0" z="8" spawntime="60" />

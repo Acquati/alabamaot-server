@@ -3,7 +3,7 @@ local commonItems =
 	2661, -- scarf
 	2461, -- leather helmet
 	2467, -- leather armor
-	2512, -- wooden shield
+	2175, -- spellbook
 	2649, -- leather legs
 	2643, -- leather boots
 	2050 -- torch
@@ -20,10 +20,12 @@ function onLogin(player)
 			doPlayerAddItem(player, 2182, 1) -- snakebite rod
 			doAddContainerItem(bag, 2442, 1) -- heavy machete
 		elseif getPlayerVocation(player) == 3 then
-			doPlayerAddItem(player, 2389, 10) -- spears
+			doPlayerAddItem(player, 2389, 9) -- spears
+			doPlayerAddItem(player, 2512, 1) -- wooden shield
 			doAddContainerItem(bag, 2442, 1) -- heavy machete
 		elseif getPlayerVocation(player) == 4 then
 			doPlayerAddItem(player, 10303, 1) -- farmer's avenger
+			doPlayerAddItem(player, 2512, 1) -- wooden shield
 			doAddContainerItem(bag, 2442, 1) -- heavy machete
 			doAddContainerItem(bag, 2398, 1) -- mace
 		end

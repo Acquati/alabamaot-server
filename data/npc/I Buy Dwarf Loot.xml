@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Dwarf Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="138" head="57" body="59" legs="40" feet="76" addons="0" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			dwarven ring,2213,100;
+			hatchet,2388,25;
+			iron ore,5880,500;
+			axe ring,2208,100;
+			battle axe,2378,80;
+			crossbow,2455,160;
+			chain armor,2464,70;
+			dwarven shield,2525,100;
+			small amethyst,2150,200;
+			double axe,2387,260;
+			battle hammer,2417,120;
+			steel helmet,2457,293;
+			iron helmet,2459,150;
+			scale armor,2483,75;
+			battle shield,2513,95;
+			coal,13757,20;
+			small sapphire,2146,250;
+			magic light wand,2162,35;
+			clerical mace,2426,170;
+			terra boots,7886,2500;
+			geomancer's robe,12414,80;
+			geomancer's staff,12419,120;
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
+		" />
+	</parameters>
+</npc>
