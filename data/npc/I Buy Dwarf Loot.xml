@@ -27,7 +27,7 @@
 			clerical mace,2426,170;
 			terra boots,7886,2500;
 			geomancer's robe,12414,80;
-			geomancer's staff,12419,120;
+			geomancer's staff,12419,120
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;
