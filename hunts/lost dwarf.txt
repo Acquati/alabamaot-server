@@ -1,0 +1,8 @@
+dwarf geomancer
+Lost Husher 1600 1800
+Lost Thrower 1700 1200
+Lost Basher 2600 1800
+Enslaved Dwarf 3800 2700
+Lost Berserker 5900 4400
+
+gnomevil 250000 45000

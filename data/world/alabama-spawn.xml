@@ -4890,6 +4890,9 @@
 	<spawn centerx="1003" centery="1009" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1105" centery="1009" centerz="9" radius="1">
+		<monster name="Gnomevil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="868" centery="1011" centerz="9" radius="1">
 		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -4965,6 +4968,12 @@
 	<spawn centerx="997" centery="1018" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1067" centery="1018" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1076" centery="1018" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="847" centery="1019" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -4976,6 +4985,9 @@
 	</spawn>
 	<spawn centerx="987" centery="1019" centerz="9" radius="1">
 		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1128" centery="1019" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="855" centery="1020" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
@@ -4994,6 +5006,9 @@
 	</spawn>
 	<spawn centerx="910" centery="1022" centerz="9" radius="1">
 		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1133" centery="1022" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="864" centery="1023" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
@@ -5016,6 +5031,9 @@
 	<spawn centerx="1002" centery="1024" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1081" centery="1024" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="933" centery="1025" centerz="9" radius="1">
 		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -5030,6 +5048,9 @@
 	</spawn>
 	<spawn centerx="987" centery="1025" centerz="9" radius="1">
 		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1124" centery="1025" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="851" centery="1026" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
@@ -5106,6 +5127,12 @@
 	<spawn centerx="940" centery="1032" centerz="9" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1081" centery="1032" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1032" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="863" centery="1033" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -5115,11 +5142,20 @@
 	<spawn centerx="990" centery="1033" centerz="9" radius="1">
 		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1105" centery="1033" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="966" centery="1034" centerz="9" radius="1">
 		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="996" centery="1034" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1093" centery="1034" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1120" centery="1034" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="897" centery="1035" centerz="9" radius="1">
 		<monster name="Blazing Fire Elemental" x="0" y="0" z="9" spawntime="60" />
@@ -5151,6 +5187,9 @@
 	<spawn centerx="974" centery="1037" centerz="9" radius="1">
 		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1129" centery="1037" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="925" centery="1038" centerz="9" radius="1">
 		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -5169,6 +5208,9 @@
 	<spawn centerx="967" centery="1039" centerz="9" radius="1">
 		<monster name="Infernal Frog" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1109" centery="1039" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="868" centery="1040" centerz="9" radius="1">
 		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -5180,6 +5222,9 @@
 	</spawn>
 	<spawn centerx="997" centery="1040" centerz="9" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="1040" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="860" centery="1041" centerz="9" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="9" spawntime="60" />
@@ -5229,11 +5274,17 @@
 	<spawn centerx="978" centery="1044" centerz="9" radius="1">
 		<monster name="Gozzler" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1114" centery="1044" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="872" centery="1045" centerz="9" radius="1">
 		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="890" centery="1045" centerz="9" radius="1">
 		<monster name="Grave Guard" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1075" centery="1045" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="865" centery="1046" centerz="9" radius="1">
 		<monster name="Nightstalker" x="0" y="0" z="9" spawntime="60" />
@@ -5247,6 +5298,12 @@
 	<spawn centerx="950" centery="1046" centerz="9" radius="1">
 		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1045" centery="1046" centerz="9" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1046" centerz="9" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="927" centery="1047" centerz="9" radius="1">
 		<monster name="Dreadbeast" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -5255,6 +5312,42 @@
 	</spawn>
 	<spawn centerx="944" centery="1047" centerz="9" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1099" centery="1048" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1105" centery="1051" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1114" centery="1051" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="1055" centerz="9" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1055" centery="1055" centerz="9" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1099" centery="1056" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1078" centery="1059" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1093" centery="1063" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1100" centery="1067" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1051" centery="1069" centerz="9" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1099" centery="1073" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1088" centery="1081" centerz="9" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="950" centery="1137" centerz="9" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="9" spawntime="50" />
@@ -5492,6 +5585,237 @@
 	</spawn>
 	<spawn centerx="1959" centery="1886" centerz="9" radius="1">
 		<monster name="Elder Wyrm" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1107" centery="992" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1112" centery="992" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1096" centery="997" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1115" centery="997" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1074" centery="999" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1001" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="1001" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1105" centery="1002" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1066" centery="1007" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1073" centery="1007" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1093" centery="1007" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1127" centery="1007" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1115" centery="1008" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1011" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="1011" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1133" centery="1013" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1065" centery="1014" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1077" centery="1014" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1112" centery="1015" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1084" centery="1019" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="1020" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="1020" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1020" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1021" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1024" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1079" centery="1025" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1094" centery="1025" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1101" centery="1025" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1106" centery="1025" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="1025" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1029" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1046" centery="1030" centerz="10" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1030" centerz="10" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1138" centery="1030" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="1032" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1033" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1094" centery="1035" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1101" centery="1035" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1037" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1046" centery="1038" centerz="10" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1038" centerz="10" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1126" centery="1038" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1106" centery="1040" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="1040" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="1044" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1046" centery="1045" centerz="10" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1045" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1057" centery="1045" centerz="10" radius="1">
+		<monster name="Dwarf Geomancer" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1094" centery="1045" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1101" centery="1045" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1046" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1106" centery="1050" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="1050" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1047" centery="1052" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1056" centery="1052" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="1053" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="1054" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="1056" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1110" centery="1056" centerz="10" radius="1">
+		<monster name="Lost Thrower" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1061" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="1062" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1084" centery="1068" centerz="10" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1048" centery="1069" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1056" centery="1069" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1097" centery="1069" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1091" centery="1075" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1079" centery="1076" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1077" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1081" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1095" centery="1081" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="1087" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1077" centery="1088" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1052" centery="1092" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1060" centery="1092" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1068" centery="1092" centerz="10" radius="1">
+		<monster name="Lost Husher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1049" centery="1097" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1075" centery="1097" centerz="10" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1054" centery="1196" centerz="10" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="10" spawntime="41" />
