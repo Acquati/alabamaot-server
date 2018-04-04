@@ -1,4 +1,5 @@
 dwarf geomancer
+Mad Technomancer
 Lost Husher 1600 1800
 Lost Thrower 1700 1200
 Lost Basher 2600 1800
@@ -6,3 +7,80 @@ Enslaved Dwarf 3800 2700
 Lost Berserker 5900 4400
 
 gnomevil 250000 45000
+
+<item name="small sapphire" chance="710" />
+<item id="2162" chance="14000" /><!-- magic lightwand -->
+<item name="dwarven ring" chance="530" />
+<item name="clerical mace" chance="1120" />
+<item name="iron ore" chance="120" />
+<item name="terra boots" chance="470" />
+<item name="geomancer's robe" chance="8000" />
+<item name="geomancer's staff" chance="7000" />
+
+<item name="technomancer beard" chance="1000000" />
+
+<item name="fire axe" chance="330" />
+<item name="skull staff" chance="280" />
+<item name="guardian shield" chance="830" />
+<item name="tower shield" chance="440" />
+<item name="spiked squelcher" chance="50" />
+<item name="fiery knight axe" chance="770" />
+<item name="terra legs" chance="50" />
+<item name="small topaz" chance="9780" />
+<item name="clay lump" chance="500" />
+<item id="13757" chance="10930" /><!-- Coal -->
+<item name="buckle" chance="8180" />
+<item name="bonecarving knife" chance="8510" />
+<item name="leather harness" chance="11330" />
+<item name="wimp tooth chain" chance="8950" />
+<item name="lost husher's staff" chance="9280" />
+<item name="skull shatterer" chance="12320" />
+<item name="mad froth" chance="15580" />
+<item name="red hair dye" chance="8510" />
+<item name="basalt figurine" chance="8560" />
+
+<item name="lost basher's spike" chance="11410" />
+<item name="holy ash" chance="15670" />
+<item name="broken throwing axe" chance="1390" />
+<item name="helmet of the lost" chance="13560" />
+<item name="lost bracers" chance="14860" />
+<item name="basalt fetish" chance="6150" />
+
+<item name="war axe" chance="120" />
+<item name="knight legs" chance="310" />
+<item name="black shield" chance="3710" />
+<item name="chaos mace" chance="160" />
+<item name="blue crystal shard" chance="840" />
+<item name="bloody dwarven beard" chance="1730" />
+<item name="pair of iron fists" chance="1410" />
+
+<item name="small emerald" countmax="2" chance="10290" />
+<item name="small amethyst" countmax="2" chance="10680" />
+<item name="axe ring" chance="1550" />
+<item name="war hammer" chance="5050" />
+<item name="warrior helmet" chance="580" />
+<item name="ancient shield" chance="3690" />
+<item name="titan axe" chance="1170" />
+<item name="sapphire hammer" chance="80" />
+<item name="glorious axe" chance="1940" />
+<item name="shiny stone" chance="4660" />
+<item name="green crystal shard" chance="1750" />
+<item name="green crystal splinter" chance="3110" />
+<item name="brown crystal splinter" countmax="2" chance="5630" />
+<item name="red crystal fragment" chance="3690" />
+
+<item name="knight axe" chance="2070" />
+<item name="royal helmet" chance="150" />
+<item name="magic sulphur" chance="720" />
+<item name="violet crystal shard" chance="3500" />
+<item name="blue crystal splinter" chance="4610" />
+<item name="green crystal fragment" chance="6870" />
+
+<item name="decorative ribbon" chance="1710" />
+<item name="crystalline sword" chance="14100" />
+<item name="crystalline axe" chance="9830" />
+<item name="mycological mace" chance="8120" />
+<item name="crystal crossbow" chance="8120" />
+<item name="mycological bow" chance="9400" />
+<item name="shiny blade" chance="7690" />
+<item name="Gnomevil's hat" chance="99150" />

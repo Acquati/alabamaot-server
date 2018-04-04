@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Kazordoon Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="279" head="0" body="95" legs="50" feet="50" addons="1" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			small sapphire,2146,250;
+			magic light wand,2162,35;
+			dwarven ring,2213,100;
+			clerical mace,2426,170;
+			iron ore,5880,500;
+			terra boots,7886,2500;
+			geomancer's robe,12414,80;
+			geomancer's staff,12419,120;
+			technomancer beard,7699,2500;
+			fire axe,2432,8000;
+			skull staff,2436,6000;
+			guardian shield,2515,2000;
+			tower shield,2528,8000;
+			spiked squelcher,7452,5000;
+			fiery knight axe,7750,2000;
+			terra legs,7885,11000;
+			small topaz,9970,200;
+			coal,13757,20;
+			buckle,20109,7000;
+			bonecarving knife,20110,190;
+			leather harness,20126,750;
+			wimp tooth chain,20127,120;
+			lost husher's staff,20128,250;
+			skull shatterer,20129,170;
+			mad froth,20134,80;
+			red hair dye,20135,40;
+			basalt figurine,20137,160;
+			lost basher's spike,20106,280;
+			holy ash,20130,160;
+			broken throwing axe,20131,230;
+			helmet of the lost,20132,2000;
+			lost bracers,20133,140;
+			basalt fetish,20136,210;
+			war axe,2454,12000;
+			knight legs,2477,5000;
+			black shield,2529,800;
+			chaos mace,7427,9000;
+			blue crystal shard,18413,1500;
+			bloody dwarven beard,20107,110;
+			pair of iron fists,20108,4000;
+			small emerald,2149,250;
+			small amethyst,2150,200;
+			axe ring,2208,100;
+			war hammer,2391,1200;
+			warrior helmet,2475,5000;
+			ancient shield,2532,900;
+			titan axe,7413,4000;
+			sapphire hammer,7437,7000;
+			glorious axe,7454,3000;
+			shiny stone,11227,500;
+			green crystal shard,18415,1500;
+			green crystal splinter,18416,400;
+			brown crystal splinter,18417,400;
+			red crystal fragment,18420,800;
+			knight axe,2430,2000;
+			royal helmet,2498,30000;
+			magic sulphur,5904,8000;
+			violet crystal shard,18414,1500;
+			blue crystal splinter,18418,400;
+			green crystal fragment,18421,800;
+			crystal crossbow,18453,35000;
+			mycological bow,18454,35000
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
+		" />
+	</parameters>
+</npc>

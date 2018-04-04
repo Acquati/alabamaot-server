@@ -5007,6 +5007,9 @@
 	<spawn centerx="910" centery="1022" centerz="9" radius="1">
 		<monster name="Wailing Widow" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="1034" centery="1022" centerz="9" radius="1">
+		<npc name="I Buy Kazordoon Loot" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="1133" centery="1022" centerz="9" radius="1">
 		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -5322,14 +5325,17 @@
 	<spawn centerx="1114" centery="1051" centerz="9" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="1049" centery="1055" centerz="9" radius="1">
-		<monster name="Lost Basher" x="0" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="1055" centery="1055" centerz="9" radius="1">
-		<monster name="Lost Basher" x="0" y="0" z="9" spawntime="60" />
+	<spawn centerx="1052" centery="1053" centerz="9" radius="1">
+		<monster name="Mad Technomancer" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1099" centery="1056" centerz="9" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1045" centery="1057" centerz="9" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1058" centery="1057" centerz="9" radius="1">
+		<monster name="Lost Basher" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="1078" centery="1059" centerz="9" radius="1">
 		<monster name="Enslaved Dwarf" x="0" y="0" z="9" spawntime="60" />
@@ -5765,6 +5771,9 @@
 	</spawn>
 	<spawn centerx="1052" centery="1061" centerz="10" radius="1">
 		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="1080" centery="1061" centerz="10" radius="1">
+		<monster name="Enslaved Dwarf" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="1098" centery="1062" centerz="10" radius="1">
 		<monster name="Lost Basher" x="0" y="0" z="10" spawntime="60" />

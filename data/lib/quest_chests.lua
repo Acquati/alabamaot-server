@@ -374,4 +374,57 @@ questChests = {
     [3] = {type = "experience", amount = 13250},
   },
 },
+[35741] = { -- Mad Technomancer 1
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 20}, -- platinum coin
+    [2] = {type = "item", item = 2432, count = 1},
+    [3] = {type = "item", item = 10511, count = 1},
+    [4] = {type = "experience", amount = 30000},
+  },
+},
+[35742] = { -- Mad Technomancer 2
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 20}, -- platinum coin
+    [2] = {type = "item", item = 7427, count = 1},
+    [3] = {type = "item", item = 10513, count = 1},
+    [4] = {type = "experience", amount = 30000},
+  },
+},
+[35743] = { -- Mad Technomancer 3
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 20}, -- platinum coin
+    [2] = {type = "item", item = 20108, count = 1},
+    [3] = {type = "item", item = 10515, count = 1},
+    [4] = {type = "experience", amount = 30000},
+  },
+},
+[35744] = { -- Lost Thrower
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 68}, -- platinum coin
+    [2] = {type = "item", item = 20109, count = 1},
+    [3] = {type = "experience", amount = 60000},
+  },
+},
+[35745] = { -- Enslaved Dwarf
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 50}, -- platinum coin
+    [2] = {type = "item", item = 2160, count = 1}, -- crystal coin
+    [3] = {type = "item", item = 7437, count = 1},
+    [4] = {type = "experience", amount = 135000},
+  },
+},
+[35746] = { -- Lost Berserker
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 20}, -- platinum coin
+    [2] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [3] = {type = "item", item = 2498, count = 1},
+    [4] = {type = "experience", amount = 135000},
+  },
+},
 } -- THE END
