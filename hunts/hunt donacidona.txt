@@ -1,0 +1,7 @@
+goblin 50 25
+Dworc Venomsniper 80 35
+Goblin Scavenger 60 37
+Dworc Fleshhunter 85 40
+Goblin Assassin 75 48
+Dworc Voodoomaster 80 55
+Goblin Leader 50 75
