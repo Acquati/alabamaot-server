@@ -439,7 +439,7 @@ questChests = {
   minLevel = 8,
   items = {
     [1] = {type = "item", item = 2152, count = 5}, -- platinum coin
-    [2] = {type = "item", item = 3322, count = 1},
+    [2] = {type = "item", item = 2322, count = 1},
     [3] = {type = "experience", amount = 3750},
   },
 },
