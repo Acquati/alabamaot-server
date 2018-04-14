@@ -1338,6 +1338,9 @@
 	<spawn centerx="1813" centery="1581" centerz="7" radius="1">
 		<monster name="Goblin" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1830" centery="1581" centerz="7" radius="1">
+		<npc name="Dona Cidona" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="2026" centery="1584" centerz="7" radius="1">
 		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>

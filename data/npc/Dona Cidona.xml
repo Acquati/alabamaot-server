@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Dona Cidona" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="138" head="114" body="109" legs="0" feet="0" addons="0" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			short sword,2406,10;
+			goblin ear,12495,20;
+			bronze amulet,2172,50;
+			poison dagger,2411,50;
+			tribal mask,3967,250;
+			bast skirt,3983,750;
+			seeds,7732,150;
+			bone shield,2541,80;
+			ripper lance,3964,500;
+			strange symbol,2174,200;
+			voodoo doll,2322,400;
+			red tome,1986,2000;
+			ring of the sky,2123,30000;
+			crystal ring,2124,250;
+			small sapphire,2146,250;
+			talon,2151,320;
+			energy ring,2167,100;
+			mind stone,2178,170;
+			stone skin amulet,2197,500;
+			skull staff,2436,6000;
+			golden armor,2466,20000;
+			blue robe,2656,10000;
+			lightning robe,7898,11000;
+			luminous orb,12410,1000;
+			purple tome,1982,2000;
+			small emerald,2149,250;
+			might ring,2164,250;
+			stealth ring,2165,200;
+			platinum amulet,2171,2500;
+			orb,2176,750;
+			gold ring,2179,8000;
+			ring of healing,2214,100;
+			double axe,2387,260;
+			giant sword,2393,17000;
+			ice rapier,2396,1000;
+			golden sickle,2418,1000;
+			fire axe,2432,8000;
+			devil helmet,2462,1000;
+			golden legs,2470,30000;
+			magic plate armor,2472,90000;
+			mastermind shield,2514,50000;
+			demon shield,2520,30000;
+			fire mushroom,2795,200;
+			demon horn,2954,1000;
+			demonrage sword,7382,36000;
+			demon trophy,7393,40000
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
+		" />
+	</parameters>
+</npc>

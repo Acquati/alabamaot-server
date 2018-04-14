@@ -427,4 +427,45 @@ questChests = {
     [4] = {type = "experience", amount = 135000},
   },
 },
+[35747] = { -- Dworc Fleshhunter
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 3}, -- platinum coin
+    [2] = {type = "item", item = 3964, count = 1},
+    [3] = {type = "experience", amount = 2000},
+  },
+},
+[35748] = { -- Goblin Leader
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 5}, -- platinum coin
+    [2] = {type = "item", item = 3322, count = 1},
+    [3] = {type = "experience", amount = 3750},
+  },
+},
+[35749] = { -- Warlock
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 1}, -- crystal coin
+    [2] = {type = "item", item = 2466, count = 1},
+    [3] = {type = "experience", amount = 200000},
+  },
+},
+[35750] = { -- Demon 1
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [2] = {type = "item", item = 2470, count = 1},
+    [3] = {type = "experience", amount = 300000},
+  },
+},
+[35751] = { -- Demon 2
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [2] = {type = "item", item = 2514, count = 1},
+    [3] = {type = "item", item = 7393, count = 1},
+    [4] = {type = "experience", amount = 300000},
+  },
+},
 } -- THE END
