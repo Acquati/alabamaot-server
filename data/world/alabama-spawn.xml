@@ -72,6 +72,30 @@
 	<spawn centerx="1004" centery="986" centerz="3" radius="1">
 		<monster name="Pirate Buccaneer" x="0" y="0" z="3" spawntime="54" />
 	</spawn>
+	<spawn centerx="998" centery="1010" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1010" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1010" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1010" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1020" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1020" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1020" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1020" centerz="3" radius="1">
+		<monster name="Trainer" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="1000" centery="976" centerz="4" radius="1">
 		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
 	</spawn>
@@ -131,6 +155,30 @@
 	</spawn>
 	<spawn centerx="1008" centery="987" centerz="4" radius="1">
 		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="54" />
+	</spawn>
+	<spawn centerx="998" centery="1010" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1010" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1010" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1010" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1020" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1020" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1020" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1020" centerz="4" radius="1">
+		<monster name="Trainer" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="1048" centery="1104" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
@@ -200,6 +248,30 @@
 	</spawn>
 	<spawn centerx="1003" centery="986" centerz="5" radius="1">
 		<monster name="Pirate Cutthroat" x="0" y="0" z="5" spawntime="54" />
+	</spawn>
+	<spawn centerx="998" centery="1010" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1010" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1010" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1010" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1020" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1020" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1020" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1020" centerz="5" radius="1">
+		<monster name="Trainer" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="5" radius="1">
 		<npc name="Wands And Rods" x="0" y="0" z="5" spawntime="60" />
@@ -315,8 +387,32 @@
 	<spawn centerx="1002" centery="987" centerz="6" radius="1">
 		<monster name="Pirate Marauder" x="0" y="0" z="6" spawntime="54" />
 	</spawn>
+	<spawn centerx="998" centery="1010" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1010" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1010" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1010" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="979" centery="1020" centerz="6" radius="1">
 		<npc name="Mail" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1020" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1020" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1020" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1020" centerz="6" radius="1">
+		<monster name="Trainer" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1013" centery="1035" centerz="6" radius="1">
 		<npc name="Runes" x="0" y="0" z="6" spawntime="60" />
