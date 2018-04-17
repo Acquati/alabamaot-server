@@ -621,11 +621,23 @@
 	<spawn centerx="1047" centery="998" centerz="7" radius="1">
 		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1016" centery="1003" centerz="7" radius="1">
+	<spawn centerx="1016" centery="1000" centerz="7" radius="1">
 		<npc name="Melee Weapons" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="981" centery="1006" centerz="7" radius="1">
 		<monster name="Cat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1010" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1010" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1010" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1010" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1038" centery="1014" centerz="7" radius="1">
 		<npc name="Armors" x="0" y="0" z="7" spawntime="60" />
@@ -635,6 +647,18 @@
 	</spawn>
 	<spawn centerx="978" centery="1018" centerz="7" radius="1">
 		<npc name="Bank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="998" centery="1020" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="1020" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1006" centery="1020" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1008" centery="1020" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="982" centery="1030" centerz="7" radius="1">
 		<monster name="Horse" x="0" y="0" z="7" spawntime="60" />

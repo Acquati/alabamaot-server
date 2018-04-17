@@ -808,4 +808,7 @@
 	<monster name="Wild Fury Magic" file="Wild_Magics/wild_fury_magic.xml" />
 	<monster name="Wild Nature Magic" file="Wild_Magics/wild_nature_magic.xml" />
 	<monster name="Wild Water Magic" file="Wild_Magics/wild_water_magic.xml" />
+
+	<!-- Trainers -->
+	<monster name="Trainer" file="Trainers/trainer.xml"/>
 </monsters>
