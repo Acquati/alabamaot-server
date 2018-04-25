@@ -1,0 +1,25 @@
+Bio-Elementals
+
+Leaf Golem 90 45
+Swampling 80 45
+Spit Nettle 150 20
+slime 150 160
+Carniphila 255 150
+
+Wilting Leaf Golem 380 145
+Haunted Treeling 450 310
+Deathbine (Boss) 525 340
+
+Diseased Bill (Boss) 1000 300
+Diseased Dan (Boss) 800 300
+Diseased Fred (Boss) 1100 300
+Bog Raider 1300 800
+Tiquandas Revenge (Boss) 1800 2635
+Humongous Fungus 3400 2600
+Hideous Fungus 4600 2900
+Defiler 3650 3700
+
+The Plasmother (Boss) 7500 12000
+Son of Verminor 8500 5900
+The Abomination (Boss) 35050 25000
+
