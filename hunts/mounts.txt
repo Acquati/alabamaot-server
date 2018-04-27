@@ -1,0 +1,69 @@
+Mounts para Quests:
+Blazebringer 9
+Armoured War Horse 23
+Shadow Draptor 24
+Crimson Ray 33
+Steelbeak 34
+Tombstinger 36
+Platesaurian 37
+The Hellgrip 39
+Desert King 41
+Azudocus 44
+Carpacosaurus 45
+Death Crawler 46
+Flamesteed 47
+Jade Lion 48
+Jade Pincer 49
+Nethersteed 50
+Tempest 51
+Winter King 52
+Doombringer 53
+Woodland Prince 54
+Hailtorm Fury 55
+Siegebreaker 56
+Poisonbane 57
+Blackpelt 58
+Golden Dragonfly 59
+Steel Bee 60
+Copper Fly 61
+Tundra Rambler 62
+["Highland Yak"] = {price = , id = 63},
+["Glacier Vagabond"] = {price = , id = 64},
+["Flying Divan"] = {price = , id = 65},
+["Magic Carpet"] = {price = , id = 66},
+["Floating Kashmir"] = {price = , id = 67},
+["Ringtail Waccoon"] = {price = , id = 68},
+["Night Waccoon"] = {price = , id = 69},
+["Emerald Waccoon"] = {price = , id = 70},
+["Glooth Glider"] = {price = , id = 71},
+["Shadow Hart"] = {price = , id = 72},
+["Black Stag"] = {price = , id = 73},
+["Emperor Deer"] = {price = , id = 74},
+["Flitterkatzen"] = {price = , id = 75},
+["Venompaw"] = {price = , id = 76},
+["Batcat"] = {price = , id = 77},
+["Sea Devil"] = {price = , id = 78},
+["Coralripper"] = {price = , id = 79},
+["Plumfish"] = {price = , id = 80},
+["Gorongra"] = {price = , id = 81},
+["Noctungra"] = {price = , id = 82},
+["Silverneck"] = {price = , id = 83},
+["Slagsnare"] = {price = , id = 84},
+["Nightstinger"] = {price = , id = 85},
+["Razorcreep"] = {price = , id = 86},
+["Rift Runner"] = {price = , id = 87},
+["Nightdweller"] = {price = , id = 88},
+["Frostflare"] = {price = , id = 89},
+["Cinderhoof"] = {price = , id = 90},
+["Mouldpincer"] = {price = , id = 91},
+["Bloodcurl"] = {price = , id = 92},
+["Leafscuttler"] = {price = , id = 93},
+["Sparkion"] = {price = , id = 94},
+["Swamp Snapper"] = {price = , id = 95},
+["Mould Shell"] = {price = , id = 96},
+["Reed Lurker"] = {price = , id = 97},
+["Neon Sparkid"] = {price = , id = 98},
+["Vortexion"] = {price = , id = 99},
+["Ivory Fang"] = {price = , id = 100},
+["Shadow Claw"] = {price = , id = 101},
+["Snow Pelt"] = {price = , id = 102}
