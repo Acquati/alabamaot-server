@@ -468,4 +468,57 @@ questChests = {
     [4] = {type = "experience", amount = 300000},
   },
 },
+[35752] = { -- Carniphila
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 8}, -- platinum coin
+    [2] = {type = "mount", mountName = "Venompaw", mountId = 76},
+    [3] = {type = "experience", amount = 7500},
+  },
+},
+[35753] = { -- Bog Raider
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2152, count = 30}, -- platinum coin
+    [2] = {type = "item", item = 8891, count = 1},
+    [3] = {type = "experience", amount = 40000},
+  },
+},
+[35754] = { -- Hideous Fungus
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [2] = {type = "item", item = 7884, count = 1},
+    [3] = {type = "item", item = 7885, count = 1},
+    [4] = {type = "experience", amount = 145000},
+  },
+},
+[35755] = { -- Defiler
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [2] = {type = "item", item = 2154, count = 1},
+    [3] = {type = "item", item = 2155, count = 1},
+    [4] = {type = "item", item = 2156, count = 1},
+    [5] = {type = "item", item = 2158, count = 1},
+    [6] = {type = "experience", amount = 185000},
+  },
+},
+[35756] = { -- The Abomination
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 20}, -- crystal coin
+    [2] = {type = "mount", mountName = "Flamesteed", mountId = 47},
+    [3] = {type = "item", item = 2472, count = 1},
+  },
+},
+[35757] = { -- Spidris Elite
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [2] = {type = "mount", mountName = "Leafscuttler", mountId = 93},
+    [3] = {type = "item", item = 15491, count = 1},
+    [4] = {type = "experience", amount = 200000},
+  },
+},
 } -- THE END

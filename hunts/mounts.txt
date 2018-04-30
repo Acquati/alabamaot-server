@@ -11,7 +11,7 @@ Desert King 41
 Azudocus 44
 Carpacosaurus 45
 Death Crawler 46
-Flamesteed 47
+Flamesteed 47 -- The Abomination
 Jade Lion 48
 Jade Pincer 49
 Nethersteed 50
@@ -40,7 +40,7 @@ Tundra Rambler 62
 ["Black Stag"] = {price = , id = 73},
 ["Emperor Deer"] = {price = , id = 74},
 ["Flitterkatzen"] = {price = , id = 75},
-["Venompaw"] = {price = , id = 76},
+["Venompaw"] = {price = , id = 76}, -- Carniphila
 ["Batcat"] = {price = , id = 77},
 ["Sea Devil"] = {price = , id = 78},
 ["Coralripper"] = {price = , id = 79},
@@ -57,7 +57,7 @@ Tundra Rambler 62
 ["Cinderhoof"] = {price = , id = 90},
 ["Mouldpincer"] = {price = , id = 91},
 ["Bloodcurl"] = {price = , id = 92},
-["Leafscuttler"] = {price = , id = 93},
+["Leafscuttler"] = {price = , id = 93}, -- Spidris Elite
 ["Sparkion"] = {price = , id = 94},
 ["Swamp Snapper"] = {price = , id = 95},
 ["Mould Shell"] = {price = , id = 96},

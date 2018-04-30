@@ -23,3 +23,59 @@ The Plasmother (Boss) 7500 12000
 Son of Verminor 8500 5900
 The Abomination (Boss) 35050 25000
 
+<item name="small emerald" chance="1230" />
+<item name="swampling club" chance="4940" />
+<item name="dowser" chance="15230" />
+<item name="fir cone" chance="14350" />
+<item name="swampling moss" chance="12610" />
+<item name="piece of swampling wood" chance="8270" />
+<item name="sling herb" chance="362" />
+<item name="shadow herb" chance="10650" />
+<item name="nettle blossom" chance="833" />
+<item name="nettle spit" chance="10000" />
+<item name="carniphila seeds" chance="4166" />
+
+<item name="small sapphire" chance="585" />
+<item name="dwarven ring" chance="621" />
+<item name="orange mushroom" chance="1851" />
+<item name="bullseye potion" chance="80" />
+<item name="haunted piece of wood" chance="5000" />
+<item name="seeds" chance="50000" />
+<item name="terra boots" chance="50000" />
+<item name="terra amulet" chance="50000" />
+<item name="springsprout rod" chance="50000" />
+
+<item name="plate legs" chance="2000" />
+<item name="belted cape" chance="1000" />
+<item name="hibiscus dress" chance="300" />
+<item name="paladin armor" chance="200" />
+<item name="boggy dreads" chance="9870" />
+<item name="small diamond" countmax="3" chance="33333" />
+<item name="white piece of cloth" chance="10000" />
+<item name="red piece of cloth" chance="2941" />
+<item name="blue piece of cloth" chance="4545" />
+<item name="brown piece of cloth" chance="15285" />
+<item name="angelic axe" chance="1265" />
+<item name="terra mantle" chance="869" />
+<item name="terra legs" chance="1123" />
+<item name="mushroom backpack" chance="20" />
+<item name="muck rod" chance="680" />
+<item name="humongous chunk" chance="10000" />
+<item name="mycological bow" chance="150" />
+<item name="war hammer" chance="4010" />
+<item name="hideous chunk" chance="14285" />
+
+<item name="small ruby" countmax="2" chance="3000" />
+<item name="talon" chance="5710" />
+<item name="yellow gem" chance="1219" />
+<item name="green gem" chance="613" />
+<item name="red gem" chance="1538" />
+<item name="blue gem" chance="300" />
+<item name="soul orb" chance="20000" />
+<item id="6300" chance="3030" /><!-- death ring-->
+<item name="demonic essence" chance="20320" />
+<item name="glob of acid slime" chance="14210" />
+<item name="glob of tar" chance="12000" />
+
+<item name="black pearl" countmax="3" chance="5000" />
+<item name="the Plasmother's remains" chance="100000" />

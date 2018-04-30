@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="I Buy Bio-Elemental Loot" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="153" head="115" body="122" legs="90" feet="114" addons="3" />
+
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_sellable" value="
+			small emerald,2149,250;
+			swampling club,20104,40;
+			dowser,21427,35;
+			fir cone,21428,25;
+			swampling moss,20102,20;
+			piece of swampling wood,20103,30;
+			sling herb,2802,10;
+			shadow herb,2804,20;
+			nettle blossom,11231,75;
+			nettle spit,12432,25;
+			carniphila seeds,11217,75;
+			small sapphire,2146,250;
+			dwarven ring,2213,100;
+			orange mushroom,2790,150;
+			wood mushroom,2791,15;
+			bullseye potion,7443,500;
+			haunted piece of wood,10600,115;
+			seeds,7732,150;
+			terra boots,7886,2500;
+			terra amulet,7887,1500;
+			springsprout rod,8912,3600;
+			plate legs,2647,115;
+			belted cape,8872,500;
+			hibiscus dress,8873,3000;
+			paladin armor,8891,15000;
+			boggy dreads,10584,200;
+			small diamond,2145,300;
+			white piece of cloth,5909,100;
+			red piece of cloth,5911,300;
+			blue piece of cloth,5912,200;
+			brown piece of cloth,5913,100;
+			angelic axe,7436,5000;
+			terra mantle,7884,11000;
+			terra legs,7885,11000;
+			muck rod,18411,6000;
+			humongous chunk,18433,540;
+			mycological bow,18454,35000;
+			war hammer,2391,1200;
+			hideous chunk,18434,510;
+			small ruby,2147,250;
+			talon,2151,320;
+			yellow gem,2154,1000;
+			green gem,2155,5000;
+			red gem,2156,1000;
+			blue gem,2158,5000;
+			soul orb,5944,25;
+			death ring,6300,1000;
+			demonic essence,6500,1000;
+			glob of acid slime,9967,25;
+			glob of tar,9968,30;
+			black pearl,2144,280;
+			the Plasmother's remains,6535,50000
+		" />
+		<parameter key="shop_buyable" value="
+			meat,2666,3;
+			ham,2671,5;
+			dragon ham,2672,25
+		" />
+	</parameters>
+</npc>

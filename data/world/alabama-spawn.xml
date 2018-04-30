@@ -252,6 +252,9 @@
 	<spawn centerx="1010" centery="1794" centerz="4" radius="1">
 		<monster name="Defiler" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="1040" centery="1795" centerz="4" radius="1">
+		<monster name="Son of Verminor" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="1071" centery="1797" centerz="4" radius="1">
 		<monster name="Defiler" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -260,6 +263,9 @@
 	</spawn>
 	<spawn centerx="1009" centery="1804" centerz="4" radius="1">
 		<monster name="Defiler" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1027" centery="1807" centerz="4" radius="1">
+		<monster name="Son of Verminor" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="1048" centery="1807" centerz="4" radius="1">
 		<monster name="Son of Verminor" x="0" y="0" z="4" spawntime="60" />
@@ -998,9 +1004,6 @@
 	</spawn>
 	<spawn centerx="963" centery="988" centerz="7" radius="1">
 		<monster name="Crab" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="1047" centery="998" centerz="7" radius="1">
-		<monster name="Rabbit" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1016" centery="1000" centerz="7" radius="1">
 		<npc name="Melee Weapons" x="0" y="0" z="7" spawntime="60" />
@@ -2375,6 +2378,9 @@
 	</spawn>
 	<spawn centerx="1099" centery="1850" centerz="7" radius="1">
 		<monster name="Leaf Golem" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1029" centery="1853" centerz="7" radius="1">
+		<npc name="I Buy Bio-Elemental Loot" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1119" centery="886" centerz="8" radius="1">
 		<monster name="Dwarf Guard" x="0" y="0" z="8" spawntime="60" />
