@@ -20,11 +20,11 @@ function playerBuyAddonNPC(cid, message, keywords, parameters, node)
             npcHandler:resetNpc()
             return true
         end
-        if (getPlayerStorageValue(cid, parameters.storageID) ~= -1) then
-            npcHandler:say('You already have this addon!', cid)
-            npcHandler:resetNpc()
-            return true
-        end
+        -- if (getPlayerStorageValue(cid, parameters.storageID) ~= -1) then
+        --     npcHandler:say('You already have this addon!', cid)
+        --     npcHandler:resetNpc()
+        --     return true
+        -- end
         local itemsTable = parameters.items
         local items_list = ''
         if table.maxn(itemsTable) > 0 then
