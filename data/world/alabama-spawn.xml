@@ -1054,6 +1054,9 @@
 	<spawn centerx="1052" centery="1033" centerz="7" radius="1">
 		<npc name="Addon Seller" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1060" centery="1033" centerz="7" radius="1">
+		<npc name="Addon Item Seller" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1037" centery="1034" centerz="7" radius="1">
 		<npc name="Distance Weapons" x="0" y="0" z="7" spawntime="60" />
 	</spawn>

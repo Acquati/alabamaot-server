@@ -55,4 +55,5 @@
 	<house name="Alabama Flat #23" houseid="53" entryx="1008" entryy="1057" entryz="5" rent="2000" townid="1" size="22" />
 	<house name="Alabama Flat #24" houseid="54" entryx="1008" entryy="1062" entryz="5" rent="2000" townid="1" size="22" />
 	<house name="Alabama #3" houseid="55" entryx="1040" entryy="1004" entryz="7" rent="12600" townid="1" size="137" />
+	<house name="Addon #56" houseid="56" entryx="1062" entryy="1030" entryz="6" rent="0" townid="1" size="112" />
 </houses>
