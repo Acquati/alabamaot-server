@@ -1,8 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="Addon Item Seller" script="addon item seller.lua" walkinterval="2000" floorchange="0">
-    <health now="100" max="100"/>
+<npc name="Addon Item Seller" script="default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
     <look type="273" head="87" body="94" legs="79" feet="90" addons="3"/>
-        <parameters>
-        <parameter key="message_greet" value="Hello |PLAYERNAME|. I sell all addons itens, just ask for {trade}."/>
-    </parameters>
+
+	<parameters>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I sell all addons itens, just ask for {trade}."/>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="
+			minotaur leather,5878,80;
+			chicken feather,5890,400;
+			honeycomb,5902,1500;
+			legion helmet,2480,8000;
+			lizard leather,5876,110;
+			red dragon leather,5948,1500;
+			enchanted chicken wing,5891,30000;
+			piece of royal steel,5887,19000;
+			piece of draconian steel,5889,3000;
+			piece of hell steel,5888,1000;
+			sniper gloves,5875,8000;
+			magic sulphur,5904,7500;
+			ankh,2193,300;
+			soul stone,5809,250000;
+			Ferumbras' hat,5903,10000000;
+			iron ore,5880,500;
+			huge chunk of crude iron,5892,15000;
+			perfect behemoth fang,5893,4500;
+			damaged steel helmet,5924,500000;
+			flask of warrior's sweat,5885,10000;
+			bat wing,5894,200;
+			red piece of cloth,5911,250;
+			ape fur,5883,6000;
+			holy orchid,5922,10000;
+			spider silk,5879,10000;
+			lizard scale,5881,100;
+			red dragon scale,5882,300;
+			vampire dust,5905,1500;
+			hardened bone,5925,190;
+			turtle shell,5899,9000;
+			spirit container,5884,35000;
+			dragon claw,5919,170000;
+			green piece of cloth,5910,750;
+			bear paw,5896,2400;
+			wolf paw,5897,280;
+			demon dust,5906,1400;
+			coral comb,5945,20000;
+			fish fin,5895,150;
+			blue piece of cloth,5912,230;
+			eye patch,6098,6300;
+			peg leg,6126,8000;
+			hook,6097,4000;
+			Ron the Ripper's sabre,6101,400000;
+			Deadeye Devious' eye patch,6102,150000;
+			the Lethal Lissy's shirt,6100,500000;
+			Brutus Bloodbeard's hat,6099,700000;
+			bonelord eye,5898,9000;
+			brown piece of cloth,5913,90;
+			yellow piece of cloth,5914,100;
+			white piece of cloth,5909,750;
+			heaven blossom,5921,340;
+			flask of cough syrup,4839,1000;
+			hydra egg,4850,350;
+			banana staff,3966,25000;
+			pirate voodoo doll,5810,500;
+			voodoo doll,3955,200000;
+			mandrake,5015,4300;
+			shard,7290,1800;
+			demonic essence,6500,1000;
+			vampiric crest,9955,1000000;
+			old cape,12657,100000;
+			sedge hat,12656,30000
+		" />
+	</parameters>
 </npc>

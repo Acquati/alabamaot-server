@@ -1,8 +1,8 @@
 <outfit type="0" looktype="136" name="Citizen" premium="no" unlocked="yes" enabled="yes" /> ok
-100 Minotaur Leathers 80
+100 Minotaur Leather 80
 
-100 Chicken Feathers 400
-50 Honeycombs 1500
+100 Chicken Feather 400
+50 Honeycomb 1500
 1 Legion Helmet 8000
 <outfit type="0" looktype="137" name="Hunter" premium="no" unlocked="yes" enabled="yes" /> ok
 100 Lizard Leather 110 
@@ -10,21 +10,21 @@
 5 Enchanted Chicken Wing 30000
 1 Piece of Royal Steel 19000
 1 Piece of Draconian Steel 3000
-1 Piece of Hell Steel 500
+1 Piece of Hell Steel 1000
 
 1 Sniper Gloves 8000
 <outfit type="0" looktype="138" name="Mage" premium="no" unlocked="yes" enabled="yes" /> ok
 10 Magic Sulphur 7500
-20 Ankhs 300
+20 Ankh 300
 1 Soul Stone 250000
 
-1 Ferumbras' Hat 1000000
+1 Ferumbras' hat 10000000
 <outfit type="0" looktype="139" name="Knight" premium="no" unlocked="yes" enabled="yes" /> ok
 100 Iron Ore 500
 1 Huge Chunk of Crude Iron 15000
 
-100 Perfect Behemoth Fangs 4500
-1 Damaged Steel Helmet - Ramsay The Reckless lost Helmet 500000
+100 Perfect Behemoth Fang 4500
+1 Damaged Steel Helmet 500000
 4 Flask of Warrior's Sweat 10000
 1 Piece of Royal Steel
 <outfit type="1" looktype="132" name="Nobleman" premium="yes" unlocked="yes" enabled="yes" />
@@ -36,78 +36,78 @@
 20 Ankhs
 1 Soul Stone
 
-70 Bat Wings 200
+70 Bat Wing 200
 20 Red Piece of Cloth 250
 40 Ape Fur 6000
-35 Holy Orchids 10000
-100 Spider Silks 10000
-60 Lizard Scales 100
-40 Red Dragon Scales
+35 Holy Orchid 10000
+100 Spider Silk 10000
+60 Lizard Scale 100
+40 Red Dragon Scale 300
 15 Magic Sulphur
 30 Vampire Dust 1500
 <outfit type="1" looktype="134" name="Warrior" premium="yes" unlocked="yes" enabled="yes" />
-100 Hardened Bones 190
-100 Turtle Shells 9000
+100 Hardened Bone 190
+100 Turtle Shell 9000
 1 Spirit Container 35000
 1 Dragon Claw 170000
 
-100 Iron Ores
+100 Iron Ore
 1 Piece of Royal Steel
 <outfit type="0" looktype="147" name="Barbarian" premium="yes" unlocked="yes" enabled="yes" /> ok
 1 Spirit Container
-1 Warrior's Sweat
+1 Flask of Warrior's Sweat
 50 Red Piece of Cloth
 50 Green Piece of Cloth 750
-100 Spider Silks
+100 Spider Silk
 
 100 Iron Ore
 1 Huge Chunk of Crude Iron
 50 Perfect Behemoth Fang
 50 Lizard Leather
 <outfit type="0" looktype="148" name="Druid" premium="yes" unlocked="yes" enabled="yes" /> ok
-50 Bear Paws 2400
-50 Wolf Paws 280
+50 Bear Paw 2400
+50 Wolf Paw 280
 
-100 Demon Dusts 1400
+100 Demon Dust 1400
 <outfit type="1" looktype="145" name="Wizard" premium="yes" unlocked="yes" enabled="yes" /> ok
 1 Medusa Shield
 1 Dragon Scale Mail
 1 Crown Legs
 1 Ring of the Sky
 
-50 Holy Orchids 12000
+50 Holy Orchid 12000
 <outfit type="1" looktype="146" name="Oriental" premium="yes" unlocked="yes" enabled="yes" /> ok
 1 Coral Comb 20000
 
 100 Ape Fur
-100 Fish Fins 150
-2 Enchanted Chicken Wings
+100 Fish Fin 150
+2 Enchanted Chicken Wing
 100 Blue Piece of Cloth 230
 <outfit type="1" looktype="151" name="Pirate" premium="yes" unlocked="no" enabled="yes" /> ok
-100 Eye Patchs 6300
-100 Peg Legs 12000
-100 Hooks 4000
+100 Eye Patch 6300
+100 Peg Legs 8000
+100 Hook 4000
 
-1 Ron the Ripper's Sabre 400000
-1 Deadeye Devious' Eye Patch 150000
-1 The Lethal Lissy's Shirt 500000
+1 Ron the Ripper's sabre 400000
+1 Deadeye Devious' eye patch 150000
+1 the Lethal Lissy's shirt 500000
 1 Brutus Bloodbeard's Hat 700000
 <outfit type="1" looktype="152" name="Assassin" premium="yes" unlocked="no" enabled="yes" /> ok
-30 Bonelord Eyes 9000
-10 Red Dragon Scales
-30 Lizard Scales
-20 Fish Fins
+30 Bonelord Eye 9000
+10 Red Dragon Scale
+30 Lizard Scale
+20 Fish Fin
 20 Vampire Dust
 10 Demon Dust
 1 Flask of Warrior's Sweat
 
-50 Blue Piece of Cloths
-50 Green Piece of Cloths
-50 Red Piece of Cloths
-50 Brown Piece of Cloths 90
-50 Yellow Piece of Cloths 100
-50 White Piece of Cloths 750
-100 Spider Silks
+50 Blue Piece of Cloth
+50 Green Piece of Cloth
+50 Red Piece of Cloth
+50 Brown Piece of Cloth 90
+50 Yellow Piece of Cloth 100
+50 White Piece of Cloth 750
+100 Spider Silk
 <outfit type="1" looktype="153" name="Beggar" premium="yes" unlocked="no" enabled="yes" /> ok
 50 Minotaur Leathers
 30 Heaven Blossoms 340
@@ -122,7 +122,7 @@
 1 Banana Staff 25000
 
 1 Pirate Voodoo Doll 500
-1 Voodoo Doll 350000
+1 Voodoo Doll 200000
 1 Mandrake 4300
 <outfit type="1" looktype="251" name="Norseman" premium="yes" unlocked="no" enabled="yes" /> ok
 5 Shards 1800
@@ -146,16 +146,16 @@
 
 1000 Demonic Essences 1000									
 <outfit type="1" looktype="289" name="Demon Hunter" premium="yes" unlocked="no" enabled="yes" />
-<outfit type="1" looktype="325" name="Yalaharian" premium="yes" unlocked="no" enabled="yes" /> ver preço
+<outfit type="1" looktype="325" name="Yalaharian" premium="yes" unlocked="no" enabled="yes" /> ok
 1 Vampiric Crest 1000000
 
-1 Vampiric Crest 1000000																												
+1 Vampiric Crest 1000000
 <outfit type="1" looktype="328" name="Newly Wed" premium="no" unlocked="no" enabled="yes" />
 <outfit type="1" looktype="335" name="Warmaster" premium="yes" unlocked="no" enabled="yes" /> ok
 10 crystal coin
 
 25 crystal coin
-<outfit type="1" looktype="367" name="Wayfarer" premium="yes" unlocked="no" enabled="yes" /> retirar
+<outfit type="1" looktype="367" name="Wayfarer" premium="yes" unlocked="no" enabled="yes" /> ok
 1 old cape 100000
 
 1 Sedge Hat	30000																															
