@@ -12,15 +12,19 @@
     <flag convinceable="0"/>
     <flag pushable="0"/>
     <flag canpushitems="1"/>
-    <flag staticattack="50"/>
+    <flag canpushcreatures="0" />
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+    <flag canwalkonenergy="0" />
+    <flag canwalkonfire="0" />
+    <flag canwalkonpoison="0" />
     <flag lightlevel="0"/>
     <flag lightcolor="0"/>
-    <flag targetdistance="1"/>
-    <flag runonhealth="0"/>
   </flags>
   <attacks>
-    <attack name="melee" interval="1000" min="-1" max="-7"/>
-    <attack name="melee" interval="1000" min="30000" max="50000"/>
+    <attack name="melee" interval="1000" min="0" max="-30"/>
+    <!--<attack name="melee" interval="1000" min="30000" max="50000"/>-->
   </attacks>
   <defenses armor="0" defense="0">
     <defense name="healing" interval="10000" chance="60000" min="2300000" max="2400000"/>
@@ -36,7 +40,27 @@
     <immunity drunk="0"/>
     <immunity invisible="1"/>
   </immunities>
+  <voices interval="5000" chance="10">
+    <!--
+    <voice sentence="Qual é o porquê de tanta raiva?" />
+    <voice sentence="Por que você ta me batendo?" />
+    <voice sentence="Você não gosta de mim?" />
+    <voice sentence="Você sabe que nem arranha né?" />
+    <voice sentence="Eu não estou sentindo nada." />
+    <voice sentence="Me da um suco de laranja." />
+    <voice sentence="Vamo bate um papo vai..." />
+    -->
+    <voice sentence="Guarra" />
+    <voice sentence="Força" />
+    <voice sentence="Superação" />
+    <voice sentence="Resistência" />
+    <voice sentence="Bomba" />
+    <voice sentence="Framgo" />
+    <voice sentence="Batata Doce" />
+    <voice sentence="Whey Protein" />
+  </voices>
   <loot>
+    <!--
     <item id="2148" countmax="20" chance1="100000" chancemax="0"/>
     <item id="1949" chance="10000"/>
     <item id="2467" chance="10000"/>
@@ -49,5 +73,6 @@
         <item id="2166" chance="1428"/>
       </inside>
     </item>
+    -->
   </loot>
 </monster>

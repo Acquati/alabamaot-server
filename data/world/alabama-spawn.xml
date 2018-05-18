@@ -7279,7 +7279,6 @@
 		<monster name="Giant Spider" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="1075" centery="1255" centerz="11" radius="1">
-		<monster name="Giant Spider" x="0" y="-1" z="11" spawntime="0" />
 		<monster name="Giant Spider" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 </spawns>
