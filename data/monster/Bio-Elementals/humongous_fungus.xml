@@ -79,6 +79,6 @@
 		<item name="muck rod" chance="680" />
 		<item name="humongous chunk" chance="10000" />
 		<item name="drill bolt" countmax="15" chance="14285" />
-		<item name="mycological bow" chance="150" />
+		<item name="mycological bow" chance="869" />
 	</loot>
 </monster>
