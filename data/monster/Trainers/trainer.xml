@@ -24,7 +24,7 @@
   </flags>
   <attacks>
     <attack name="melee" interval="1000" min="0" max="-30"/>
-    <attack name="manadrain" interval="2000" chance="60000" range="1" min="10" max="50" />
+    <attack name="manadrain" interval="10000" chance="60000" range="1" min="10" max="30" />
     <!--<attack name="melee" interval="1000" min="30000" max="50000"/>-->
   </attacks>
   <defenses armor="0" defense="0">
