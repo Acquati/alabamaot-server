@@ -5898,6 +5898,339 @@
 	<spawn centerx="1029" centery="1195" centerz="8" radius="1">
 		<monster name="Tarantula" x="0" y="0" z="8" spawntime="35" />
 	</spawn>
+	<spawn centerx="1845" centery="1450" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1798" centery="1456" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1823" centery="1458" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1856" centery="1465" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1872" centery="1468" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1782" centery="1472" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1760" centery="1475" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1833" centery="1482" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1892" centery="1482" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1900" centery="1482" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1813" centery="1483" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1799" centery="1484" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1853" centery="1488" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1896" centery="1488" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1821" centery="1490" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1750" centery="1492" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1780" centery="1493" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1839" centery="1495" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1794" centery="1497" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1862" centery="1497" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1847" centery="1500" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1767" centery="1503" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1734" centery="1504" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1779" centery="1507" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1855" centery="1507" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1896" centery="1507" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1903" centery="1507" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1910" centery="1507" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1823" centery="1509" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1764" centery="1510" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1808" centery="1510" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1867" centery="1510" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1836" centery="1513" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1768" centery="1518" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1860" centery="1518" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1808" centery="1520" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1793" centery="1521" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1738" centery="1522" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1873" centery="1522" centerz="8" radius="1">
+		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1903" centery="1522" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1756" centery="1523" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1830" centery="1526" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1789" centery="1528" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1771" centery="1529" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1859" centery="1529" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1760" centery="1533" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1723" centery="1537" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1904" centery="1537" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1837" centery="1538" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1868" centery="1539" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1772" centery="1540" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1889" centery="1541" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1824" centery="1543" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1853" centery="1543" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1763" centery="1544" centerz="8" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1811" centery="1546" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1845" centery="1552" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1897" centery="1553" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1857" centery="1554" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1730" centery="1556" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1808" centery="1557" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1881" centery="1557" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1794" centery="1559" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1759" centery="1560" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1767" centery="1560" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1833" centery="1563" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1847" centery="1565" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1871" centery="1568" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1795" centery="1569" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1721" centery="1573" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1751" centery="1574" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1837" centery="1574" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1821" centery="1575" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1780" centery="1577" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1869" centery="1579" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1756" centery="1580" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1777" centery="1584" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1819" centery="1586" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1750" centery="1588" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1787" centery="1588" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1863" centery="1588" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1732" centery="1590" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1809" centery="1592" centerz="8" radius="1">
+		<monster name="Shaburak Demon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1848" centery="1593" centerz="8" radius="1">
+		<monster name="Deepling Elite" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1758" centery="1596" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1781" centery="1599" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1803" centery="1601" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1851" centery="1601" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1753" centery="1603" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1793" centery="1603" centerz="8" radius="1">
+		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1839" centery="1603" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1728" centery="1609" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1761" centery="1611" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1827" centery="1613" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1842" centery="1614" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1776" centery="1616" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1797" centery="1619" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1815" centery="1619" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1765" centery="1620" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1745" centery="1623" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1785" centery="1625" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1825" centery="1625" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1809" centery="1628" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1849" centery="1633" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1878" centery="1634" centerz="8" radius="1">
+		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1751" centery="1643" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1878" centery="1644" centerz="8" radius="1">
+		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1773" centery="1647" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1837" centery="1649" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1810" centery="1651" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1791" centery="1659" centerz="8" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1929" centery="1836" centerz="8" radius="1">
 		<monster name="Elder Wyrm" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
