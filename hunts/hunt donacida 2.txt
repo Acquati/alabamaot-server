@@ -1,0 +1,10 @@
+diamond servant 1000 700
+shaburak demon 1500 900
+gravedigger 1500 950
+shaburak lord 2100 1200
+deepling elite 3200 3000
+magma crawler 4800 2700
+yakchal 5750 4400
+dark torturer 7350 4650
+ghastly dragon 7800 4600
+cliff strider 9400 5700

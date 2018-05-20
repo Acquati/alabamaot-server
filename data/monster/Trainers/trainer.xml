@@ -23,9 +23,9 @@
     <flag lightcolor="0"/>
   </flags>
   <attacks>
-    <attack name="melee" interval="1000" min="0" max="-30"/>
-    <attack name="manadrain" interval="10000" chance="60000" range="1" min="10" max="30" />
-    <!--<attack name="melee" interval="1000" min="30000" max="50000"/>-->
+    <attack name="melee" interval="1000" min="-1" max="-20"/>
+    <attack name="manadrain" interval="10000" chance="60000" range="1" min="10" max="50" />
+    <attack name="melee" interval="1000" min="30000" max="50000"/>
   </attacks>
   <defenses armor="0" defense="0">
     <defense name="healing" interval="10000" chance="60000" min="2300000" max="2400000"/>
@@ -54,7 +54,7 @@
     <voice sentence="Guarra" />
     <voice sentence="Força" />
     <voice sentence="Superação" />
-    <voice sentence="Resistência" />
+    <voice sentence="Resistencia" />
     <voice sentence="Bomba" />
     <voice sentence="Frango" />
     <voice sentence="Batata Doce" />
