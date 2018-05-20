@@ -521,4 +521,42 @@ questChests = {
     [4] = {type = "experience", amount = 200000},
   },
 },
+[35758] = { -- Shaburak Lord
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 2}, -- crystal coin
+    [2] = {type = "mount", mountName = "Doombringer", mountId = 53},
+    [3] = {type = "item", item = 2645, count = 1},
+    [4] = {type = "item", item = 10221, count = 1},
+    [5] = {type = "experience", amount = 60000},
+  },
+},
+[35759] = { -- Yakchal
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 4}, -- crystal coin
+    [2] = {type = "mount", mountName = "Snow Pelt", mountId = 102},
+    [3] = {type = "item", item = 2195, count = 1},
+    [4] = {type = "item", item = 18409, count = 1},
+    [5] = {type = "item", item = 15453, count = 1},
+    [6] = {type = "experience", amount = 220000},
+    [7] = {type = "outfit", name = "Conjurer", femaleId = 635, maleId = 634},
+    [8] = {type = "addon", outfit = "Conjurer", addonNumber = 1, femaleId = 635, maleId = 634},
+    [9] = {type = "addon", outfit = "Conjurer", addonNumber = 2, femaleId = 635, maleId = 634},
+  },
+},
+[35760] = { -- Cliff Strider
+  minLevel = 8,
+  items = {
+    [1] = {type = "item", item = 2160, count = 10}, -- crystal coin
+    [2] = {type = "mount", mountName = "Silverneck", mountId = 83},
+    [3] = {type = "item", item = 18453, count = 1},
+    [4] = {type = "item", item = 7449, count = 1},
+    [5] = {type = "item", item = 18412, count = 1},
+    [6] = {type = "experience", amount = 570000},
+    [7] = {type = "outfit", name = "Chaos Acolyte", femaleId = 664, maleId = 665},
+    [8] = {type = "addon", outfit = "Chaos Acolyte", addonNumber = 1, femaleId = 664, maleId = 665},
+    [9] = {type = "addon", outfit = "Chaos Acolyte", addonNumber = 2, femaleId = 664, maleId = 665},
+  },
+},
 } -- THE END

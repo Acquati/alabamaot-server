@@ -2,9 +2,133 @@ diamond servant 1000 700
 shaburak demon 1500 900
 gravedigger 1500 950
 shaburak lord 2100 1200
+
 deepling elite 3200 3000
 magma crawler 4800 2700
 yakchal 5750 4400
+
 dark torturer 7350 4650
 ghastly dragon 7800 4600
 cliff strider 9400 5700
+
+<item name="yellow gem" chance="550" />
+<item name="might ring" chance="940" />
+<item name="life crystal" chance="9150" />
+<item name="wand of cosmic energy" chance="530" />
+<item name="soul orb" chance="45000" />
+<item name="bonebreaker" chance="10" />
+<item name="mastermind potion" chance="400" />
+<item name="lightning pendant" chance="710" />
+<item name="crystalline armor" chance="20" />
+<item name="gear wheel" chance="5000" />
+<item name="shockwave amulet" chance="110" />
+<item name="gear crystal" chance="5000" />
+<item name="slime mould" chance="480" />
+
+<item name="small ruby" countmax="5" chance="4761" />
+<item name="energy ring" chance="1052" />
+<item name="wand of inferno" chance="564" />
+<item name="magic sulphur" chance="81" />
+<item name="bullseye potion" chance="628" />
+<item name="magma legs" chance="155" />
+
+<item name="skull staff" chance="130" />
+<item name="mysterious voodoo skull" chance="100" />
+<item name="hardened bone" chance="50" />
+<item id="6300" chance="800" /><!-- death ring -->
+<item name="lump of dirt" chance="100" />
+<item name="unholy bone" chance="9570" />
+<item name="pile of grave earth" chance="6650" />
+<item name="safety pin" chance="6000" />
+
+<item name="steel boots" chance="160" />
+<item name="magma coat" chance="100" />
+
+<item name="small emerald" countmax="2" chance="6290" />
+<item name="life ring" chance="5360" />
+<item name="fish fin" chance="2000" />
+<item name="heavy trident" chance="3380" />
+<item name="eye of a deepling" chance="25000" />
+<item name="deepling warts" chance="25000" />
+<item name="deeptags" chance="21700" />
+<item name="warrior's axe" chance="640" />
+<item name="deepling ridge" chance="19000" />
+<item name="warrior's shield" chance="1234" />
+
+<item name="small diamond" countmax="3" chance="8800" />
+<item name="fire sword" chance="1680" />
+<item name="black shield" chance="1550" />
+<item name="iron ore" chance="4280" />
+<item name="white piece of cloth" chance="2310" />
+<item name="red piece of cloth" chance="930" />
+<item name="yellow piece of cloth" chance="2980" />
+<item name="magma amulet" chance="3120" />
+<item name="magma boots" chance="1820" />
+<item name="wand of draconia" chance="4280" />
+<item name="fiery heart" chance="7810" />
+<item id="13757" chance="1675" /><!-- coal -->
+<item name="wand of everblazing" chance="690" />
+<item name="blue crystal shard" countmax="2" chance="3930" />
+<item name="brown crystal splinter" countmax="2" chance="8500" />
+<item name="blue crystal splinter" countmax="2" chance="8500" />
+<item name="green crystal fragment" chance="7000" />
+<item name="magma clump" chance="11600" />
+<item name="blazing bone" countmax="1" chance="11500" />
+
+<item name="boots of haste" chance="2000" />
+<item name="dragon necklace" chance="3250" />
+<item name="crystal mace" chance="4000" />
+<item name="blue piece of cloth" chance="5000" />
+<item name="shard" chance="1000000" />
+<item name="queen's sceptre" chance="1500" />
+<item name="berserk potion" chance="1500" />
+<item name="crystal sword" chance="4000" />
+<item name="pair of earmuffs" chance="1000" />
+<item name="glacier kilt" chance="2650" />
+<item name="glacier robe" chance="3000" />
+<item name="gold ingot" chance="5000" />
+
+<item name="golden legs" chance="30" />
+<item name="orichalcum pearl" countmax="2" chance="2760" />
+<item name="cat's paw" chance="2222" />
+<item name="demonic essence" chance="8520" />
+<item name="vile axe" chance="480" />
+<item name="butcher's axe" chance="850" />
+
+<item name="terra legs" chance="3130" />
+<item name="terra boots" chance="9510" />
+<item name="shiny stone" chance="860" />
+<item name="guardian boots" chance="200" />
+<item name="Zaoan armor" chance="870" />
+<item name="Zaoan helmet" chance="150" />
+<item name="Zaoan shoes" chance="870" />
+<item name="Zaoan legs" chance="1400" />
+<item name="drakinata" chance="1470" />
+<item name="Zaoan sword" chance="100" />
+<item name="twin hooks" chance="15100" />
+<item name="Zaoan halberd" chance="15020" />
+<item name="spellweaver's robe" chance="690" />
+<item name="ghastly dragon head" chance="6650" />
+<item name="undead heart" chance="19830" />
+<item name="jade hat" chance="810" />
+
+<item name="white pearl" countmax="3" chance="9630" />
+<item name="black pearl" chance="9090" />
+<item name="red gem" chance="6110" />
+<item name="blue gem" chance="830" />
+<item name="giant sword" chance="620" />
+<item name="hammer of wrath" chance="70" />
+<item name="knight legs" chance="830" />
+<item name="crown armor" chance="310" />
+<item name="crusader helmet" chance="410" />
+<item name="sapphire hammer" chance="1350" />
+<item name="spiked squelcher" chance="1040" />
+<item name="crystal of balance" chance="2690" />
+<item name="crystal of power" chance="720" />
+<item name="wand of defiance" chance="2000" />
+<item name="glacial rod" chance="1240" />
+<item name="cyan crystal fragment" chance="8070" />
+<item name="pulverized ore" chance="15110" />
+<item name="cliff strider claw" chance="15630" />
+<item name="vein of ore" countmax="2" chance="18000" />
+<item name="crystal crossbow" chance="830" />

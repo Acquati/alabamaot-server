@@ -17,7 +17,7 @@ Jade Pincer 49
 Nethersteed 50
 Tempest 51
 Winter King 52
-Doombringer 53
+Doombringer 53 -- Shaburak Lord
 Woodland Prince 54
 Hailtorm Fury 55
 Siegebreaker 56
@@ -47,7 +47,7 @@ Tundra Rambler 62
 ["Plumfish"] = {price = , id = 80},
 ["Gorongra"] = {price = , id = 81},
 ["Noctungra"] = {price = , id = 82},
-["Silverneck"] = {price = , id = 83},
+["Silverneck"] = {price = , id = 83}, -- Cliff Strider
 ["Slagsnare"] = {price = , id = 84},
 ["Nightstinger"] = {price = , id = 85},
 ["Razorcreep"] = {price = , id = 86},
@@ -66,4 +66,4 @@ Tundra Rambler 62
 ["Vortexion"] = {price = , id = 99},
 ["Ivory Fang"] = {price = , id = 100},
 ["Shadow Claw"] = {price = , id = 101},
-["Snow Pelt"] = {price = , id = 102}
+["Snow Pelt"] = {price = , id = 102} -- Yakchal

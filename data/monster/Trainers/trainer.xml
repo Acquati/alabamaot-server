@@ -24,7 +24,7 @@
   </flags>
   <attacks>
     <attack name="melee" interval="1000" min="-1" max="-20"/>
-    <attack name="manadrain" interval="10000" chance="60000" range="1" min="10" max="50" />
+    <attack name="manadrain" interval="8000" chance="60000" range="1" min="20" max="60" />
     <attack name="melee" interval="1000" min="30000" max="50000"/>
   </attacks>
   <defenses armor="0" defense="0">
@@ -42,24 +42,20 @@
     <immunity invisible="1"/>
   </immunities>
   <voices interval="5000" chance="10">
-    <!--
-    <voice sentence="Qual é o porquê de tanta raiva?" />
-    <voice sentence="Por que você ta me batendo?" />
-    <voice sentence="Você não gosta de mim?" />
-    <voice sentence="Você sabe que nem arranha né?" />
-    <voice sentence="Eu não estou sentindo nada." />
+    <voice sentence="Por que voc\e^ ta me batendo?" />
+    <voice sentence="Voc\e^ n\a~o gosta de mim?" />
     <voice sentence="Me da um suco de laranja." />
-    <voice sentence="Vamo bate um papo vai..." />
-    -->
+    <voice sentence="Vamo bate um papo..." />
     <voice sentence="Guarra" />
-    <voice sentence="Força" />
-    <voice sentence="Superação" />
-    <voice sentence="Resistencia" />
+    <voice sentence="Hipertrofia" />
+    <voice sentence="Resist\e^ncia" />
     <voice sentence="Bomba" />
     <voice sentence="Frango" />
     <voice sentence="Batata Doce" />
     <voice sentence="Whey Protein" />
     <voice sentence="Torta" />
+    <voice sentence="For\ca" />
+    <voice sentence="Beibe beibe do beibe do biruleibe leibe?" />
   </voices>
   <loot>
     <!--
