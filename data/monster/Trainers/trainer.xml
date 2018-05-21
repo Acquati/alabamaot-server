@@ -42,19 +42,19 @@
     <immunity invisible="1"/>
   </immunities>
   <voices interval="5000" chance="10">
-    <voice sentence="Por que voc\e^ ta me batendo?" />
-    <voice sentence="Voc\e^ n\a~o gosta de mim?" />
+    <voice sentence="Por que voce ta me batendo?" />
+    <voice sentence="Voce nao gosta de mim?" />
     <voice sentence="Me da um suco de laranja." />
     <voice sentence="Vamo bate um papo..." />
     <voice sentence="Guarra" />
     <voice sentence="Hipertrofia" />
-    <voice sentence="Resist\e^ncia" />
+    <voice sentence="Resistencia" />
     <voice sentence="Bomba" />
     <voice sentence="Frango" />
     <voice sentence="Batata Doce" />
     <voice sentence="Whey Protein" />
     <voice sentence="Torta" />
-    <voice sentence="For\ca" />
+    <voice sentence="Vuvuzela" />
     <voice sentence="Beibe beibe do beibe do biruleibe leibe?" />
   </voices>
   <loot>
