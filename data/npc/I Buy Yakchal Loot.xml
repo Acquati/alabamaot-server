@@ -117,7 +117,27 @@
 			pulverized ore,18427,400;
 			cliff strider claw,18428,800;
 			vein of ore,18429,330;
-			crystal crossbow,18453,35000
+			crystal crossbow,18453,35000;
+			small sapphire,2146,250;
+			ice rapier,2396,1000;
+			strange helmet,2479,500;
+			ice cube,7441,250;
+			glacier mask,7902,2500;
+			frosty heart,10578,280;
+			crystal ring,2124,250;
+			crystal necklace,2125,400;
+			time ring,2169,100;
+			platinum amulet,2171,2500;
+			steel helmet,2457,293;
+			plate armor,2463,400;
+			knight armor,2476,5000;
+			spider silk,5879,100;
+			gemmed book,1976,100;
+			golden mug,2033,250;
+			dragon scale mail,2492,40000;
+			royal helmet,2498,30000;
+			tower shield,2528,8000;
+			dragon slayer,7402,15000
 		" />
 		<parameter key="shop_buyable" value="
 			meat,2666,3;

@@ -5919,38 +5919,47 @@
 	<spawn centerx="1785" centery="1461" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1870" centery="1463" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1799" centery="1464" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1859" centery="1464" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1872" centery="1465" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1876" centery="1470" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1765" centery="1471" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1891" centery="1472" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1911" centery="1472" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1780" centery="1473" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1873" centery="1473" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1881" centery="1474" centerz="8" radius="1">
+		<monster name="Ice Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1881" centery="1475" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1919" centery="1474" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1872" centery="1475" centerz="8" radius="1">
+		<monster name="Crystal Spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1891" centery="1475" centerz="8" radius="1">
+		<monster name="Crystal Spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1907" centery="1476" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1768" centery="1478" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1823" centery="1479" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1918" centery="1480" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1806" centery="1482" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
@@ -5961,11 +5970,11 @@
 	<spawn centerx="1900" centery="1483" centerz="8" radius="1">
 		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1919" centery="1483" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1797" centery="1484" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1881" centery="1484" centerz="8" radius="1">
+		<monster name="Crystal Spider" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1843" centery="1486" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
@@ -5979,17 +5988,20 @@
 	<spawn centerx="1815" centery="1488" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1923" centery="1488" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1830" centery="1489" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1895" centery="1489" centerz="8" radius="1">
+	<spawn centerx="1895" centery="1490" centerz="8" radius="1">
 		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1912" centery="1490" centerz="8" radius="1">
+		<monster name="Ice Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1808" centery="1492" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1881" centery="1492" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1801" centery="1493" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
@@ -5997,38 +6009,38 @@
 	<spawn centerx="1790" centery="1494" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1908" centery="1494" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="1738" centery="1496" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1777" centery="1496" centerz="8" radius="1">
 		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1897" centery="1498" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1884" centery="1496" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1920" centery="1498" centerz="8" radius="1">
+	<spawn centerx="1920" centery="1497" centerz="8" radius="1">
 		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1849" centery="1499" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1909" centery="1499" centerz="8" radius="1">
+		<monster name="Crystal Spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1792" centery="1500" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1899" centery="1500" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1862" centery="1503" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1889" centery="1503" centerz="8" radius="1">
+		<monster name="Crystal Spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1825" centery="1505" centerz="8" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1893" centery="1506" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1907" centery="1507" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1774" centery="1509" centerz="8" radius="1">
 		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
@@ -6036,8 +6048,14 @@
 	<spawn centerx="1810" centery="1509" centerz="8" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="1923" centery="1509" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="1897" centery="1509" centerz="8" radius="1">
+		<monster name="Ice Golem" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1910" centery="1509" centerz="8" radius="1">
+		<monster name="Ice Golem" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1922" centery="1510" centerz="8" radius="1">
+		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1740" centery="1511" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -6054,11 +6072,14 @@
 	<spawn centerx="1860" centery="1514" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1902" centery="1514" centerz="8" radius="1">
+		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1915" centery="1515" centerz="8" radius="1">
+		<monster name="Crystal Spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1871" centery="1517" centerz="8" radius="1">
 		<monster name="Gravedigger" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="1903" centery="1517" centerz="8" radius="1">
-		<monster name="Yakchal" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1839" centery="1518" centerz="8" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
@@ -6071,6 +6092,9 @@
 	</spawn>
 	<spawn centerx="1797" centery="1521" centerz="8" radius="1">
 		<monster name="Diamond Servant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1903" centery="1521" centerz="8" radius="1">
+		<monster name="Ice Golem" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="1766" centery="1524" centerz="8" radius="1">
 		<monster name="Shaburak Lord" x="0" y="0" z="8" spawntime="60" />
