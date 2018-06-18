@@ -18,7 +18,7 @@ conectar na máquina aws:
 ssh -i ~/.ssh/otserver.pem ubuntu@54.203.180.190
 
 tranferir arquivo ec2:
-scp -i ~/.ssh/otserver.pem -r ubuntu@54.203.180.190 ~/Documents/otserver/teste-site
+scp -i ~/.ssh/otserver.pem -r ubuntu@54.203.180.190:/home/ubuntu/alabamaot-site ~/Documents/otserver/teste-site
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
