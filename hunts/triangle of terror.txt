@@ -1,0 +1,51 @@
+0
+Cobra 30 65
+Skeleton 35 50
+Scorpion 45 45
+
+1
+Novice of the Cult 100 285
+ghost 120 150
+Fire Devil 145 200
+Gargoyle 150 250
+
+2
+Blood Crab 160 290
+Stone Golem 160 270
+Crypt Shambler 195 330
+Fire Elemental 220 280
+
+3
+Ice Golem 295 385
+Elder Bonelord 280 500
+Enlightened of the Cult 500 700
+
+4
+Necromancer 580 580
+Crystal Spider 900 1250
+Hero 1200 1400
+
+5
+Dragon Lord 2100 1900
+Nightmare 2150 2700
+Destroyer 2500 3700
+Behemoth 2500 4000
+
+6
+Serpent Spawn 3050 3000
+Lost Soul 4000 5800
+Plaguesmith 4500 8250
+Demon 6000 8200
+
+7
+Retching Horror 3900 5300
+Choking Fear  4700 5800
+Terrorsleep 5900 7200
+Juggernaut 14000 20000
+
+Boss
+Morgaroth 15000 55000
+Ghazbaran 15000 60000
+Zoralurk 30000 55000
+
+
