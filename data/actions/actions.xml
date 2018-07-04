@@ -24,7 +24,6 @@
 
 	<!-- Tools -->
 	<action itemid="2420" script="tools/machete.lua" />
-	<action itemid="2442" script="tools/machete.lua" />
 	<action itemid="2405" script="tools/machete.lua" />
 	<action itemid="2550" script="tools/scythe.lua" />
 	<action itemid="2580" script="tools/fishing.lua" allowfaruse="1" />
