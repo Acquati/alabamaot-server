@@ -48,4 +48,14 @@ Ghazbaran 15000 60000
 Morgaroth 15000 55000
 Zoralurk 30000 55000
 
+Poções adicionadas no NPC:
+Ultimate Mana Potion lvl 130
+Ultimate Spirit Potion lvl 130
+Supreme Health Potion lvl 200
 
+Ferramentas funcionando:
+Canivetes Sneaky Stabber of Eliteness, Whacking Driller of Fate e Squeezing Gear of Girlpower.
+Shovel, Light Shovel e Spirit Shovel.
+Rope e Elvenhair Rope.
+Machete e Heavy Machete.
+Fishing Rod.
